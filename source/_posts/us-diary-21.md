@@ -53,7 +53,8 @@ date: 2013-08-25 00:19:27
 （この写真で登っているのは同僚のトラビス）
 
 GoProで動画を撮影してもらいました。
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dg2-54YwITo" frameborder="0" allowfullscreen></iframe>
+
+{% youtube dg2-54YwITo %}
 
 クラックの間に手を挟めて途中まで登った後は、掴める場所が少なくなるので、難易度が上がります。つま先で小さな突起に乗ったり、手のひらでバランスをとったりして、何とか上に上がっていきました。
 
