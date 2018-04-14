@@ -86,3 +86,8 @@ deploy:
 sitemap:
  path: sitemap.xml
 
+# 関連記事
+popularPosts:
+  morphologicalAnalysis:
+  cache:                                                # (オプション) キャッシュの使用。デフォルトは非使用
+    path: hexo-popular-related-posts-cached.json        # (オプション) キャッシュファイルの保存先(相対パス)

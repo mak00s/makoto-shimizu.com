@@ -35,6 +35,7 @@
         <footer class="article-footer">
             <%- partial('share/index', { post: post }) %>
             <%- partial('comment/counter', { post: post }) %>
+            <%- popular_posts( {} , post ) %>
         </footer>
     </div>
     <% if (!index) { %>
