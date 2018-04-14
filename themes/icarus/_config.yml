@@ -17,17 +17,17 @@ customize:
         avatar: css/images/avatar.png
         gravatar: # Gravatar email address, if you enable Gravatar, your avatar config will be overriden
         author: Makoto Shimizu
-        author_title: Web Developer & Designer
+        author_title: Analytics Expert
         location: Tokyo, Japan
-        follow: https://github.com/ppoffice/
+        follow: https://www.facebook.com/makoto.shimizu1
     highlight: monokai
     sidebar: right # sidebar position, options: left, right or leave it empty
     thumbnail: true # enable posts thumbnail, options: true, false
     favicon: # path to favicon
     social_links:
-        github: http://github.com/ppoffice/hexo-theme-icarus
-        twitter: /
-        facebook: /
+#        github: http://github.com/mak00s
+        twitter: https://twitter.com/mak00s
+        facebook: https://www.facebook.com/makoto.shimizu1
 #        dribbble: 
 #        rss: 
     social_link_tooltip: true # enable the social link tooltip, options: true, false
