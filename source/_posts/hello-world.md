@@ -1,7 +1,10 @@
 ---
 title: テスト
+toc: true
 ---
 [Hexo](https://hexo.io/)でサイトを立ち上げました。これはテスト用の投稿。[Document](https://hexo.io/docs/)を参考にカスタマイズを進めています。
+
+<!-- more -->
 
 ## Quick Start
 
