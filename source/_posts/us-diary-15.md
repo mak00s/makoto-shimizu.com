@@ -1,6 +1,12 @@
 ---
 title: US日記15. 1月のユタを襲う逆転層と雨氷
 date: 2013-02-11 14:20:05
+permalink: us-diary-20130210
+banner: //res.cloudinary.com/mak00s/image/upload/v1523779192/20130211-Utah-Inversion.jpg.jpg
+categories:
+- アメリカ勤務
+tags:
+- Utah
 ---
 1月のユタを初めて経験しました。
 
@@ -8,12 +14,9 @@ date: 2013-02-11 14:20:05
 まず驚いたのが、**逆転層**（<a href="http://ja.wikipedia.org/wiki/%E9%80%86%E8%BB%A2%E5%B1%A4">Wikipediaの説明</a>）という気象現象。
 ユタ（のワサッチフロント）は四方を山に囲まれているので、寒い空気が閉じ込められて停滞した状態の上側に暖かい高気圧が来ることがあります。通常は高度が上がるほど気温が下がりますが、逆に**上に行くほど温度が上がる**ので、逆転層 (Inversion) と呼ばれます。
 
-<img src="http://files.cms-ia.info/200000247-1a3031d7fd/inversion_diagram.jpg" alt="" width="450" height="345" />
-（<a href="http://www.cleanair.utah.gov/winter/inversions.htm">Utah.govより引用</a>）
-
 スキー場に行ったところ、確かに霧が晴れて空が青くなり、気温が4度ほど高くなりました。10度近く上がることもあるそうです。
 
-<img src="http://files.cms-ia.info/200000248-2570a266a7/sky.png" alt="" width="440" height="295" />
+<img src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1523779600/20130211-inversion-contrast.png" alt="山の上とダウンタウン" sizes="100vw" />
 
 ## 風が来ないと冬スモッグが発生
 逆転層によって空気がフタをされた状態になると、車や工場から排出される微粒子が閉じ込められます。
@@ -41,28 +44,28 @@ Carpoolして通勤すると、手当や駐車場の優先スペースなど、�
 ところが、地表付近の空気が氷点下なので雫が冷やされ、0度を超えても凍らない超冷却状態のまま着地と同時に凍るという現象です。地面、車、建物、植物などの表面が氷の層に覆われます。
 この氷の層は雪と違って透明なので判別しにくく、道路は特に危険です。
 
-<a href="http://fox13now.com/2013/01/24/viewer-photos-freezing-rain-and-ice/"><img src="http://files.cms-ia.info/200000253-4fae150a80/freezing-rain.png" alt="" width="600" height="164" /></a>
+<a href="http://fox13now.com/2013/01/24/viewer-photos-freezing-rain-and-ice/"><img src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1523779889/20130210-Freezing-Rain.png" alt="凍った車と衝突事故" sizes="100vw" /></a>
 
-**写真**：<a href="http://www.deseretnews.com/article/865571361/Freezing-rain-causes-icy-roads-dicey-commute-Thursday.html?pg=all">Deseret Newsの解説記事</a>、<a href="http://fox13now.com/2013/01/24/viewer-photos-freezing-rain-and-ice/">Fox 13のニュース記事</a>、
+**写真**：<a href="http://www.deseretnews.com/article/865571361/Freezing-rain-causes-icy-roads-dicey-commute-Thursday.html?pg=all">Deseret Newsの解説記事</a>・<a href="http://fox13now.com/2013/01/24/viewer-photos-freezing-rain-and-ice/">Fox 13のニュース記事</a>
 
 ## 除雪は大人のマナー
 USでは一般的なガレージは、雪が降る冬に重宝します。車が大きいので最初はドライブウェイ（道路からガレージまでの道）に置いておいたところ...
 
-<img src="http://files.cms-ia.info/200000249-9c36e9d30f/driveway.png" alt="" width="600" height="450" />
+<img src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1515899626/20130108-Draper-Driveway.jpg" alt="敷地内のドライブウェイ" sizes="100vw" />
 
 車が雪で覆われてしまいました。
 
-<img src="http://files.cms-ia.info/200000250-8c4038d3ab/car-snow.png" alt="" width="600" height="450" />
+<img src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1515899627/20130130-Ford-covered-with-snow.jpg" alt="雪で覆われた車" sizes="100vw" />
 
 朝に車の掃除をするのが大変なので、注意深くガレージに入れてみました。ドアミラーをたためば何とか入ります。
 
-<img src="http://files.cms-ia.info/200000251-1e88d1f82e/car-garage.png" alt="" width="600" height="450" />
+<img src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1515899627/20130130-Ford-in-Garage.jpg" alt="積雪を避けてガレージへ" sizes="100vw" />
 
 朝には雪が溶けて、洗車したようにきれいになってました。
 
 ところが、今度はドライブウェイが雪だらけに...。
 
-<img src="http://files.cms-ia.info/200000252-bc46cbd40d/driveway-snow.png" alt="" width="600" height="450" />
+<img src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1515899749/20130211-Draper-Driveway.jpg" alt="ドライブウェイが雪だらけに..." sizes="100vw" />
 
 ちりとりで奮闘していたところ、隣の人がスコップを貸してくれました。
 踏み固められる前に除雪すれば楽で、かつ昼に日光で溶けるようになるんだとか。

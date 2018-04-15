@@ -1,6 +1,7 @@
 ---
 title: US日記07. ターゲティングが歓迎されるUS事情
 date: 2011-12-05 04:37:55
+permalink: us-diary-20111205
 categories:
 - アメリカ勤務
 tags:

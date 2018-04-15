@@ -1,6 +1,12 @@
 ---
 title: US日記14. サマータイムではない
 date: 2012-04-23 06:00:42
+permalink: us-diary-20120421
+banner: //res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1509664418/customize_06_yo7qvt.jpg
+categories:
+- アメリカ勤務
+tags:
+-
 ---
 日本では馴染みのないこの制度。USの場合は時計を一時間分進めるので、本来は11時なのにお昼になります。太陽が真上にくる頃は13時。朝は暗く、夜は遅くまで明るい状態になります。明るいうちに仕事を終えて、明るいうちに余暇を楽しむのが目的だとか。
 

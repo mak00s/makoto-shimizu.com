@@ -2,14 +2,13 @@
 title: US日記04. 到着後の準備
 date: 2011-09-26 07:55:39
 permalink: us-diary-20110918
+banner: //res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1509983977/2011-09-27-Nissan-Versa_anmmvy.jpg
 categories:
 - アメリカ勤務
 tags:
 - Utah
 ---
 2011年9月17日にソルトレイクシティ空港（SLC）に到着し、歩いて行ける空港内のHertzで車をレンタル。車種は日産のティーダ（USではVersaという名前）でした。
-
-<img alt="空港で借りた車" sizes="100vw" src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1509983977/2011-09-27-Nissan-Versa_anmmvy.jpg" />
 
 約50分間、ひたすら南下。地図では近く見えても、品川～つくば市と同じくらいの距離があります。
 

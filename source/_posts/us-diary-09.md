@@ -1,6 +1,8 @@
 ---
 title: US日記09. 第二期スタート
 date: 2012-01-30 09:15:46
+permalink: us-diary-20120130
+banner: //res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1510986096/2012-us-japan.png
 categories:
 - アメリカ勤務
 tags:

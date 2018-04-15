@@ -1,6 +1,8 @@
 ---
 title: US日記06. いよいよ始動!
 date: 2011-10-02 15:38:39
+permalink: us-diary-20111002
+banner: //res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1511186196/2011-09-20-Cubicle-from-Top.jpg
 categories:
 - アメリカ勤務
 tags:

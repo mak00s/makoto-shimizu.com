@@ -1,6 +1,11 @@
 ---
 title: US日記16. マルチチャネルでコンバート：USのセール事情
 date: 2013-02-20 16:40:33
+permalink: us-diary-20130220
+categories:
+- アメリカ勤務
+tags:
+- Utah
 ---
 昨日2/18（月）はUSではPresident's Dayだったので、３連休でした。
 あちこちでお得なセールを実施していたので、デジタルマーケティングの体験を兼ねていろいろ買ってみました（単なる衝動買い？w）。
@@ -25,14 +30,14 @@ REIのような大手のチェーンではなく、<a href="http://www.2ndtracks
 連休が明けた今日2/19（火）のこと。ランチ中にFacebookを見たところ、Patagoniaのアウトレット店のセールが今日で終わる、というポストを見かけました。
 
 ### 1. まずFacebookのポスト
-<img src="http://files.cms-ia.info/200000256-e8553e94f1/sale-president-patagonia-facebook.png" alt="" width="593" height="151" />
+<img src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:593/v1515900576/20130220-Facebook-post.png" alt="Patagoniaソルトレイクシティ店のFacebook投稿" sizes="100vw" />
 
 『今日までだよ」というあっさりとしたメッセージです。リンクもありません。
 
 ### 2. 次にニュースレター（メール）
 「セールあったんだ」「お知らせメール来てたかな」と思っていたところ、13:02にお知らせメールが届きました。
 
-<img src="http://files.cms-ia.info/200000257-a3781a4721/sale-president-patagonia-email.png" alt="" width="710" height="552" />
+<img src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:710/v1515900576/20130220-Patagonia-Email.png" alt="PatagoniaからのターゲティングEmail" sizes="100vw" />
 
 このメールは近所の店舗に特化していなく、オンラインSHOPで最大60% OFF、としか書いていませんが、Facebookで店舗でもセールがあると知っていたので、背中を押され、お店に行ってみようと思うようになりました。
 
@@ -46,7 +51,7 @@ REIのような大手のチェーンではなく、<a href="http://www.2ndtracks
 - メンズ・キャプリーン１・シルクウェイト・グラフィック・クルー　$11.40（定価$59、日本では定価6,930円）
 - メンズ・キャプリーン1・シルクウェイト・ストレッチ・Tシャツ　$16.50（定価$39、日本では定価3,990円）
 
-<img src="http://files.cms-ia.info/200000260-13b1414ab3/sale-president-patagonia-bought.png" alt="" width="511" height="170" />
+<img src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1515900305/20130220-Patagonia-Sale.png" alt="Patagoniaで買ったもの" sizes="100vw" />
 
 大きなお店にある全部の商品が40%引きです。
 元々アウトレットで安いので、定価と比べると３分の１、４分の１、と半端無く安いです。こういう安売りを「Sale」と呼ぶんですね。
@@ -54,7 +59,7 @@ REIのような大手のチェーンではなく、<a href="http://www.2ndtracks
 ### 4. Webで検索
 アパートに戻ってから商品を広げ、検索してレビューや定価を調べていたところ、Googleの検索結果がこんなことに：
 
-<img src="http://files.cms-ia.info/200000258-c5dd1c6d6e/google-ppc-newsletter.png" alt="" width="757" height="420" />
+<img src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:757/v1515900574/20130220-AdWords-form-embeded.png" alt="Google検索結果から直接Email購読" sizes="100vw" />
 
 PPC広告部分にニュースレターの購読用フォームが表示されています。
 白い入力欄と濃い色のボタンがかなり目立ってます。上の図ではxxxに修正してますが、自分のGmailアドレスが最初から記入されているので、１クリックで購読完了です。
@@ -62,7 +67,7 @@ PPC広告部分にニュースレターの購読用フォームが表示され�
 ### 5. ニュースレター購読
 実際に購読ボタンをクリックしてみたところ：
 
-<img src="http://files.cms-ia.info/200000259-64c0165b9f/google-ppc-newsletter-subscribed.png" alt="" width="450" height="171" />
+<img src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:450/v1515901368/20130220-AdWords-subscribed.png" alt="Google検索結果でEmail購読完了！" sizes="100vw" />
 
 メールアドレス入力欄が消え、画面が変わること無く「登録が完了しました」と（英語で）表示されました。
 
