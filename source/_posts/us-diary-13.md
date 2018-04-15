@@ -12,6 +12,8 @@ tags:
 
 メーカーやモデルによっていろいろな種類がありますが、ユタのAdobeで使われているのはSteelcase製ので、くの字型のデスク、引き出し、棚、棚の下にライト、そして後ろ側には大きな個人用ホワイトボードがついています。
 
+<!-- more -->
+
 <img src="//res.cloudinary.com/mak00s/image/upload/v1511186378/2012-cubicle_i7jizf.png" alt="Cubicle" width="400" height="343" />
 
 サイズは大きく、８ｘ８インチもあります。といっても大きさが分かりにくいので、比較してみました。

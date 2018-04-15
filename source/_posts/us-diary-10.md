@@ -12,6 +12,8 @@ tags:
 
 Hertzで車を借りた時にくれた除雪用のスクレイパーではがしてみたところ。けっこう堅く、幅が狭いので時間がかかります。
 
+<!-- more -->
+
 <img sizes="100vw" src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1510986864/2012-02-19-car-snow-removal.jpg" alt="結構力が必要です" />
 
 疲れるし、ガラスが傷つきそうなので、柔らかくて広いブラシの方を使ってみました。
@@ -22,7 +24,7 @@ Hertzで車を借りた時にくれた除雪用のスクレイパーではがし
 
 ブラシ、スクレイパーの2段階が効率良さそう。
 
-# 道路は問題なし
+## 道路は問題なし
 道路は除雪材を撒いたり除雪車が除雪してくれるので、走行には問題ありません。
 
 <img sizes="100vw" src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1510987693/2012-02-12-snow-plow.jpg" alt="除雪車が行ったり来たり" />

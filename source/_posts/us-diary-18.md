@@ -12,6 +12,8 @@ tags:
 
 最近のお気に入りは図書館（Vancouver Public Library）。9階建てで蔵書280万冊、デスクには電源、無線LANもあり、夜9時まで開いているという充実っぷり。ダウンタウンなので近くにカフェやレストランも多く、便利です。
 
+<!-- more -->
+
 <img src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1515903782/Caprica_%20movie.png" alt="SFドラマ「Battlestar Galactica」のシーン" sizes="100vw" />
 
 コロシアム風のユニークな外観のため、よく映画やドラマの撮影が行われています。この写真はSFドラマ「Battlestar Galactica」のシーン。

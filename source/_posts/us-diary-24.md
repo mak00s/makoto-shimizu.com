@@ -17,6 +17,7 @@ tags:
 日本のように中古車に特化したサイトよりも、汎用的な売ります買います（Classified）サイトである「Craigslist」で中古車を売り買いするのが一般的です。
 ユタ州は特殊で、NBS系列の「KSL」というローカルテレビ局のサイトのClassifiedコーナーの方が充実しています。
 
+<!-- more -->
 <img alt="craigslistとKSL" sizes="100vw" src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1514900123/2014-08-18-craigslist-and-ksl_bj06ea.png" />
 
 両方のサイトをチェックして、良さそうな車を絞り込みました。

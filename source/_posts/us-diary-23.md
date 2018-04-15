@@ -12,6 +12,7 @@ tags:
 ## 便利だけど高いサービスアパート
 サービスアパート (Serviced Apartment) とは、家具付き、光熱費込み、敷金や礼金なしのアパートのことです。
 英語では Corporate Housing という名称の方が一般的ですね。
+<!-- more -->
 詳細はWikipediaをどうぞ（[日本語](https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%82%A2%E3%83%91%E3%83%BC%E3%83%88%E3%83%A1%E3%83%B3%E3%83%88) ・ [英語](https://en.wikipedia.org/wiki/Serviced_apartment)）
 
 ホテルよりも広くて安く、洗濯機や冷蔵庫、キッチン、インターネット、ケーブルテレビ、掃除機などが揃っているので快適です。

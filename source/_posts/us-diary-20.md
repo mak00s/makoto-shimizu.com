@@ -12,13 +12,15 @@ tags:
 短期の旅行ではないので、スーツケース一つでは済みません。
 たまにしか使わないモノや服、趣味の楽器なども持っていきます。調理器具、キャンプ用品、マウンテンバイク、スキー、登山用品など現地で買ったものも合わせると、段ボール10個分くらいの荷物になります。
 
+<!-- more -->
+
 国を移動する時はアパートを一度引き払うので、その間の保管場所として最初は会社のデスクに置いていたのですが、
 
 <img src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1515837369/20130822-cubicle.png" alt="不在時は私物を会社の席へ" sizes="100vw" />
 
 もう収まりきらなくなったので、レンタルストレージ（日本でいうトランクルーム＝貸し倉庫）を利用することにしました。
 
-# 普及しているトランクルーム
+## 普及しているトランクルーム
 調べたところ、あちこちにあります。
 
 <img src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:435/v1523784889/Rental-Storage-in-SLC.png" alt="ソルトレイクシティには倉庫がたくさん" sizes="100vw" />
@@ -29,14 +31,14 @@ tags:
 **※どんなものを預けるのかについては、[Storage Wars](http://www.aetv.com/storage-wars/)というテレビ番組が参考になります。
 放棄された倉庫のオークションでお宝をGETするという番組です。**
 
-# 広くて安いキングアーサー
+## 広くて安いキングアーサー
 私が契約したのは、アパートと会社に近い[King Arthur Self Storage](http://www.storagekingarthur.com/draper-storage/)。
 
 <img src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1523784892/King-Arthur-Storage-in-Draper.jpg" alt="レンタル倉庫のKing Arthur" sizes="100vw" />
 
 堅牢なお城のような建物はフリーウェイからも見えます。
 
-# 大小いろいろなルーム
+## 大小いろいろなルーム
 屋外には車が入る大きなスペースが並んでいます。
 
 <img src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1523784888/King-Arthur-Storage-Outside.jpg" alt="右側の建物には屋内倉庫" sizes="100vw" />
@@ -47,7 +49,7 @@ tags:
 
 三階建ての建物は空調付きで、小さめのユニットが並んでいます。数百はありそう。
 
-# 一番小さいスペースをレンタル
+## 一番小さいスペースをレンタル
 5x5 feet（152cm x 152cm）の一番小さいユニットを借りてみました。
 
 <img src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1523786445/King-Arthur-Storage-Unit-before.png" alt="最初はスカスカだった倉庫" sizes="100vw" />
@@ -58,7 +60,7 @@ tags:
 
 月単位の自動延長システムです。支払いにはクレジットカードが使えます。
 
-# 荷物を入れるまで
+## 荷物を入れるまで
 駐車スペースや廊下、エレベーターが広いので、車から楽に荷物を搬入できます。
 
 <img src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1523784887/King-Arthur-Storage-Loading.jpg" alt="倉庫に荷物を入れる" sizes="100vw" />
