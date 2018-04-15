@@ -35,7 +35,7 @@ tags:
 ## アパート
 本社のHRが紹介してくれた提携代理店とやりとりし、[Cortland Ridge](https://www.zillow.com/b/cortland-ridge-orem-ut-5XhysS/)に決めました。長期滞在用のMarriott ([TownePlace Suites Provo Orem](http://www.marriott.com/hotels/travel/slcto-towneplace-suites-provo-orem/)から800mほど東にある、法人向けのアパートです。「長く住むならホテルよりfurnishedなアパートの方が良い」らしいです。広いとか、キッチンがフル仕様だとか、大きな違いがあります。家具付きで一日95ドルと、予算内です。月２回のHousekeeping（掃除代行）オプションをつけました。ホテルの方がタオル類の交換、掃除、ランドリーサービスがあるので楽かも？暖炉と煙突がついているのが寒いユタっぽいです。
 
-![アパートの写真](//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1509984922/2011-09-18-Cortland-Ridge-Garage_kwnx4q.jpg)
+<img alt="アパートの写真" sizes="100vw" src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1509984922/2011-09-18-Cortland-Ridge-Garage_kwnx4q.jpg" />
 
 2017年追記：アパートの方が断然良かったです。雪が降るのでガレージ付きがおすすめ。家具付きだと家賃が3倍以上になる（毎月3千ドル）ので、長期で個人負担の場合は普通に家具なしでアパートを契約すると節約できます。
 

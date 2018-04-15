@@ -11,8 +11,6 @@ tags:
 
 <img alt="空港で借りた車" sizes="100vw" src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1509983977/2011-09-27-Nissan-Versa_anmmvy.jpg" />
 
-![空港で借りた車](//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1509983977/2011-09-27-Nissan-Versa_anmmvy.jpg)
-
 約50分間、ひたすら南下。地図では近く見えても、品川～つくば市と同じくらいの距離があります。
 
 <img alt="空港からOmnitureまで約70km" sizes="50vw" src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:469/v1509984480/2011-09-25-SLC-to-Orem-70km_mdhwiy.png" />
