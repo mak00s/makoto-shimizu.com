@@ -34,5 +34,5 @@ IA Summitの参加を検討するためにExpedia.comでNew Orleans行の飛行�
 
 <img sizes="100vw" src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1511180785/2012-02-23-Timpanogos-Hospital-Sign.jpg" alt="病院の駐車場に建てられた電光掲示板" />
 
-<a href="https://www.facebook.com/TimpHospital">実際のFacebookページ</a>は地味ですが、初期費用と運用費用をかけた宣伝の設備を使ってFacebookページの案内をするということは、Web担当者のボランティア的な作業ではできません。
+[実際のFacebookページ](https://www.facebook.com/TimpHospital)は地味ですが、初期費用と運用費用をかけた宣伝の設備を使ってFacebookページの案内をするということは、Web担当者のボランティア的な作業ではできません。
 組織ぐるみで重要性を認識し、取り組みを行っているんだろうなーと思って毎朝見ています。

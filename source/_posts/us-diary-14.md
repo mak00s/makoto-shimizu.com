@@ -12,7 +12,7 @@ tags:
 
 実は「Summer Time」はイギリスなどヨーロッパでの言い方で、USでは「**Daylight Saving Time**」と言います。
 昼の灯りを節約するための時間帯、というような意味です。
-いつからいつまで適用されるのかは国や地域によって異なります。USでは3月～11月に適用されるので、夏どころか、**春夏秋タ*イム**なのです。だからなのか、**誰もサマータイムとは言いません**。
+いつからいつまで適用されるのかは国や地域によって異なります。USでは3月～11月に適用されるので、夏どころか、**春夏秋タイム**なのです。だからなのか、**誰もサマータイムとは言いません**。
 恥ずかしいので、相手の地域に応じて使い分けるようにしましょう...。
 
 GPS付のスマートフォンは、現在地を検出して勝手に時間を変更してくれます。PCも地域の設定が正しければ勝手に変更してくれます。車の時計や目覚まし時計、電話の時計などは自動で変わらないので、手で強引に時間を1時間進めたり戻したりする必要があります。
@@ -22,7 +22,7 @@ GPS付のスマートフォンは、現在地を検出して勝手に時間を�
 
 **Daylight Savingsは健康に悪い**という調査結果も出ていて、賛否両論あるようです。
 
-- <a href="http://us.gizmodo.com/5891801/springing-forward-with-daylight-savings-could-kill-you">Springing Forward with Daylight Savings Could Kill You</a>
+- [Springing Forward with Daylight Savings Could Kill You](http://us.gizmodo.com/5891801/springing-forward-with-daylight-savings-could-kill-you)
 
 採用するかどうかの決定権は州に委ねられていて、フェニックス州は採用していません。
 

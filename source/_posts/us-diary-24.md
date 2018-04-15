@@ -2,6 +2,7 @@
 title: US日記24. アメリカで中古車を買う方法
 date: 2014-08-18 00:20:03
 permalink: us-diary-201402
+banner: //res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1514902466/2014-05-19-Eclipse_eowupx.jpg
 categories:
 - アメリカ勤務
 tags:
@@ -36,7 +37,7 @@ KSLの場合は、検索で個人とディーラーを絞り込むことがで�
 状態が悪いといつ壊れるか分からず、安心できません。やはり、とレンタルかリースも再検討することにしました。
 
 ### レンタルの場合
-レンタルは、Hertzなどで直接申し込むよりも、www.carrentals.comのような比較サイトを経由したほうが安くなります。
+レンタルは、Hertzなどで直接申し込むよりも、www.carrentals.com のような比較サイトを経由したほうが安くなります。
 
 一番小さな車だと月621ドルでした。3ヶ月で20万円弱。ただし、場所や日程によって価格が変動します。
 
@@ -74,7 +75,7 @@ KSLで個人が出品していた65万円の掘り出し物を運良く見つけ
 一世代前のコンバーチブル版「エクリプススパイダー」のみ日本でも発売されていましたが、2008年以降のこのモデルは日本では売られていません。北米でも2012年を最後に生産中止になりました。
 
 ## 事故・修理履歴を確認する
-アメリカでは、CARFAX.comというサイトで事故歴や修理歴を調べられます。KSLの物件ページからも直接リンクしています。
+アメリカでは、[CARFAX](https://www.carfax.com/) というサイトで事故歴や修理歴を調べられます。KSLの物件ページからも直接リンクしています。
 
 40ドル払って入手してみました。
 
@@ -132,15 +133,13 @@ KSLで個人が出品していた65万円の掘り出し物を運良く見つけ
 ## 3ヶ月乗り回す
 実物は写真で想像していたよりも良いコンディションでした。よく見ると傷やヘコみがありますが、遠くから見ると新車に見えます。
 
-<img alt="手に入ったEclipse" sizes="100vw" src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1514902466/2014-05-19-Eclipse_eowupx.jpg" />
-
 <img alt="Eclipseでマウンテンバイク" sizes="100vw" src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1514902473/2014-04-26-Draper_i54yek.jpg" />
 
 <img alt="Eclipseで国立公園へ" sizes="100vw" src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1514902466/2014-04-26-Capitol-Reef_mveuyg.jpg" />
 
 もともと安い車なので、内装はプラスチック、走りもそこそこですが、こういうスタイルが安く買えるのはアメリカならではですね。
 
-3ヶ月後には売ると分かっていたので、毎日の通勤（往復65km）に加えて、週末は国立公園のCapitol ReefやBryce Canyonまで遠出して堪能しました。雪山を登ってスキー場へも行きました。
+3ヶ月後には売ると分かっていたので、毎日の通勤（往復65km）に加えて、週末は国立公園の[Capitol Reef](https://www.nps.gov/care/index.htm)や[Bryce Canyon](https://www.nps.gov/brca/index.htm)まで遠出して堪能しました。雪山を登ってスキー場へも行きました。
 
 ## 経費のまとめ
 車本体 $6,300 + Sales Tax $360 + 登録 $167 + 検査 $30 + 保険 $501 = $7,358

@@ -15,13 +15,11 @@ US勤務の最初の一週間があっという間に過ぎました...。
 車で会社へ５分程度です。マイカー出勤が多いので、周りは駐車場だらけ。好きなところに止めてもよいそうです。
 USでは、**前向き駐車がほとんど**。広いので帰るときの方向転換を気にする必要がないため？
 
-<a href="http://www.flickr.com/photos/27261559@N06/6183356945/">
-<img sizes="100vw" src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1510386249/2011-09-26-Canyon-Park-Tech-Center-Map.png" sizes="100vw" alt="オフィスの航空写真。２棟半を借りている。" /></a>
+<img sizes="100vw" src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1510386249/2011-09-26-Canyon-Park-Tech-Center-Map.png" sizes="100vw" alt="オフィスの航空写真。２棟半を借りている。" />
 
 AdobeはCanyon Park Technology Centerという敷地で２階建てビルを２棟半借りています。
 
-<a sizes="100vw" href="http://www.flickr.com/photos/27261559@N06/6165406046/">
-<img sizes="100vw" src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1510387019/2011-09-19-Canyon-Park-Reception.jpg" alt="受付の横" /></a>
+<img sizes="100vw" src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1510387019/2011-09-19-Canyon-Park-Reception.jpg" alt="受付の横" />
 
 月曜日は早めに出社し、受付で入社の手続きを待っていました。9時にHRの人が登場。
 
@@ -29,29 +27,25 @@ AdobeはCanyon Park Technology Centerという敷地で２階建てビルを２�
 
 上司と「久しぶり～」と（英語で）挨拶＆握手し、席へ。
 
-何と、こっちの席は<a href="http://en.wikipedia.org/wiki/Cubicle">Cubicle（キュービクル）</a>といって部屋のように広いのです。6つがつながってCubicle Farmを形成しています。広く、集中できて最高の環境です。
+何と、こっちの席は[Cubicle（キュービクル）](http://en.wikipedia.org/wiki/Cubicle)といって部屋のように広いのです。6つがつながってCubicle Farmを形成しています。広く、集中できて最高の環境です。
 
-<a href="http://www.flickr.com/photos/27261559@N06/6164872417/">
-<img sizes="100vw" src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1510409861/2011-09-19-cubicle.jpg" alt="つながったCubicle" /></a>
+<img sizes="100vw" src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1510409861/2011-09-19-cubicle.jpg" alt="つながったCubicle" />
 
 机はL字型で棚もあります。
 
-<a href="http://www.flickr.com/photos/27261559@N06/6164872505/">
-<img sizes="100vw" src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1510409957/2011-09-19-cubicle-inside.jpg" alt="Cubicleというそうです" /></a>
+<img sizes="100vw" src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1510409957/2011-09-19-cubicle-inside.jpg" alt="Cubicleというそうです" />
 
-<a href="http://www.flickr.com/photos/27261559@N06/6164872533/">
-<img sizes="100vw" src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:720/v1510410039/2011-09-19-cubicle-from-above.jpg" alt="自分のデスク" /></a>
+<img sizes="100vw" src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:720/v1510410039/2011-09-19-cubicle-from-above.jpg" alt="自分のデスク" />
 
 ## リーダー向けのオリエンテーションに参加
 
 この週はちょうど四半期毎レビューのために世界からリーダーが集まり、発表や懇親会が続く週でした。
-初日の午後はTeam Buildingのため、車で1時間ほどかけて<a href="http://www.visitparkcity.com/">Park City</a>まで行ってオリエンテーリングしました。
+初日の午後はTeam Buildingのため、車で1時間ほどかけて[Park City](http://www.visitparkcity.com/)まで行ってオリエンテーリングしました。
 
 各チームがGPSを渡され、各ポイントを探してミッションカードを見つけ、そこに書かれたミッションを終えるとポイントがもらえるのです。お互いが競争するのではなく、みんなの合計点でGoogleに勝とう！と盛り上がりました。
 いろいろな場所を訪れることができ、合間に仕事やそれ以外の話もでき、有意義なイベントでした。往復はCar Poolと言って、何人かが集まって車で移動しました。それぞれが車を出すと駐車場が足りなくなるためです。
 
-<a href="http://www.flickr.com/photos/27261559@N06/6183939308/">
-<img sizes="100vw" src="//res.cloudinary.com/mak00s/image/upload/e_auto_brightness,f_auto,w_auto:200:720/v1510410147/2011-09-20-Orientation-at-Sundance.jpg" alt="at Park City" /></a>
+<img sizes="100vw" src="//res.cloudinary.com/mak00s/image/upload/e_auto_brightness,f_auto,w_auto:200:720/v1510410147/2011-09-20-Orientation-at-Sundance.jpg" alt="at Park City" />
 
 二日目の水曜からは各チームからの発表がぎっしり。
 ランチはプレゼン会場のAuditoriumで出ました。水曜はSundanceでディナー。

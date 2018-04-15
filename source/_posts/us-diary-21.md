@@ -9,28 +9,28 @@ tags:
 ---
 ユタのAdobeオフィスにはカフェテリアの上にフィットネスセンターがあり、社員は無料で利用できます。
 
-<a href="http://www.flickr.com/photos/27261559@N06/9580568417/"><img src="https://farm4.staticflickr.com/3752/9580568417_c04e8fb452.jpg" alt="Cafeteria at Adobe Lehi office" width="500" height="375" /></a>
-<a href="http://www.flickr.com/photos/27261559@N06/9583352484/"><img src="https://farm4.staticflickr.com/3682/9583352484_901fb0e87c.jpg" alt="Wellness Center in the Adobe Lehi office" width="500" height="375" /></a>
+<img src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1523787570/Adobe-Cafeteria.png" alt="Cafeteria at Adobe Lehi officeのカフェテリア（下）とジム（上）" sizes="100vw" />
+<img src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1523787571/Adobe-Fitness-Center.png" alt="最新設備のあるWellness Center" sizes="100vw" />
 
 各種トレーニングマシンに加えて、写真右手にはロッククライミング（ボルダリング）用の壁もあります。
 
-<a href="http://www.flickr.com/photos/27261559@N06/9580567941/"><img src="https://farm4.staticflickr.com/3791/9580567941_a9e2856a70.jpg" alt="Rock Climbing Wall in the Adobe Lehi office" width="375" height="500" /></a>
-<a href="http://www.flickr.com/photos/27261559@N06/9583351868/"><img src="https://farm4.staticflickr.com/3829/9583351868_e083162367.jpg" alt="Rock Climbing in the Adobe Lehi office 1/3" width="375" height="500" /></a>
+<img src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1523787567/Adobe-Fitness-Wall.png" alt="会社内に本格的な壁がある" sizes="100vw" />
+<img src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1523787570/Adobe-Fitness-Wall2.png" alt="慣れてる同僚" sizes="100vw" />
 
 昼休みにロッカーで着替えて、チョークと専用シューズを使って本格的に取り組む人が多いです。
 
 同僚に誘われて、何度か挑戦してみました。
 
-<a href="http://www.flickr.com/photos/27261559@N06/9580567227/"><img src="https://farm6.staticflickr.com/5442/9580567227_5c7c8cfaed.jpg" alt="Casual climb with normal shoes 1/4" width="375" height="500" /></a>
-<a href="http://www.flickr.com/photos/27261559@N06/9580566919/"><img src="https://farm8.staticflickr.com/7328/9580566919_b18c275e60.jpg" alt="Casual climb with normal shoes 3/4" width="375" height="500" /></a>
+<img src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1523787567/Adobe-Fitness-Wall3.png" alt="ハイキングシューズなので大変" sizes="100vw" />
+<img src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1523787567/Adobe-Fitness-Wall4.png" alt="マットはあるけど怖い" sizes="100vw" />
 
 レベルはいろいろあり、近くにあるボルダリングジムの人が来て三ヶ月に一度レイアウトを変更してくれます。
 
 私は最初は普通の靴で試していたのですが、足が滑って効率が悪いので、結局ロッククライミング用の専用シューズを買いました。
-<a href="http://www.flickr.com/photos/27261559@N06/9581022495/"><img src="https://farm6.staticflickr.com/5332/9581022495_08d383f90e.jpg" alt="La Sportiva Tarantula" width="500" height="360" /></a>
+<img src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1523787571/MEC-Rock-Shoes.png" alt="La Sportiva Tarantulaのシューズ" sizes="100vw" />
 
 ## さらにバンクーバーでも
-バンクーバーにもジムがあったので、入会してみました。The Hiveというところ（<a href="http://www.hiveclimbing.com/gallery/" target="_blank">写真ギャラリー</a>）で、月間無制限のコースが$85。MEC（カナダ版のREI）のメンバーだとさらに割引があります。男女半半くらいの割合で、若者が夕方から夜にかけて集まってきます。
+バンクーバーにもジムがあったので、入会してみました。The Hiveというところ（[写真ギャラリー](http://www.hiveclimbing.com/gallery/)）で、月間無制限のコースが$85。MEC（カナダ版のREI）のメンバーだとさらに割引があります。男女半半くらいの割合で、若者が夕方から夜にかけて集まってきます。
 
 30分もすると腕がパンパンになり、手のひらが痛くなります。手や腕が回復するまで数日かかるので、週に2回通っていました。1ヶ月で合計8回。簡単なルートはほぼ制覇しました。
 
@@ -49,13 +49,12 @@ tags:
 
 モアブ町の北側にあるWall Streetと呼ばれる場所で、切り立った絶壁の壁が道路沿いに続いています。
 
-<img src="http://kidproject.org/wp-content/uploads/2013/02/IMG_2579.jpg" />
-（画像のオリジナルは<a href="http://kidproject.org/2013/02/18/moab-utah-natures-version-of-wall-st/" target="_blank">The Kid Project</a>）
+<img src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1523787570/IMG_2579.png" alt="Wall Street (Moab, Utah)" sizes="100vw" />
+（画像のオリジナルは[The Kid Project](http://kidproject.org/2013/02/18/moab-utah-natures-version-of-wall-st/)）
 
 いろんなルートがありますが、今回登ったのは、垂直ではなく少し傾斜があり、クラックがある初心者〜中級者向けルート。
 
-<a href="http://www.flickr.com/photos/27261559@N06/9583471676/"><img src="https://farm8.staticflickr.com/7432/9583471676_5e520c3309.jpg" alt="Rock climbing in Moab, Utah (Wall Street) 4/7" width="375" height="500" /></a>
-（この写真で登っているのは同僚のトラビス）
+<img src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1523787578/Climbing-in-Moab-Utah.png" alt="登っているのは同僚のトラビス" sizes="100vw" />
 
 GoProで動画を撮影してもらいました。
 
@@ -69,10 +68,10 @@ GoProで動画を撮影してもらいました。
 
 登る前に「難しそうだからクラックの上まででやめとく」などと弱気を吐いていたところ、ジャレッドに「上まで登り切ると思って登れば登れるんだ！」と励まされ、上まで登ることにしました。そしてゴール達成！できそうにないことでも、やればできるもんですね。仕事にも通じる良い教訓です。
 
-## 日本で子どもに技を伝授
+## 日本でも息子に技を伝授
 日本の自宅近所のボルダリングジムが改装で広くなったので、息子と行ってみました。
 
-<a href="http://www.flickr.com/photos/27261559@N06/9583757410/"><img src="https://farm8.staticflickr.com/7369/9583757410_6392dede4d.jpg" alt="Teaching my son how to climb 1/2" width="375" height="500" /></a>
+<img src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1523787578/Climing-in-Japan.png" alt="日本で息子と" sizes="100vw" />
 
 自分がUSで覚えて実践してきたことを子どもに伝授。楽しみながらエクササイズできるので気に入ったようです。
 

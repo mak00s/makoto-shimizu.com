@@ -14,7 +14,7 @@ tags:
 
 <img alt="空港からOmnitureまで約70km" sizes="50vw" src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:469/v1509984480/2011-09-25-SLC-to-Orem-70km_mdhwiy.png" />
 
-USのカーナビは日本のと違ってコンパクトな着脱できる簡易タイプがメインのようです。Hertzで借りた[NeverLost IV](http://www.neverlost.com/neverlostinfo.aspx)も画面が小さく、地図が荒いのですが、USの道は交差点までの距離が長くてシンプルなので「あと何マイルで右折」などとしゃべってくれるだけで十分。スマートフォンのMapについているカーナビ機能でも役に立ちます。
+USのカーナビは日本のと違ってコンパクトな着脱できる簡易タイプがメインのようです。Hertzで借りた[NeverLost IV](https://www.hertz.com/rentacar/productservice/index.jsp?targetPage=neverlostus.jsp)も画面が小さく、地図が荒いのですが、USの道は交差点までの距離が長くてシンプルなので「あと何マイルで右折」などとしゃべってくれるだけで十分。スマートフォンのMapについているカーナビ機能でも役に立ちます。
 
 右ハンドルで、乗るときについ反対側へ行ってしまいます。アパートに到着する直前に左折した時、間違えて左レーンに入って走り続けてしまいました。幸い車が来なかったので何とかなりました...
 
@@ -34,10 +34,10 @@ USのカーナビは日本のと違ってコンパクトな着脱できる簡易
 
 面白かったところ：
 
-- <a href="http://www.flickr.com/photos/27261559@N06/6157472852/">自動シャッターつきのガレージ</a>を初体験
-- <a href="http://www.flickr.com/photos/27261559@N06/6157481294/">寝室となりのウォークインクローゼット</a>が広い
-- <a href="http://www.flickr.com/photos/27261559@N06/6157474992/">キッチンがフルサイズ</a>（巨大冷蔵庫、オーブン、食洗機、食器、鍋など完備）
-- <a href="http://www.flickr.com/photos/27261559@N06/6158924171/">観葉植物がフェイク</a>（手入れが楽なので合理的？）
+- [自動シャッターつきのガレージ](http://www.flickr.com/photos/27261559@N06/6157472852/)を初体験
+- [寝室となりのウォークインクローゼット](http://www.flickr.com/photos/27261559@N06/6157481294/)が広い
+- [キッチンがフルサイズ](http://www.flickr.com/photos/27261559@N06/6157474992/)（巨大冷蔵庫、オーブン、食洗機、食器、鍋など完備）
+- [観葉植物がフェイク](http://www.flickr.com/photos/27261559@N06/6158924171/)（手入れが楽なので合理的？）
 
 土曜日の13時にアパートに着いたので、きれいな状態を写真にとってから買い出しに出かけました。食糧と洗剤類、少し寒いので長袖シャツ、電源延長コード、スニーカーなども買いました。あとは、Wells Fargoで銀行口座を開設。住所、パスポートとクレジットカードだけでokでした。月収や貯蓄の予定金額などを聞かれ、コースを選択。150ドル常に入れておけば管理費が無料になるコースにしました。デビットカードも1週間後に届きます。
 
@@ -45,14 +45,14 @@ USのカーナビは日本のと違ってコンパクトな着脱できる簡易
 
 食材は何でも巨大（人参だけ細長くて貧弱）で安いです。気を付けないと太りそう...。支払いは、デビットカードの方が一般的なようです。クレジットカードの場合は身分証の提示を求められることがあります。
 
-<a href="http://www.flickr.com/photos/27261559@N06/6160986051/"><img alt="アパート入口からは山が見える" sizes="100vw" src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1510300781/2011-09-19-Orem.jpg" /></a>
+<img alt="アパート入口からは山が見える" sizes="100vw" src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1510300781/2011-09-19-Orem.jpg" /><
 
-砂漠気候の盆地なので、乾燥していて夜は寒くなります。乾燥と日焼けで顔がカサカサ＆ヒリヒリしてきたので、[オーガニックなスーパー](http://www.goodearthnaturalfoods.com/)を探して自然でライトな<a href="http://www.flickr.com/photos/27261559@N06/6181463809/in/photostream">石鹸とモイスチャー</a>、シャンプー、リンスなどを買いました。
+砂漠気候の盆地なので、乾燥していて夜は寒くなります。乾燥と日焼けで顔がカサカサ＆ヒリヒリしてきたので、[オーガニックなスーパー](http://www.goodearthnaturalfoods.com/)を探して自然でライトな[石鹸とモイスチャー](http://www.flickr.com/photos/27261559@N06/6181463809/in/photostream)、シャンプー、リンスなどを買いました。
 
-<a href="http://www.flickr.com/photos/27261559@N06/6177864283/"><img alt="3方向がこんな感じ" sizes="100vw" src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1510300257/2011-09-23-Orem-surrounded-by-mountains.jpg" /></a>
+<img alt="3方向がこんな感じ" sizes="100vw" src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1510300257/2011-09-23-Orem-surrounded-by-mountains.jpg" />
 
 標高が高いためか、山にはほとんど木がなく、岩や草だらけ。雪景色の方がキレイかも。空気もきれいで、星がよく見えます。
 
-<a href="http://www.flickr.com/photos/27261559@N06/6160988509/"><img alt="Adobe(Omniture)オフィスは山の麓" sizes="100vw" src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1510300622/2011-09-11-Orem-mountains.jpg" /></a>
+<img alt="Adobe (Omniture)オフィスは山の麓" sizes="100vw" src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1510300622/2011-09-11-Orem-mountains.jpg" />
 
 オフィスまでの道も事前に確認。月曜日からいよいよ勤務開始です。

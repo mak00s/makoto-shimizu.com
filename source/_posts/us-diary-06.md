@@ -17,7 +17,7 @@ tags:
 
 ## Twitterチームとリアルでミート
 
-Twitterでサポートをしているヨーゲン（<a href="http://twitter.com/#!/OmnitureCare">@OmnitureCare</a>）とフランソワ(@OmnitureFC)にも会いました。ずっとTwitter上で読んだりRTしたりしていたので、お互い「何かヘンだね～」と盛り上がりました。使っているツールやソーシャルの活用方法についていろいろ面白い話が聞けたので、記事にするから改めてインタビューさせて！と依頼しておきました。
+Twitterでサポートをしているヨーゲン（@OmnitureCare）とフランソワ(@OmnitureFC)にも会いました。ずっとTwitter上で読んだりRTしたりしていたので、お互い「何かヘンだね～」と盛り上がりました。使っているツールやソーシャルの活用方法についていろいろ面白い話が聞けたので、記事にするから改めてインタビューさせて！と依頼しておきました。
 
 エンジニア部門に関しては、主要マネージャーが集まる場で上司が私の4つのミッションを具体的に説明してくれたので、一人で挨拶に行った時もスムーズでした。日本とはコミュニケーションが難しく、他の地域とは違う依頼や不満が多いのでぜひ手伝って！とみんな好意的でした。ユーザー会のeVar7も有名で、USでも同じことをしたいので、いろいろ教えて！とも。あるマネージャーに至っては、「毎週ミーティングセットしてもいいかい？いろいろ議論したいし、教えてほしい」と協力的でした。この部門は品質改善の鍵になるので、良いスタートです。
 
@@ -41,26 +41,21 @@ USから日本チームと英語で電話するという初めてのもどかし
 
 最初の１週間ははしゃいでイロイロ買ったり食べたりしていたので、既に太ったかも...。移動が１００％車なので、ほとんど歩くこともありません。そこで、夕食はテイクアウトし、３分の１だけ食べて、残りを朝食とランチ用お弁当にすることにしました。つまり、USの１食分が自分にとっての３食分...。
 
-食品は、<a href="http://www.goodearthnaturalfoods.com/">オーガニック専門のスーパー</a>を発見。農薬や遺伝子組み換えが心配なので、なるべくオーガニックで自然なものを買うことにしました。例えば、牛乳にもローファットやビタミン添加、ハーフ＆ハーフなどいろいろ種類があります。一番自然っぽいのがWhole Milkだったのですが、普通のスーパーのにはビタミンが入っていました。日本で買っていたような<a href="http://www.milk.or.jp/belief/pasteurizedmilk.html">無調整のノンホモ・パスチャライズトな牛乳</a>は売っていません。このオーガニック専門スーパーだと、スーパーパスチャライズドなWhole Milkなら買うことができました。
+食品は、[オーガニック専門のスーパー](http://www.goodearthnaturalfoods.com/)を発見。農薬や遺伝子組み換えが心配なので、なるべくオーガニックで自然なものを買うことにしました。例えば、牛乳にもローファットやビタミン添加、ハーフ＆ハーフなどいろいろ種類があります。一番自然っぽいのがWhole Milkだったのですが、普通のスーパーのにはビタミンが入っていました。日本で買っていたような[無調整のノンホモ・パスチャライズトな牛乳](http://www.milk.or.jp/belief/pasteurizedmilk.html)は売っていません。このオーガニック専門スーパーだと、スーパーパスチャライズドなWhole Milkなら買うことができました。
 
-<a href="http://www.flickr.com/photos/27261559@N06/6202850450/in/photostream">
 <img sizes="100vw" src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1510411847/2011-10-01-Organic-Valley-Milk.jpg" sizes="100vw" alt="スーパーパスチャライズドなWhole Milk" />
 
 さらに、リカーストアを発見。ユタでは、普通にスーパーで買えるお酒はアルコール度数が低いビールくらいで、それ以上に強いお酒は州が運営する専門店でしか買えません。会社の近くにあったので行ってみたところ、逆にすごい充実度。ベルギーのランビック
-<a href="http://www.flickr.com/photos/27261559@N06/6199951304/in/set-72157627583665943">
-<img sizes="100vw" src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1510412132/2011-09-30-Lambic-Beer.jpg" sizes="100vw" alt="ベルギーのランビック" /></a>
+<img sizes="100vw" src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1510412132/2011-09-30-Lambic-Beer.jpg" sizes="100vw" alt="ベルギーのランビック" />
 
 やエールの最高峰トラクエア
-<a href="http://www.flickr.com/photos/27261559@N06/6199438239/in/set-72157627583665943/">
-<img sizes="100vw" src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1510412323/2011-09-30-4-Beers.jpg" sizes="100vw" alt="エールの最高峰トラクエア" /></a>
+<img sizes="100vw" src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1510412323/2011-09-30-4-Beers.jpg" sizes="100vw" alt="エールの最高峰トラクエア" />
 
 トラピストエールなどを買って帰りました。
-<a href="http://www.flickr.com/photos/27261559@N06/6199438387/in/set-72157627583665943/">
-<img sizes="100vw" src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1510412488/2011-09-30-Oval-Beer.jpg" sizes="100vw" alt="トラピストエール" /></a>
+<img sizes="100vw" src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1510412488/2011-09-30-Oval-Beer.jpg" sizes="100vw" alt="トラピストエール" />
 
 さらに日本食レストランで味噌汁とお寿司も体験。
 
-<a href="http://www.flickr.com/photos/27261559@N06/6201927897/in/set-72157627583665943/">
-<img sizes="100vw" src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800,e_auto_brightness/v1510412676/2011-10-01-Sushi-in-Utah.jpg" sizes="100vw" alt="トラピストエール" /></a>
+<img sizes="100vw" src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800,e_auto_brightness/v1510412676/2011-10-01-Sushi-in-Utah.jpg" sizes="100vw" alt="トラピストエール" />
 
 味は...。日本のお寿司とは別物だと考えた方が良さそうですが、3週間ぶりだったので感動。さらに近所においしいタイ料理屋も発見。やはりアジアの料理はおいしい！

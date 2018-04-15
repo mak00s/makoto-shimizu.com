@@ -17,7 +17,7 @@ tags:
 - Salomonのスキー板とポール：$159.20 - 日本では3万円弱
 - Black Diamondsのミトン（手袋）：$32.04 - 米Amazonでは$70、日本では1万円以上
 
-REIのような大手のチェーンではなく、<a href="http://www.2ndtracks.com/" target="_blank">2nd Tracks</a>という地元の小さな中古ショップです。
+REIのような大手のチェーンではなく、[2nd Tracks](http://www.2ndtracks.com/)という地元の小さな中古ショップです。
 こういうお店は、オンラインで調べてもよく分かりません。サイトもFacebookもイマイチ。
 在庫もオンラインのと店舗内では異なります。
 今回のセールもネットには掲載されていませんでした。白黒のチラシをカウンターに置いているだけ。
@@ -73,7 +73,7 @@ PPC広告部分にニュースレターの購読用フォームが表示され�
 
 USでは、2012年の6月には既にこのようにメールを簡単に購読できる広告をテストしていたようです。
 
-**参照**：<a href="http://www.brafton.com/news/google-integrates-newsletter-signup-into-paid-search-ads" target="_blank">Google integrates newsletter signup into paid search ads</a> - Brafton
+**参照**：[Google integrates newsletter signup into paid search ads](http://www.brafton.com/news/google-integrates-newsletter-signup-into-paid-search-ads) - Brafton
 
 ## メールが役立つUS事情
 日本に住んでいると「サイトも見ないでメール購読なんてしないでしょ」と思うところですが、USではニュースレター（メール）が役立つので、公式サイトではわざわざ自分でメール購読します。パーソナライズされた近所のお店の情報が届くからです。

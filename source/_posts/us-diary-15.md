@@ -11,7 +11,7 @@ tags:
 1月のユタを初めて経験しました。
 
 ## 山の方が暖かい
-まず驚いたのが、**逆転層**（<a href="http://ja.wikipedia.org/wiki/%E9%80%86%E8%BB%A2%E5%B1%A4">Wikipediaの説明</a>）という気象現象。
+まず驚いたのが、**逆転層**（[Wikipediaの説明](http://ja.wikipedia.org/wiki/%E9%80%86%E8%BB%A2%E5%B1%A4)）という気象現象。
 ユタ（のワサッチフロント）は四方を山に囲まれているので、寒い空気が閉じ込められて停滞した状態の上側に暖かい高気圧が来ることがあります。通常は高度が上がるほど気温が下がりますが、逆に**上に行くほど温度が上がる**ので、逆転層 (Inversion) と呼ばれます。
 
 スキー場に行ったところ、確かに霧が晴れて空が青くなり、気温が4度ほど高くなりました。10度近く上がることもあるそうです。
@@ -46,7 +46,7 @@ Carpoolして通勤すると、手当や駐車場の優先スペースなど、�
 
 <a href="http://fox13now.com/2013/01/24/viewer-photos-freezing-rain-and-ice/"><img src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1523779889/20130210-Freezing-Rain.png" alt="凍った車と衝突事故" sizes="100vw" /></a>
 
-**写真**：<a href="http://www.deseretnews.com/article/865571361/Freezing-rain-causes-icy-roads-dicey-commute-Thursday.html?pg=all">Deseret Newsの解説記事</a>・<a href="http://fox13now.com/2013/01/24/viewer-photos-freezing-rain-and-ice/">Fox 13のニュース記事</a>
+**写真**：[Deseret Newsの解説記事](http://www.deseretnews.com/article/865571361/Freezing-rain-causes-icy-roads-dicey-commute-Thursday.html?pg=all)・[Fox 13のニュース記事](http://fox13now.com/2013/01/24/viewer-photos-freezing-rain-and-ice/)
 
 ## 除雪は大人のマナー
 USでは一般的なガレージは、雪が降る冬に重宝します。車が大きいので最初はドライブウェイ（道路からガレージまでの道）に置いておいたところ...

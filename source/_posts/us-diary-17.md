@@ -9,11 +9,10 @@ tags:
 ---
 Microsoft Surface ProとAmazon Kindle Paperwhiteの実機を使ってみるため、Google MapでBest Buyを検索したところ、地図に**トイレマーク**みたいなアイコンが表示されているのに気づきました。何だコレ？
 
-<img src="http://files.cms-ia.info/200000269-9efa99ff51/google-map-bestbuy-arial.png" alt="" width="429" height="193" />
-
+<img src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:429/v1515901368/20130226-google-map-bestbuy-arial.png" alt="Google Map上のアイコン" sizes="100vw" />
 よく見ると、建物の上にEntranceやGamingなどと書いてあります。ズームインしてみたところ、
 
-<img src="http://files.cms-ia.info/200000262-e4a65e5a0a/google-map-bestbuy-zoomin.png" alt="" width="770" height="596" />
+<img src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1515901368/20130226-google-map-bestbuy-floormap.png" alt="Google Mapのフロアマップ" sizes="100vw" />
 
 何と、**屋内のマップ**が細かく表示されました。
 
@@ -24,21 +23,21 @@ Microsoft Surface ProとAmazon Kindle Paperwhiteの実機を使ってみるた�
 # 日本では利用できないGoogleマップメーカー
 右下に「**Googleマップメーカーで編集する**」という見慣れないリンクがあったので、クリックしていろいろ調べてみました。
 
-<img src="http://files.cms-ia.info/200000270-196be1a666/google-map-edit-in-maker.png" alt="" width="469" height="154" />
+<img src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:469/v1515901367/20130226-google-map-edit-in-maker.png" alt="Google Map" sizes="100vw" />
 
 Google Mapでは、ユーザーがマップに道路や建物を追加したり、既存のスポットの位置を修正したりできます。
 
 ## 地図の編集に挑戦
 ちょうど先週、近くでオープンしたアウトレットモールが掲載されていなくて困ったので、追加してみました。
 
-<img src="http://files.cms-ia.info/200000265-ee197ef130/google-map-maker.png" alt="" width="739" height="520" />
+<img src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1515901368/20130226-google-map-maker.png" alt="Google Map Makerで図形を登録" sizes="100vw" />
 
 これは編集画面。連絡先、サイトのURL、営業時間など、細かい情報を記入できます。
 
 ## 道路や建物のドローも可能
 さらに建物の輪郭をドローしてみました。
 
-<img src="http://files.cms-ia.info/200000271-a0f65a1f08/google-map-edit-shape.png" alt="" width="562" height="342" />
+<img src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:562/v1515901368/20130226-google-map-edit-shape.png" alt="Google Map Makerで図形をドロー" sizes="100vw" />
 
 点をつなげるだけで、曲線は描けません（よく見るとGoogle Mapのオブジェクトは全て直線でできています）が、航空写真やフロアマップなどをPhotoshopで重ねて、なるべく正確な形にしました。Googleマップの航空写真は古く（2年以上前）、土地がまだ更地の状態です。Bingの航空写真の方が新しく、建設途中の建物を確認できました（Microsoftもがんばっている！）。
 
@@ -49,7 +48,7 @@ Google Mapでは、ユーザーがマップに道路や建物を追加したり�
 
 登録地域や表示中のエリアでレビューが終わっていない編集内容を一覧表示できます。お互い様なので、他人の変更をレビューし、理由を添えて賛同の投票をしておきました。賛成と反対の投票ができます。
 
-<img src="http://files.cms-ia.info/200000266-9ffd7a0f74/google-map-my-contributions.png" alt="" width="546" height="584" />
+<img src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:657/v1523783298/google-map-my-contributions.png" alt="登録情報のステータス" sizes="100vw" />
 
 自分の貢献を一覧表示したところ。他人の役に立つという使命感と、自分が保存したデータが世界に公開されるという達成感を感じながら、時間を忘れていろいろ貢献してしまいました。
 張り付いているヘビーユーザーもいるようです。ユーザー参加型でデータを集める上手な仕組みですね。
