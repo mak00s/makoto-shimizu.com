@@ -16,7 +16,7 @@ timezone: Asia/Tokyo
 url: https://makoto-shimizu.com
 root: /
 #permalink: :year/:month/:day/:title/
-permalink: article/:title/
+permalink: news/:title/
 permalink_defaults:
 
 # Directory
