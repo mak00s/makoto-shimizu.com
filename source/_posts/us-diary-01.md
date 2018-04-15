@@ -1,7 +1,9 @@
 ---
 title: US日記01. US勤務前に行った６つの準備と抱負
 date: 2011-09-06 02:11:02
+permalink: us-prepare
 thumbnail: https://res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1509665507/airplane-wing-view-at-sunset_QJliM4_fbqs0b.jpg
+banner: https://res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1509665507/airplane-wing-view-at-sunset_QJliM4_fbqs0b.jpg
 categories:
 - アメリカ勤務
 tags:
