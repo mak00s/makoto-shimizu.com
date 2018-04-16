@@ -4,6 +4,7 @@ date: 2017-10-12 13:27:00
 tags:
 - Google Analytics
 - GTM
+toc: true
 ---
 GTMでGAのClient IDを取得する最新で確実な方法について紹介します。
 <!-- more -->
@@ -19,7 +20,7 @@ Client IDを格納するカスタムディメンションをGAの管理画面で
 ### 2. カスタムJavaScript変数を作る
 カスタムJavaScript変数を作って以下のコードを入力します。
 
-```
+```javascript
 function() {
   return function(model) {
     model.set('dimension1', model.get('clientId'));
