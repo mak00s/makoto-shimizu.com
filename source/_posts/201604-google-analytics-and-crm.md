@@ -7,12 +7,13 @@ tags:
 - Google Analytics
 ---
 Zohoのユーザー会で、Zoho **CRMとGoogleアナリティクス**を組み合わせた事例について講演しました。その時の資料を公開します。
+グローバル企業が大きなコストをかけて実現しているようなマーケティングのオートメーションを**低予算でどこまで真似できるか**、に挑戦した結果です。
+
+<!-- more -->
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/sCocYt6aihpEoq" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
 
 **[WebとEmailのパーソナライズをGAとZoho CRMで安価に実現する方法](https://www.slideshare.net/mak00s/webemailzoho-crmsalesiq) **from **[Makoto Shimizu](https://www.slideshare.net/mak00s)**
-
-グローバル企業が大きなコストをかけて実現しているようなマーケティングのオートメーションを**低予算でどこまで真似できるか**、に挑戦した結果です。
 
 ### Google AnalyticsのCookie IDを会員IDに
 店舗や電話、FAXによる注文、外部サイト（楽天やAmazon）での購入データなど、自社Webに仕込むアナリティクスでは通常は取得が難しい**オフラインデータやCRM情報**を**顧客単位で統合**する場合、データを紐付けるために会員IDをキーとすることが多いですが、ログインを必要とする会員制のサイトではないとキーとなる会員IDを取得できない、というハードルがあります。また、会員制のサイトだったとしても、ログインする前のWeb閲覧行動データまで対象とするのは、大規模ソリューションであっても容易ではないのが現実です。
