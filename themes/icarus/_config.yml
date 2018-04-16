@@ -13,7 +13,7 @@ customize:
         height: 40
         url: images/logo.png
     profile:
-        enabled: true # Whether to show profile bar
+        enabled: false # Whether to show profile bar
         avatar: css/images/avatar.png
         gravatar: # Gravatar email address, if you enable Gravatar, your avatar config will be overriden
         author: Makoto Shimizu
@@ -36,9 +36,9 @@ customize:
 widgets:
     - recent_posts
     - category
-    - archive
     - tag
 #    - tagcloud
+    - archive
     - links
 
 # Search
