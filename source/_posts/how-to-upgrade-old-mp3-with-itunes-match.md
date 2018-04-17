@@ -35,11 +35,11 @@ AACはMP3を超えるために開発されたフォーマットで、256kbpsのA
 
 「**曲**」の一覧モードに切り替え、リスト上部の**項目名を右クリック**して「**iCloud ダウンロード**」と「**iCloud の状況**」を追加します（チェックが入った状態にする）。
 
-<img src="//res.cloudinary.com/mak00s/image/upload/v1523898247/itunes-match-upgrade-01.png" alt="" sizes="100vw" />
+<img src="//res.cloudinary.com/mak00s/image/upload/f_auto/v1523898247/itunes-match-upgrade-01.png" alt="" sizes="100vw" />
 
 一覧にカラムが追加されました。
 
-<img src="//res.cloudinary.com/mak00s/image/upload/v1523898247/itunes-match-upgrade-02.png" alt="" sizes="100vw" />
+<img src="//res.cloudinary.com/mak00s/image/upload/f_auto/v1523898247/itunes-match-upgrade-02.png" alt="" sizes="100vw" />
 
 「iCloud の状況」は以下のような意味になります。
 
@@ -60,7 +60,7 @@ AACはMP3を超えるために開発されたフォーマットで、256kbpsのA
 
 そこで、以下のようなスマートプレイリストを作って、アップグレードすべき曲を特定します。
 
-<img src="//res.cloudinary.com/mak00s/image/upload/v1523898247/itunes-match-upgrade-03.png" alt="" sizes="100vw" />
+<img src="//res.cloudinary.com/mak00s/image/upload/f_auto/v1523898247/itunes-match-upgrade-03.png" alt="" sizes="100vw" />
 
 「 ビットレート」が「256」kbps「より小さい」
 かつ
@@ -72,7 +72,7 @@ AACはMP3を超えるために開発されたフォーマットで、256kbpsのA
 
 iCloudからダウンロードして差し替える候補曲のリストができました。
 
-<img src="//res.cloudinary.com/mak00s/image/upload/v1523898246/itunes-match-upgrade-04.png" alt="" sizes="100vw" />
+<img src="//res.cloudinary.com/mak00s/image/upload/f_auto/v1523898246/itunes-match-upgrade-04.png" alt="" sizes="100vw" />
 
 「ビットレート」の項目も追加して並び替えすると「128 kbpsのMP3が256 kbpsのAACになるっ！」と盛り上がれます。
 
@@ -86,7 +86,7 @@ iCloudからダウンロードして差し替える候補曲のリストがで�
 
 そのため、「表示」メニューで「**カラムブラウザ**」を表示させます。
 
-<img src="//res.cloudinary.com/mak00s/image/upload/v1523898246/itunes-match-upgrade-05.png" alt="" sizes="100vw" />
+<img src="//res.cloudinary.com/mak00s/image/upload/f_auto/v1523898246/itunes-match-upgrade-05.png" alt="" sizes="100vw" />
 
 デフォルトでは「ジャンル」も表示されますが、「アーティスト」と「アルバム」だけで十分でしょう。
 
@@ -104,7 +104,7 @@ iCloudからダウンロードして差し替える候補曲のリストがで�
 
 次に、同じ曲を選択した状態でOption（Windowsの場合はControl）を押しながら「Delete」キーを押して、ファイルをゴミ箱へ移動させます。
 
-<img src="//res.cloudinary.com/mak00s/image/upload/v1523898246/itunes-match-upgrade-07.png" alt="" sizes="100vw" />
+<img src="//res.cloudinary.com/mak00s/image/upload/f_auto/v1523898246/itunes-match-upgrade-07.png" alt="" sizes="100vw" />
 
 チェックボックスにはチェックを入れないようにします。
 
@@ -112,7 +112,7 @@ iCloudからダウンロードして差し替える候補曲のリストがで�
 
 消した曲だけビットレートが256 kbpsになり、iCloudのダウンロードアイコンが表示されます。
 
-<img src="//res.cloudinary.com/mak00s/image/upload/v1523898246/itunes-match-upgrade-08.png" alt="" sizes="100vw" />
+<img src="//res.cloudinary.com/mak00s/image/upload/f_auto/v1523898246/itunes-match-upgrade-08.png" alt="" sizes="100vw" />
 
 他の端末で再生する場合は、この消す作業をしなくても256kbpsのAAC形式で再生されます。アップロードに使った端末では、手元に残っているファイルが優先され、ダウンロードもできないので、手元から消す作業をするというわけです。
 
@@ -120,7 +120,7 @@ iCloudからダウンロードして差し替える候補曲のリストがで�
 
 ダウンロードが終わると、今回作成したスマートプレイリストから消えるので、「ミュージック」でその曲を探して右クリックし、「情報を見る」で確認します。
 
-<img src="//res.cloudinary.com/mak00s/image/upload/v1523898246/itunes-match-upgrade-09.png" alt="" sizes="100vw" />
+<img src="//res.cloudinary.com/mak00s/image/upload/f_auto/v1523898246/itunes-match-upgrade-09.png" alt="" sizes="100vw" />
 
 256 kbpsのAAC形式になりました！
 
