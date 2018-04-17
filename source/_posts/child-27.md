@@ -13,7 +13,7 @@ WindowsやMacをiPadやiPhone、デスクトップから遠隔操作するとい
 
 ## 理由1\. 会社のMacを使えた
 
-まず、翌週の自宅待機中に、会社の作業環境をそのまま使えます。Gmailや[Dropbox](http://www.dropbox.com/link/20.wJc_OyS0EY/NjEyNDA5MDQ3Nw)などでデータはローカルに置かないようにしていたものの、環境が変わると何かと不便です。
+まず、翌週の自宅待機中に、会社の作業環境をそのまま使えました。Gmailや[Dropbox](http://www.dropbox.com/link/20.wJc_OyS0EY/NjEyNDA5MDQ3Nw)などでデータはローカルに置かないようにしていたものの、環境が変わると何かと不便です。
 
 ## 理由2\. 停電も安心
 
@@ -117,3 +117,5 @@ _（「×」ではなく「－」だとエントリーを書くためにキャ�
 
 というわけで、[Dropboxでのチャット](../chat-via-dropbox-with-9years-child/)から、さらに進化してます。
 4月からはもう小学5年生です。
+
+次回は[ノートパソコンの機能を自分で見つけたエピソード](../do-and-learn/)を紹介します。
