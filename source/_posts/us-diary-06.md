@@ -4,9 +4,9 @@ date: 2011-10-02 15:38:39
 permalink: us-diary-20111002
 banner: //res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1511186196/2011-09-20-Cubicle-from-Top.jpg
 categories:
-- アメリカ勤務
+  - アメリカ勤務
 tags:
-- Utah
+  - Utah
 ---
 渡米して2週目が過ぎました。四半期のレビュー会が終わり、2週目はようやくデスクで仕事できる状態になりました。
 

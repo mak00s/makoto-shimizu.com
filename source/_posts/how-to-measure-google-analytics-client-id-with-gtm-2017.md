@@ -2,8 +2,8 @@
 title: GTMでGoogleアナリティクスのClient IDを取得する一番確実で楽な方法（2017年版）
 date: 2017-10-12 13:27:00
 tags:
-- Google Analytics
-- GTM
+  - Google Analytics
+  - GTM
 toc: true
 ---
 GTMでGAのClient IDを取得する最新で確実な方法について紹介します。

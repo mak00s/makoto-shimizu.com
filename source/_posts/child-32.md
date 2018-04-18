@@ -2,7 +2,7 @@
 title: 11歳とFaceTimeでリモート遊び
 permalink: facetime-with-kids
 categories:
-  - 子育て日記
+  - こどもIA日記
 date: 2012-07-03 14:48:07
 tags:
 ---

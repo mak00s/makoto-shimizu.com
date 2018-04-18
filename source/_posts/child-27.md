@@ -2,7 +2,7 @@
 title: Windowsを遠隔操作してきた10歳との新コミュニケーション分析
 permalink: kids-can-chat-with-remote-desktop
 categories:
-  - 子育て日記
+  - こどもIA日記
 date: 2011-04-12 00:30:39
 tags:
 ---

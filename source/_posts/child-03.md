@@ -2,7 +2,7 @@
 title: さらに進化した3才の携帯メール
 permalink: mail-from-3years-child
 categories:
-  - 子育て日記
+  - こどもIA日記
 date: 2009-09-05 21:35:40
 tags:
 ---

@@ -2,7 +2,7 @@
 title: 13歳のデジタルキッズと学ぶ2014年のWeb解析
 permalink: analytics-2014-with-my-son
 categories:
-  - 子育て日記
+  - こどもIA日記
 date: 2013-12-25 08:30:20
 tags:
 ---

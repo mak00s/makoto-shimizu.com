@@ -2,7 +2,7 @@
 title: 子どもと地球の裏側でアイテム交換して学んだこと
 permalink: social-game-across-the-planet
 categories:
-  - 子育て日記
+  - こどもIA日記
 date: 2012-01-07 18:47:55
 tags:
 ---

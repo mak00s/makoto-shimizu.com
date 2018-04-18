@@ -4,9 +4,9 @@ date: 2011-09-26 07:55:39
 permalink: us-diary-20110918
 banner: //res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1509983977/2011-09-27-Nissan-Versa_anmmvy.jpg
 categories:
-- アメリカ勤務
+  - アメリカ勤務
 tags:
-- Utah
+  - Utah
 ---
 ## まず車をレンタル
 

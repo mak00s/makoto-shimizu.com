@@ -2,7 +2,7 @@
 title: こどもアクセス解析教室
 permalink: web-analytics-lesson-for-kid-part1
 categories:
-  - 子育て日記
+  - こどもIA日記
 date: 2010-12-18 10:45:12
 tags:
 ---

@@ -2,7 +2,7 @@
 title: ママよりパソに詳しくなった小学生から学べること
 permalink: do-and-learn
 categories:
-  - 子育て日記
+  - こどもIA日記
 date: 2011-08-30 13:12:05
 tags:
 ---

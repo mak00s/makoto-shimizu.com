@@ -4,9 +4,9 @@ date: 2013-04-05 06:20:52
 permalink: us-diary-20130405
 banner: //res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1515903629/20130403-Vancouver-Library.jpg
 categories:
-- アメリカ勤務
+  - アメリカ勤務
 tags:
-- Vancouver
+  - Vancouver
 ---
 3月14日から4月13日までバンクーバーのホテルやカフェ、図書館などでノマド仕事しています。
 

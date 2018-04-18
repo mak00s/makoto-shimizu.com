@@ -2,7 +2,7 @@
 title: 11歳の息子と絵文字しりとりで大爆笑
 permalink: emoji-shiritori-by-11-year-kid
 categories:
-  - 子育て日記
+  - こどもIA日記
 date: 2013-07-17 07:32:00
 tags:
 ---

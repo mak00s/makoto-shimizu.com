@@ -2,7 +2,7 @@
 title: 4〜13歳のまとめ
 permalink: 13-year-old-programmer
 categories:
-  - 子育て日記
+  - こどもIA日記
 date: 2014-11-15 22:30:04
 tags:
 ---

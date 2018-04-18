@@ -4,9 +4,9 @@ date: 2012-03-16 07:40:33
 permalink: us-diary-20120316
 banner: //res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1511181984/2012-03-16-Car-Parking.png
 categories:
-- アメリカ勤務
+  - アメリカ勤務
 tags:
-- Utah
+  - Utah
 ---
 USでは、ほぼ全員がバックではなく前向きのまま駐車スペースに突入し、そのままエンジンを止めます。
 後ろ向きに進んで駐車するのが一般的な日本となぜ違うのか、考えてみました。

@@ -3,9 +3,9 @@ title: プレゼンや実務で使える英語フレーズ集 その4
 permalink: useful-english-phrases-part4
 date: 2012-02-17 13:51:26
 categories:
-- アメリカ勤務
+  - アメリカ勤務
 tags:
-- 英語
+  - 英語
 ---
 社内での会話で使える英会話フレーズをさらに11個、紹介します。
 

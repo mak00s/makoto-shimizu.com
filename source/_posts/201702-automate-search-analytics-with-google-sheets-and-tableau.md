@@ -5,8 +5,8 @@ date: 2017-02-06 18:07:04
 banner: //res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1523880524/tableau-google-spreadsheet.png
 categories: 
 tags:
-- Tableau
-- SEO
+  - Tableau
+  - SEO
 ---
 Google Search Console（旧ウェブマスターツール）の詳細データをGoogleスプレッドシートで自動抽出＆自動バックアップし、Tableauにインポートする方法について。
 

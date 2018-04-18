@@ -2,7 +2,7 @@
 title: Dropboxで見つけた9歳のHackメモ
 permalink: hack-memo-by-9yrs-kid
 categories:
-  - 子育て日記
+  - こどもIA日記
 date: 2010-09-19 16:48:56
 tags:
 ---

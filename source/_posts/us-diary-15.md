@@ -4,9 +4,9 @@ date: 2013-02-11 14:20:05
 permalink: us-diary-20130210
 banner: //res.cloudinary.com/mak00s/image/upload/v1523779192/20130211-Utah-Inversion.jpg.jpg
 categories:
-- アメリカ勤務
+  - アメリカ勤務
 tags:
-- Utah
+  - Utah
 ---
 1月のユタを初めて経験しました。
 

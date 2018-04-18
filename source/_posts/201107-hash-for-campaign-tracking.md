@@ -4,7 +4,7 @@ permalink: hash-for-campaign-tracking
 date: 2011-07-07 00:36:59
 categories: 
 tags:
-- Google Analytics
+  - Google Analytics
 ---
 流入元を特定するためにURLにパラメータを付与するのはデメリットが多いので、ハッシュを使ってキレイに消し去る方がベターです。その方法を紹介します。
 <!-- more -->

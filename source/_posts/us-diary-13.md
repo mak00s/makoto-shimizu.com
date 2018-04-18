@@ -4,9 +4,9 @@ date: 2012-04-06 10:05:36
 permalink: us-diary-20120406
 banner: //res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1511186196/2011-09-20-Cubicle-from-Top.jpg
 categories:
-- アメリカ勤務
+  - アメリカ勤務
 tags:
-- Utah
+  - Utah
 ---
 パーティションで仕切られた部屋のようなデスクを**Cubicle（キュービクル）**と呼びます。
 

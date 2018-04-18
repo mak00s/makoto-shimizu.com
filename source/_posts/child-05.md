@@ -2,7 +2,7 @@
 title: 漢字変換を覚えた５歳の年中さん
 permalink: mail-from-5years-child
 categories:
-  - 子育て日記
+  - こどもIA日記
 date: 2009-09-27 22:40:31
 tags:
 ---

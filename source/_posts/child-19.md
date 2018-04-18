@@ -2,9 +2,10 @@
 title: DSよりiPhoneとiPadが好きな10歳が選んだアプリ29種かんそう文
 permalink: iphone-app-for-10-year-kid
 categories:
-  - 子育て日記
+  - こどもIA日記
 date: 2010-11-14 16:30:59
 tags:
+  - iPhone
 ---
 
 3歳からパソコンとケータイを操るこどもは、2010年現在10歳になりました。

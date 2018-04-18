@@ -2,7 +2,7 @@
 title: はじめて届いた3才からの携帯メール
 permalink: first-mobile-mailf
 categories:
-  - 子育て日記
+  - こどもIA日記
 date: 2009-09-02 00:17:35
 tags:
 ---

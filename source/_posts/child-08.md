@@ -2,7 +2,7 @@
 title: ５歳のディレクトリ構造化手法
 permalink: directory-structure-by-5years-child
 categories:
-  - 子育て日記
+  - こどもIA日記
 date: 2009-12-23 00:41:24
 tags:
 ---

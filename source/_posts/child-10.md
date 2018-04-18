@@ -2,7 +2,7 @@
 title: 9歳の息子がDropboxの更新通知を使ってチャットしてきたぁ
 permalink: chat-via-dropbox-with-9years-child
 categories:
-  - 子育て日記
+  - こどもIA日記
 date: 2010-04-03 23:57:37
 tags:
 ---

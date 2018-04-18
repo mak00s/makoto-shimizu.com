@@ -2,7 +2,7 @@
 title: 9歳にとってのお金とお買い物
 permalink: shopping-for-9years
 categories:
-  - 子育て日記
+  - こどもIA日記
 date: 2010-04-17 16:07:07
 tags:
 ---

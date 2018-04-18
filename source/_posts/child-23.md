@@ -2,7 +2,7 @@
 title: 進化系「ごったん」の個性と効率
 permalink: 10-year-boy-says-gottan
 categories:
-  - 子育て日記
+  - こどもIA日記
 date: 2010-12-13 22:38:01
 tags:
 ---

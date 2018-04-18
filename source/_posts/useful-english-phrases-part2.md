@@ -3,9 +3,9 @@ title: プレゼンや実務で使える英語フレーズ集 その2
 permalink: useful-english-phrases-part2
 date: 2011-12-20 23:23:39
 categories:
-- アメリカ勤務
+  - アメリカ勤務
 tags:
-- 英語
+  - 英語
 ---
 前回の「<a href="../useful-english-phrases/">英語のプレゼンをうまく切り抜けるための英語フレーズ集</a>」では、主にプレゼンで使える15の便利フレーズを紹介しましたが、その後も耳にした便利フレーズをまた紹介します。
 

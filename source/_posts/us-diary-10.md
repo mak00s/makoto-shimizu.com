@@ -4,9 +4,9 @@ date: 2012-02-23 14:50:25
 permalink: us-diary-2012025
 banner: //res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1510987098/2012-02-19-car-with-snow.jpg
 categories:
-- アメリカ勤務
+  - アメリカ勤務
 tags:
-- Utah
+  - Utah
 ---
 ガレージに入れるのをサボった時に限って、雪が降って車がこんなことに。
 

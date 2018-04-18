@@ -2,7 +2,7 @@
 title: 10歳に聞きました：SEO編
 permalink: seo-advice-from-10yrs-kid
 categories:
-  - 子育て日記
+  - こどもIA日記
 date: 2010-08-28 15:30:09
 tags:
 ---

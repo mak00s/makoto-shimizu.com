@@ -2,7 +2,7 @@
 title: 9歳とパンダと標準化
 permalink: standards-by-9yrs
 categories:
-  - 子育て日記
+  - こどもIA日記
 date: 2010-05-23 05:00:10
 tags:
 ---

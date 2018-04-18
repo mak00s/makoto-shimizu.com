@@ -4,9 +4,9 @@ date: 2013-04-27 23:00:43
 permalink: us-diary-20130427
 banner: //res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1515904191/20130410-Cafe.jpg
 categories:
-- アメリカ勤務
+  - アメリカ勤務
 tags:
-- Vancouver
+  - Vancouver
 ---
 一時帰国して一週間経ちました。年末以来、2013年初の日本滞在でした。
 お店がなくなったり、新しくできていたり、人も入れ替わったりという微妙な変化を楽しんでいます。

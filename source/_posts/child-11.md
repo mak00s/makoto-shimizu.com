@@ -2,7 +2,7 @@
 title: ６歳の「おはな」フォルダが「すき」と「きらい」に分類されてた
 permalink: hana-yasai-classified-by-6years-child
 categories:
-  - 子育て日記
+  - こどもIA日記
 date: 2010-04-11 21:01:41
 tags:
 ---

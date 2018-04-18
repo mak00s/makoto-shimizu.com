@@ -4,9 +4,9 @@ date: 2011-12-06 17:03:10
 permalink: us-diary-20111206
 banner: //res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1510482958/a-man-holds-the-steering-wheel-with-one-hand_rYH8t_CBi_jxbcqt.jpg
 categories:
-- アメリカ勤務
+  - アメリカ勤務
 tags:
-- Utah
+  - Utah
 ---
 アクセルを踏まずに速度を自動で保ってくれるクルーズコントロールが便利すぎてやめられなくなりました。
 

@@ -2,7 +2,7 @@
 title: 13歳のWebアナリスト誕生！
 permalink: 13-year-old-web-analyst
 categories:
-  - 子育て日記
+  - こどもIA日記
 date: 2014-02-22 08:30:00
 tags:
 ---

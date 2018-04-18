@@ -2,7 +2,7 @@
 title: ７歳から届いたお願いメール
 permalink: mail-from-7years-child
 categories:
-  - 子育て日記
+  - こどもIA日記
 date: 2009-10-31 23:15:59
 tags:
 ---

@@ -2,7 +2,7 @@
 title: 10歳によるネトゲのユーザー行動分析
 permalink: user-analysis-by-10-year-kid
 categories:
-  - 子育て日記
+  - こどもIA日記
 date: 2010-12-05 00:03:46
 tags:
 ---

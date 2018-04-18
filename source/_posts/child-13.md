@@ -2,7 +2,7 @@
 title: パパへ：土よう日のあそびかた
 permalink: letter-from-8years
 categories:
-  - 子育て日記
+  - こどもIA日記
 date: 2010-04-25 22:25:39
 tags:
 ---

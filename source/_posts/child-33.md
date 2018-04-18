@@ -2,7 +2,7 @@
 title: 11歳の絵文字メールがクリエイティブすぎるぅ
 permalink: emoji-art-by-11-year-kid
 categories:
-  - 子育て日記
+  - こどもIA日記
 date: 2013-07-15 07:00:57
 tags:
 ---

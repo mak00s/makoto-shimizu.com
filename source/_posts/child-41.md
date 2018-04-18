@@ -2,7 +2,7 @@
 title: 14歳とママのサイバー攻防とパパ (´ー`;)
 permalink: 14-years-old-iphone-battle
 categories:
-  - 子育て日記
+  - こどもIA日記
 date: 2015-03-12 15:10:40
 tags:
 ---

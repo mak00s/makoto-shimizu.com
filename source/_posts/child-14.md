@@ -2,7 +2,7 @@
 title: 3歳の告白：おもちと母乳
 permalink: letter-from-3-years
 categories:
-  - 子育て日記
+  - こどもIA日記
 date: 2010-05-25 00:00:46
 tags:
 ---

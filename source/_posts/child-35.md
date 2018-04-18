@@ -2,7 +2,7 @@
 title: 12歳にとっては当たり前のO2O
 permalink: offline-to-online-by-12-year-kid
 categories:
-  - 子育て日記
+  - こどもIA日記
 date: 2013-08-13 16:22:17
 tags:
 ---

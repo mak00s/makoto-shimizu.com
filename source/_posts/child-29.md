@@ -2,7 +2,7 @@
 title: 綿アメはプロセスが大事
 permalink: learn-from-wataame
 categories:
-  - 子育て日記
+  - こどもIA日記
 date: 2011-09-14 00:52:20
 tags:
 ---

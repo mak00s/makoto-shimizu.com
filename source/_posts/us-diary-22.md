@@ -4,9 +4,9 @@ date: 2013-08-28 19:07:31
 permalink: us-diary-20130828
 banner: //res.cloudinary.com/mak00s/image/upload/v1523789577/nomad-us-canada-japan.png
 categories:
-- アメリカ勤務
+  - アメリカ勤務
 tags:
-- 
+  - 
 ---
 アメリカに長期滞在すると二重課税になるので「時間帯がアメリカと同じカナダで仕事したい」というダメ元の提案が通った結果、2013年3月から国を超えた**海外ノマドワーカー**になりました。日本、カナダ、アメリカを3分の1ずつ行き来しています。
 

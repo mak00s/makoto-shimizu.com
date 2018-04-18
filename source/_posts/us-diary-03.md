@@ -3,9 +3,9 @@ title: US日記03. 出発
 date: 2011-09-19 01:37:27
 permalink: us-prepare3
 categories:
-- アメリカ勤務
+  - アメリカ勤務
 tags:
-- 
+  - 
 ---
 US就職に向けて、いよいよ**出国**。飛行機の中で書いています。
 

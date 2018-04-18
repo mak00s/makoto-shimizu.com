@@ -2,7 +2,7 @@
 title: 7歳（小１）が自習したローマ字の例文が…
 permalink: romaji-memo-by-7years
 categories:
-  - 子育て日記
+  - こどもIA日記
 date: 2010-10-13 00:07:34
 tags:
 ---

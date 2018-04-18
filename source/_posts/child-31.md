@@ -2,7 +2,7 @@
 title: 子どもからアプリ内メールが届いた！
 permalink: in-app-message
 categories:
-  - 子育て日記
+  - こどもIA日記
 date: 2012-05-14 11:00:58
 tags:
 ---

@@ -2,7 +2,7 @@
 title: 小四の子どもがWikiを更新する理由
 permalink: 10-year-kid-updates-wiki
 categories:
-  - 子育て日記
+  - こどもIA日記
 date: 2011-03-30 00:00:10
 tags:
 ---

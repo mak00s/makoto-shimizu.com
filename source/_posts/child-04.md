@@ -2,7 +2,7 @@
 title: 気持ちあふれる４歳のメール
 permalink: mail-from-4years-child
 categories:
-  - 子育て日記
+  - こどもIA日記
 date: 2009-09-11 23:00:01
 tags:
 ---

@@ -2,7 +2,7 @@
 title: 10歳による驚きのFirefox検索方法
 permalink: how-10-year-kid-search
 categories:
-  - 子育て日記
+  - こどもIA日記
 date: 2010-12-11 00:41:49
 tags:
 ---

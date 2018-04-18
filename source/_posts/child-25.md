@@ -2,7 +2,7 @@
 title: AppleTVとAirPlayを瞬時に理解した10歳のメディア事情
 permalink: apple-tv-for-kid
 categories:
-  - 子育て日記
+  - こどもIA日記
 date: 2011-01-03 13:20:05
 tags:
 ---

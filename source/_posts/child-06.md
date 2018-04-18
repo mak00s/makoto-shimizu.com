@@ -2,7 +2,7 @@
 title: ネットゲームのチャットで急成長の年長さん(６歳)
 permalink: mail-from-6years-child
 categories:
-  - 子育て日記
+  - こどもIA日記
 date: 2009-10-18 23:20:06
 tags:
 ---

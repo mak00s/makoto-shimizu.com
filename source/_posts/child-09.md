@@ -2,7 +2,7 @@
 title: ６歳が管理するかわいいコンテンツ
 permalink: directory-structure-by-6years-child
 categories:
-  - 子育て日記
+  - こどもIA日記
 date: 2010-03-21 08:31:58
 tags:
 ---

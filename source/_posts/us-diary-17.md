@@ -3,9 +3,9 @@ title: US日記17. 日本未公開のGoogleマップメーカーで地図を編�
 date: 2013-02-26 08:35:21
 permalink: us-diary-20130227
 categories:
-- アメリカ勤務
+  - アメリカ勤務
 tags:
-- Utah
+  - Utah
 ---
 Microsoft Surface ProとAmazon Kindle Paperwhiteの実機を使ってみるため、Google MapでBest Buyを検索したところ、地図に**トイレマーク**みたいなアイコンが表示されているのに気づきました。何だコレ？
 

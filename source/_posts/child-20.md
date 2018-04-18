@@ -2,7 +2,7 @@
 title: 10歳のためのWeb解析と最適化講座
 permalink: measure-school-for-10-year-kid
 categories:
-  - 子育て日記
+  - こどもIA日記
 date: 2010-11-27 16:00:41
 tags:
 ---

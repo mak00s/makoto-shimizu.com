@@ -2,7 +2,7 @@
 title: こどもIA日記スタートです
 permalink: ia-baby-blog
 categories:
-  - 子育て日記
+  - こどもIA日記
 date: 2009-09-01 23:50:00
 tags:
 ---

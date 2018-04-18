@@ -4,7 +4,7 @@ permalink: google-analytics-and-crm
 date: 2016-04-09 09:20:10
 categories: 
 tags:
-- Google Analytics
+  - Google Analytics
 ---
 Zohoのユーザー会で、Zoho **CRMとGoogleアナリティクス**を組み合わせた事例について講演しました。その時の資料を公開します。
 グローバル企業が大きなコストをかけて実現しているようなマーケティングのオートメーションを**低予算でどこまで真似できるか**、に挑戦した結果です。

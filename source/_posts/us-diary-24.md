@@ -4,9 +4,9 @@ date: 2014-08-18 00:20:03
 permalink: us-diary-201402
 banner: //res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1514902466/2014-05-19-Eclipse_eowupx.jpg
 categories:
-- アメリカ勤務
+  - アメリカ勤務
 tags:
-- Utah
+  - Utah
 ---
 アメリカではずっと車をレンタルしてましたが、お金がもったいないので中古車を買って売ることにしました。
 ほぼ同じ値段で売れれば、税金や登録、車検、保険のコストのみで済みます。

@@ -4,7 +4,7 @@ permalink: how-to-choose-the-best-company
 date: 2011-01-06 22:30:03
 categories: 
 tags:
-- キャリア
+  - キャリア
 ---
 これまで、数百人は面接してきました。自分自身も7回転職しているため、面接は自己流のスタイルができつつあります。
 

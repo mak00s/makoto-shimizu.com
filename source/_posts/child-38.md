@@ -2,7 +2,7 @@
 title: ゲームは勝ち負けではなく楽しむもの by 9歳
 permalink: boy-enjoys-monopoly
 categories:
-  - 子育て日記
+  - こどもIA日記
 date: 2014-02-03 11:55:00
 tags:
 ---

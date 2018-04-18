@@ -2,7 +2,7 @@
 title: 波を見るより先にプログラムで再現する13歳
 permalink: 13-years-old-boy-simulates-and-learns
 categories:
-  - 子育て日記
+  - こどもIA日記
 date: 2014-01-20 00:30:13
 tags:
 ---
