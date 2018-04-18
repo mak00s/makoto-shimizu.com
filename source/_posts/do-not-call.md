@@ -1,7 +1,7 @@
 ---
 title: 電話版オプトアウト「Do Not Call Registry」体験レポート
 categories:
-  - 
+  - アメリカ勤務
 date: 2011-11-21 08:05:04
 tags:
 ---
