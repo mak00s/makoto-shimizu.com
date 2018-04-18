@@ -35,7 +35,7 @@ tags:
 
 {% raw %}
 <canvas height="400" width="400"></canvas>
-	<script src="/js/processing-1.4.8.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/processing.js/1.4.1/processing.min.js"></script>
 	<script>
     window.onload = function() {
       // canvas要素
