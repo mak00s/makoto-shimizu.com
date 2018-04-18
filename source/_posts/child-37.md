@@ -35,7 +35,7 @@ tags:
 
 {% raw %}
 <canvas height="400" width="400"></canvas>
-	<script src="http://img.xii.jp/js/processing-2.1.js"></script>
+	<script src="/js/processing-2.1.js"></script>
 	<script>
     window.onload = function() {
       // canvas要素
