@@ -39,6 +39,7 @@ widgets:
     - tag
 #    - tagcloud
     - archive
+    - ad
     - links
 
 # Search
