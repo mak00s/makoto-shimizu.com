@@ -12,7 +12,6 @@ tags:
 ![](/images/ia-kid/20100118-dropbox-chat1.png)
 
 > 新規Microsoft Word 文書.doc
-
 > おーい.doc
 
 ![](/images/ia-kid/20100118-dropbox-chat2.png)
@@ -22,9 +21,7 @@ tags:
 ![](/images/ia-kid/20100118-dropbox-chat3.png)
 
 > 最低だ.doc
-
 > インしたらいきなり.doc
-
 > プレイタイムまであと5分とか出てきたし.doc
 
 変更通知がポップアップするのを利用して**話しかけている**？

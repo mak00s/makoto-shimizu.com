@@ -35,21 +35,22 @@ tags:
 
 そこで撮ったのがこんな写真。まずは**スケート**を再現。
 
-[![Minecraftでスケート2013-03-30](https://farm8.staticflickr.com/7421/9493130848_ba58c9f166.jpg)](http://www.flickr.com/photos/27261559@N06/9493130848/)
+<img src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1524027152/2013-Minecraft-Shooting-1.png" alt="Minecraftでスケート2013-03-30" sizes="100vw" />
 
 よく再現されてる！意図的に前屈みになってます。夕日がキレイ。
 
 次は**雪合戦**。実際に雪を投げ合ってます。
 
-[![Minecraftで雪合戦2013-03-30](https://farm3.staticflickr.com/2847/9493132122_2a382ca0e9.jpg)](http://www.flickr.com/photos/27261559@N06/9493132122/)
+<img src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1524027152/2013-Minecraft-Shooting-2.png" alt="Minecraftで雪合戦2013-03-30" sizes="100vw" />
 
 最後は**かまくら**。二人で中に入って撮りました。服の色も当日のに合わせています。
 
-[![Minecraftでかまくら作り2013-03-30](https://farm3.staticflickr.com/2857/9490335393_005bf58587.jpg)](http://www.flickr.com/photos/27261559@N06/9490335393/)
+<img src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1524027152/2013-Minecraft-Shooting-3.png" alt="Minecraftでかまくら作り2013-03-30" sizes="100vw" />
 
 おまけ：**撮影中の様子**
 
-[![撮影中のchat1](https://farm4.staticflickr.com/3817/9493262836_a466b2e45c.jpg)](http://www.flickr.com/photos/27261559@N06/9493262836/) [![撮影中のchat2](https://farm4.staticflickr.com/3782/9490465703_c9400ede07.jpg)](http://www.flickr.com/photos/27261559@N06/9490465703/)
+![撮影中のchat1](/images/ia-kid/2013-Minecraft-Shooting-chat1.png)
+![撮影中のchat2](/images/ia-kid/2013-Minecraft-Shooting-chat2.png)
 
 マインクラフトの中でもチャットできるんですが、日本語が通らないのでMacやiOSで使える「メッセージ」も併用して会話しています。
 
@@ -58,3 +59,5 @@ tags:
 # オフラインからオンラインへ
 
 このように、デジタルキッズにとっては、オフラインとオンラインの間に境はありません。メール、チャット、ゲーム、とマルチチャネルにおける情報の流れを直感的に理解し、柔軟にコミュニケーションできるんですね。将来が楽しみです。
+
+次からは13歳になり、[Webサイトを立ち上げるようになりました](../analytics-2014-with-my-son/)。

@@ -33,4 +33,4 @@ tags:
 
 ITで変わるのは子どもではなく、周りの大人の意識なのかもしれません。
 
-次回は[9歳になった時の驚きのDropbox活用方法](../chat-via-dropbox-with-9years-child/)についてです。
+次は[4歳のメール](../mail-from-4years-child/)を見てみましょう。さらに成長が見られます。

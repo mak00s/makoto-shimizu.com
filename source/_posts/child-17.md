@@ -33,4 +33,4 @@ FF2（ファイナルファンタジー２）は5歳の頃にドコモの携帯�
 
 なかなか用意周到だ...。
 
-次から１０歳になります。[SEOについて聞きました](../seo-advice-from-10yrs-kid/)。
+次回は、[9歳になった時の驚きのDropbox活用方法](../chat-via-dropbox-with-9years-child/)についてです。
