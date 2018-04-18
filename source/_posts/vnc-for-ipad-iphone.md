@@ -20,7 +20,7 @@ WindowsのRemote Desktop (RDP)と比べると
 
 ## VNC方式
 
-### PC Access (85円) [![](/images/badgeitunes61x15dark.gif)](https://itunes.apple.com/jp/app/pc-access/id363481808?mt=8&amp;uo=4&amp;at=11l8bx)
+### PC Access (85円) 配布終了
 
 iPad専用。基本機能のみ。2010年11月からアップデートされていない放置アプリ。
 
@@ -30,7 +30,7 @@ iPad専用。基本機能のみ。2010年11月からアップデートされて�
 リモートコピー：対応
 接続支援ソフト：なし
 
-### Remoter VNC: Remote Desktop (170円)[![](/images/badgeitunes61x15dark.gif)](https://itunes.apple.com/jp/app/remoter-vnc-remote-desktop/id369626098?mt=8&uo=4&at=11l8bx)
+### Remoter VNC: Remote Desktop (120円)[Download](https://itunes.apple.com/jp/app/remoter-vnc-remote-desktop/id369626098?mt=8)
 
 リモコンとしてのアプリのように聞こえるが、実はVNCクライアント。右クリック、ドラッグ、マウスホイールなど、操作性にこだわりが感じられる。キーボードはUSレイアウトのみ対応らしい。アプリ内課金で、RDPやSSHクライアントの機能を追加できる。
 
@@ -40,16 +40,16 @@ iPad専用。基本機能のみ。2010年11月からアップデートされて�
 リモートコピー：未対応
 接続支援ソフト：なし
 
-### Mocha VNC Lite (無料) [![](/images/badgeitunes61x15dark.gif)](https://itunes.apple.com/jp/app/mocha-vnc-lite/id284984448?mt=8&uo=4&at=11l8bx)
-昔はメジャーだったが、最近は失速気味のアプリ。有料版のお試しとして明確に位置付けられるようになったため、特殊キーや右クリック、マウスホイール機能が無効化されていて、実用的ではない。
+### Mocha VNC Lite (無料) [Download](https://itunes.apple.com/jp/app/mocha-vnc-lite/id284984448?mt=8)
+有料版のお試しとして明確に位置付けられるようになったため、5分間しか接続を維持できない。2017年になってもアップデートされている。
 
 対応デバイス：iPhone/iPad（ユニバーサル）
-マウス操作：右クリックやホイールが無効化されている
-キーボード：特殊キーは無効化されている
+マウス操作：右クリック対応
+キーボード：特殊キーはEsc, Tab, Alt, Ctrl, Windows, Cursor, F1-12, Option, Appleキーに対応
 リモートコピー：未対応
 接続支援ソフト：なし
 
-### Mocha VNC (500円) [![](/images/badgeitunes61x15dark.gif)](https://itunes.apple.com/jp/app/mocha-vnc/id284981670?mt=8&uo=4&at=11l8bx)
+### Mocha VNC (720円) [Download](https://itunes.apple.com/jp/app/mocha-vnc/id284981670?mt=8)
 無料版のLiteで試せる。マウスの細かい操作がしにくいという声も。他のアプリが充実してきた今では見劣りし、割高感がある。
 
 対応デバイス：iPhone/iPad（ユニバーサル）
@@ -58,8 +58,8 @@ iPad専用。基本機能のみ。2010年11月からアップデートされて�
 リモートコピー：未対応
 接続支援ソフト：なし
 
-### Connect Desktop (450円) [![](/images/badgeitunes61x15dark.gif)](https://itunes.apple.com/jp/app/jie-xusurukonpyuta/id366221243?mt=8&uo=4&at=11l8bx)
-基本機能を備えたマイナーなアプリ。トラックパッドモードにすると、タッチではなくマウス操作ができるが、使いやすいかは好みによる。ホイール操作も可能。「接続するコンピュータ」って名前までヘンな翻訳しなくても...
+### Connect Desktop (600円) [Download](https://itunes.apple.com/jp/app/jie-xusurukonpyuta/id366221243?mt=8)
+基本機能を備えたマイナーなアプリ。トラックパッドモードにすると、タッチではなくマウス操作ができるが、使いやすいかは好みによる。ホイール操作も可能。「接続するコンピュータ」って名前まで変な翻訳しなくても...最後にアップデートされたのは2016年。
 
 対応デバイス：iPhone/iPad（ユニバーサル）
 マウス操作：トラックパッドモード、右クリック、ホイール対応
@@ -67,18 +67,18 @@ iPad専用。基本機能のみ。2010年11月からアップデートされて�
 リモートコピー：未対応
 接続支援ソフト：なし
 
-### VNC Pocket Office (600円) [![](/images/badgeitunes61x15dark.gif)](https://itunes.apple.com/jp/app/vnc-pocket-office/id319524681?mt=8&uo=4&at=11l8bx) / VNC Pocket Office Pro (700円) [![](/images/badgeitunes61x15dark.gif)](https://itunes.apple.com/jp/app/vnc-pocket-office-pro/id373297182?mt=8&uo=4&at=11l8bx)
-ハイブリッドではないのでiPhone用とiPad用(Pro)に分かれている。画面の縮小マップや部分拡大、タッチジェスチャー、ホイールなど、機能が充実していてパフォーマンスも良いという売り込みだが、USでもユーザーが少ないマイナーアプリ。情報やレビューが少ないので実際どうかよく分からない。
+### VNC Pocket Office Pro (960円) [Download](https://itunes.apple.com/jp/app/vnc-pocket-office-pro/id373297182?mt=8)
+画面の縮小マップや部分拡大、タッチジェスチャー、ホイールなど、機能が充実していてパフォーマンスも良いという売り込みだが、USでもユーザーが少ないマイナーアプリ。情報やレビューが少ないので実際どうかよく分からない。最後にアップデートされたのは2014年。
 
-対応デバイス：iPhoneとiPad（別アプリ）
+対応デバイス：iPhoneとiPad（ユニバーサル）
 マウス操作：右クリック、タッチジェスチャー、ホイール対応
 キーボード：特殊キーはEsc, Alt, Ctrl, Delete, Insert, Home, End, Cursor, F1-12, Windows, Page
 Up/Down, Option, Cmdキーに対応
 リモートコピー：未対応
 接続支援ソフト：なし
 
-### Remote HD (700円) [![](/images/badgeitunes61x15dark.gif)](https://itunes.apple.com/jp/app/remote-hd/id310516183?mt=8&uo=4&at=11l8bx)
-リモコン用のアプリ。デバイスがワイヤレスキーボード＆マウスになるイメージ。リモートデスクトップとしては弱い。外部ネットワークから接続できる支援ソフト付き。iPhone/iPadの音量ボタンで接続先マシンの音量を変えられる。海外では評判が良かったが、2010年からアップデートされていない。機能限定のLite版もある。
+### Remote HD (960円) [Download](https://itunes.apple.com/jp/app/remote-hd/id310516183?mt=8)
+リモコン用のアプリ。デバイスがワイヤレスキーボード＆マウスになるイメージ。リモートデスクトップとしては弱い。外部ネットワークから接続できる支援ソフト付き。iPhone/iPadの音量ボタンで接続先マシンの音量を変えられる。海外では評判が良かったが、2010年からアップデートされていない。
 
 対応デバイス：iPhone/iPad（ユニバーサル）
 マウス操作：2フィンガー時差タップで右クリック、3フィンガーでスクロール
@@ -86,8 +86,8 @@ Up/Down, Option, Cmdキーに対応
 リモートコピー：未対応
 接続支援ソフト：あり
 
-### VNC Viewer (850円) [![](/images/badgeitunes61x15dark.gif)](https://itunes.apple.com/jp/app/vnc-viewer/id352019548?mt=8&uo=4&at=11l8bx)
-VNCの元祖RealVNC社によるアプリ。リモートコピペが可能。 iPadのソフトキーボードで特殊キーを入力できる。目立つ特徴は無いが、価格がリーズナブルでオフィシャルな安心感があるためか、評判が良い。ただし、接続設定の支援機能はないので、外部ネットワークから接続したい場合はルータの設定などが必要になる。
+### VNC Viewer (無料) [Download](https://itunes.apple.com/jp/app/vnc-viewer/id352019548?mt=8)
+VNCの元祖RealVNC社によるアプリ。リモートコピペが可能。 iPadのソフトキーボードで特殊キーを入力できる。目立つ特徴は無いが、価格がリーズナブルでオフィシャルな安心感があるためか、評判が良い。ただし、接続設定の支援機能はないので、外部ネットワークから接続したい場合はルータの設定などが必要になる。以前は有料だったが無料になった。2018年になってもアップデートされている。iPhone Xのスクリーンにも対応。
 
 対応デバイス：iPhone/iPad（ユニバーサル）
 マウス操作：2フィンガー時差タップで右クリック、3フィンガーでスクロール
@@ -95,7 +95,7 @@ VNCの元祖RealVNC社によるアプリ。リモートコピペが可能。 iPa
 リモートコピー：対応
 接続支援ソフト：なし
 
-### iSSH-SSH/VNC Console (850円) [![](/images/badgeitunes61x15dark.gif)](https://itunes.apple.com/jp/app/issh-ssh-vnc-console/id287765826?mt=8&uo=4&at=11l8bx)
+### iSSH-SSH/VNC Console (850円) 配布終了
 VNC機能付きのSSH/Telnetクライアント。サーバー管理がメインで、VNCはたまにしか使わない場合は良いかも。
 
 対応デバイス：iPhone/iPad（ユニバーサル）
@@ -104,8 +104,8 @@ VNC機能付きのSSH/Telnetクライアント。サーバー管理がメイン�
 リモートコピー：対応
 接続支援ソフト：なし
 
-### Desktop Connect (1,300円) [![](/images/badgeitunes61x15dark.gif)](https://itunes.apple.com/jp/app/desktop-connect/id364907570?mt=8&uo=4&at=11l8bx)
-iPad専用アプリ。Windowsのリモートデスクトップ(RDP)とVNCの両方に対応している。同一ネットワーク内ならBonjourやNETBIOSで接続先マシンを自動検出できる。外部ネットワークからでもGoogle認証で楽につなげる支援機能が付属。自宅外や社外からMacとPCに手軽に接続したい場合に良さそう。サポートサイトが充実している。
+### Desktop Connect (1,800円) [Download](https://itunes.apple.com/jp/app/desktop-connect/id364907570?mt=8)
+iPad専用アプリ。Windowsのリモートデスクトップ(RDP)とVNCの両方に対応している。同一ネットワーク内ならBonjourやNETBIOSで接続先マシンを自動検出できる。外部ネットワークからでもGoogle認証で楽につなげる支援機能が付属。自宅外や社外からMacとPCに手軽に接続したい場合に良さそう。サポートサイトが充実している。が、最後にアップデートされたのは2014年。
 
 対応デバイス：iPad
 マウス操作：タッチパッドモード
@@ -114,8 +114,8 @@ Up/Down, Option, Cmdキーに対応
 リモートコピー：対応（RDP接続時のみ）
 接続支援ソフト：有り。Wake-On-LAN対応
 
-### Jump Desktop (1,300円)[![](/images/badgeitunes61x15dark.gif)](https://itunes.apple.com/jp/app/jump-desktop-remote-desktop/id364876095?mt=8&uo=4&at=11l8bx)
-Windowsのリモートデスクトップ(RDP)とVNCの両方に対応している唯一のユニバーサルアプリ（iPhoneとiPadに同時に対応）。基本機能に加えてホイール操作、iPadの外部モニタ出力やBluetoothキーボードにも対応している。固定IPアドレスが無い場合のための接続設定支援ソフトも付属する。非英語圏キーボードにも対応、とあるがiPad側で入力した日本語が通るかは不明。外部モニタ対応。
+### Jump Desktop (1,800円) [Download](https://itunes.apple.com/jp/app/jump-desktop-remote-desktop/id364876095?mt=8)
+Windowsのリモートデスクトップ(RDP)とVNCの両方に対応している唯一のユニバーサルアプリ（iPhoneとiPadに同時に対応）。基本機能に加えてホイール操作、iPadの外部モニタ出力やBluetoothキーボードにも対応している。固定IPアドレスが無い場合のための接続設定支援ソフトも付属する。非英語圏キーボードにも対応、とあるがiPad側で入力した日本語が通るかは不明。外部モニタ対応。2017年になってもアップデートされている。iPhone Xのスクリーンにも対応。
 
 対応デバイス：iPhone/iPad（ユニバーサル）
 マウス操作：2フィンガータップで右クリック
@@ -124,8 +124,8 @@ Up/Downキーに対応。外部キーボード対応。
 リモートコピー：未対応
 接続支援ソフト：有り
 
-### iTeleport VNC&RDP (2,200円) [![](/images/badgeitunes61x15dark.gif)](https://itunes.apple.com/jp/app/iteleport-vnc-rdp/id286470485?mt=8&uo=4&at=11l8bx)
-リモートデスクトップで定評のあるJaaduの後継アプリ。接続先マシンからiPhone/iPadへコピペ可能。完全フルスクリーン表示、自動セットアップなど、機能が充実。接続先のPC/Mac/Linuxマシンに接続支援ソフトをインストールしておくと、Googleアカウント認証で自宅外や社外から手軽に接続できる。サポート対応も評判が良い。高いだけある。迷ったらこれにしておけば間違いはなさそう。
+### iTeleport VNC&RDP (3,000円) [Download](https://itunes.apple.com/jp/app/iteleport-vnc-rdp/id286470485?mt=8)
+リモートデスクトップで定評のあるJaaduの後継アプリ。接続先マシンからiPhone/iPadへコピペ可能。完全フルスクリーン表示、自動セットアップなど、機能が充実。接続先のPC/Mac/Linuxマシンに接続支援ソフトをインストールしておくと、Googleアカウント認証で自宅外や社外から手軽に接続できる。サポート対応も評判が良い。高いだけある。迷ったらこれにしておけば間違いはなさそう。2017年になってもアップデートされている。
 
 対応デバイス：iPhone/iPad（ユニバーサル）
 マウス操作：？
@@ -137,32 +137,34 @@ Up/Downキーに対応。外部キーボード対応。
 
 ## 独自方式
 
-### Splashtop 2 - Remote Desktop (600円) [![](/images/badgeitunes61x15dark.gif)](https://itunes.apple.com/jp/app/splashtop-2-remote-desktop/id382509315?mt=8&amp;uo=4&amp;at=11l8bx)
+### Splashtop Personal (無料) [Download](https://itunes.apple.com/jp/app/splashtop-2-remote-desktop/id382509315?mt=8)
 
-VNCではなく独自の常駐ソフトをインストールするタイプ。サウンド再生にも対応。パフォーマンスが良いため、動画再生も可能。最初の頃は価格破壊でヒットしたが、その後アプリ内課金を導入し、本体価格も値上げされた。
+VNCではなく独自の常駐ソフトをインストールするタイプ。サウンド再生にも対応。パフォーマンスが良いため、動画再生も可能。個人利用の場合は無料になった（2018年4月の時点）
 
-### PC2Me+ (850円) [![](/images/badgeitunes61x15dark.gif)](https://itunes.apple.com/jp/app/pc2me+-5.0/id305211697?mt=8&amp;uo=4&amp;at=11l8bx)
+### PC2Me+ (850円) 配布終了
 
 こちらもリモコン的なアプリ。VNCではなく独自の常駐ソフトをインストールする。PC上の動画やサウンドのストリーミング再生や、ファイルの転送も可能。リモートデスクトップとしての機能や完成度は不明。無線LANのみに対応なので注意。
 
-### CrazyRemote Pro (850円) [![](/images/badgeitunes61x15dark.gif)](https://itunes.apple.com/jp/app/crazyremote-pro/id367228572?mt=8&amp;uo=4&amp;at=11l8bx)
+### CrazyRemote Pro (1200円) [Download](https://itunes.apple.com/jp/app/crazyremote-pro/id367228572?mt=8)
 
-こちらもPC側に独自常駐ソフトをインストールする韓国の新参アプリ。サウンド再生可能。画面の描画が速いため、動画再生やゲームも可能という宣伝だが、少し不安定。Windows XP, Vista, 7のみに対応。
+こちらもPC側に独自常駐ソフトをインストールする韓国の新参アプリ。サウンド再生可能。画面の描画が速いため、動画再生やゲームも可能という宣伝だが、少し不安定。Windows XP, Vista, 7のみに対応。最後にアップデートされたのは2014年。
 
-### LogMeIn Ignition (11,500円) [![](/images/badgeitunes61x15dark.gif)](https://itunes.apple.com/jp/app/ignition/id299616801?mt=8&amp;uo=4&amp;at=11l8bx)
+### LogMeIn (無料) [Download](https://itunes.apple.com/jp/app/logmein/id479229407?mt=8)
 
-App以外にもWebブラウザからアクセスできる、管理・設定できる項目が多い、ネットワーク設定は自動なので簡単、日本語ページやサポートが受けられる、とメリットは多い。日本ではBiglobeも代理店として販売している。アプリ以外のWeb版クライアントは無料なので、気軽に試すことができる。接続先のマシンに常駐ソフトをインストールするだけで、ブラウザで遠隔操作できるようになる。以前は3,450円だったが一気に値上げ。年間1,700円の期限付き[アプリ内課金を採用したバージョン](https://itunes.apple.com/jp/app/logmein/id479229407?mt=8&amp;uo=4&amp;at=11l8bx)を主力にしたい様子。
+接続先のマシンに常駐ソフトをインストールするだけで、ブラウザで遠隔操作できるようになる。App以外にもWebブラウザからアクセスできる、管理・設定できる項目が多い、ネットワーク設定は自動なので簡単、と当時はメリットが多かったが、日本でのBiglobeによる提携サービスが終了し、年間350ドルと一気に値上げされた。
 
-### TeamViewer (個人利用は無料)iPhone:[![](/images/badgeitunes61x15dark.gif)](https://itunes.apple.com/jp/app/teamviewer-for-remote-control/id357069581?mt=8&amp;uo=4&amp;at=11l8bx), iPad:[![](/images/badgeitunes61x15dark.gif)](https://itunes.apple.com/jp/app/teamviewer-hd-for-remote-control/id379424610?mt=8&amp;uo=4&amp;at=11l8bx)
+### TeamViewer: Remote Control (無料) [Download](https://itunes.apple.com/jp/app/teamviewer/id692035811)
 
-PC側に独自常駐ソフトをインストールするタイプ。
+PC側に独自常駐ソフトをインストールするタイプ。月額5,000円のサブスクリプション購入が必要。2018年になってもアップデートされている安定感のあるアプリ。
 
 ## 結論
 
-VNCが初めての人は、**[Mocha VNC Lite](https://itunes.apple.com/jp/app/mocha-vnc-lite/id284984448?mt=8&amp;uo=4&amp;at=11l8bx)**でまずは体験を。
+VNCの場合、[元祖RealVC社のアプリ](https://itunes.apple.com/jp/app/vnc-viewer/id352019548?mt=8)が無料になったので、それで十分。
 
-MacやLinuxにはVNC、WindowsにはRDPで接続したい場合は、RDPとVNCに同時対応している**[Desktop Connect](https://itunes.apple.com/jp/app/desktop-connect/id364907570?mt=8&amp;uo=4&amp;at=11l8bx)** (1,300円)や**[Jump Desktop](https://itunes.apple.com/jp/app/jump-desktop-remote-desktop/id364876095?mt=8&amp;uo=4&amp;at=11l8bx)** (1,400円)だと同じ操作性になるので戸惑わない。
+MacやLinuxにはVNC、WindowsにはRDPで接続したい場合は、RDPとVNCに同時対応している**[Desktop Connect](https://itunes.apple.com/jp/app/desktop-connect/id364907570?mt=8)** (1,800円)や**[Jump Desktop](https://itunes.apple.com/jp/app/jump-desktop-remote-desktop/id364876095?mt=8)** (1,800円)だと同じ操作性になるので戸惑わないというメリットはあるが、古く高いアプリなので、慎重に検討したい。
 
-VNCをヘビーに使うなら、定番の**[iTeleport](https://itunes.apple.com/jp/app/iteleport-vnc-rdp/id286470485?mt=8&amp;uo=4&amp;at=11l8bx)** (2,200円)が無難か。中途半端なものを選ぶと、物足りなくなって買い直すことになる。
+VNCをヘビーに使うなら、定番の**[iTeleport](https://itunes.apple.com/jp/app/iteleport-vnc-rdp/id286470485?mt=8)** (3,000円)が無難か。中途半端なものを選ぶと、物足りなくなって買い直すことになる。
 
-外出先から自宅や会社に接続する場合は、**[LogMeIn](https://itunes.apple.com/jp/app/logmein/id479229407?mt=8&amp;uo=4&amp;at=11l8bx)** (年間1,700円)が手軽で安心。
+外出先から自宅に接続する場合は、**[Splashtop Personal](https://itunes.apple.com/jp/app/splashtop-2-remote-desktop/id382509315?mt=8)** なら無料なので気軽にお試しできる。
+
+_2018年4月追記：ダウンロードリンクを修正し、最終アップデート日について追記。最近の新しいアプリは追加していないので、このリスト以外にもアプリがあるかもしれません。_
