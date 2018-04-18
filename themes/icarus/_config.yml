@@ -2,7 +2,7 @@
 menu:
   Home: .
   Articles: http://www.cms-ia.info/articles/
-  Contact: http://www.cms-ia.info/contact/
+  Contact: contact/
   About: about/
 
 # Customize
