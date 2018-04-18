@@ -33,11 +33,11 @@ iOS（iPhoneとiPad）で使えるリモートデスクトップのクライア�
 
 いろいろ使ったり調べたりしてみましたが、違うポイントのは、マウスの操作方式、（iPhone/iPad側での）日本語入力への対応、サウンド再生、対応OS、iPadのフルスクリーン対応、外部モニタ対応、です。
 
-### Microsoftリモートデスクトップ (無料)[![](/images/badgeitunes61x15dark.gif)](https://itunes.apple.com/jp/app/microsoft-%E3%83%AA%E3%83%A2%E3%83%BC%E3%83%88-%E3%83%87%E3%82%B9%E3%82%AF%E3%83%88%E3%83%83%E3%83%97/id714464092?mt=8)
+### Microsoftリモートデスクトップ (無料)[Download](https://itunes.apple.com/jp/app/microsoft-%E3%83%AA%E3%83%A2%E3%83%BC%E3%83%88-%E3%83%87%E3%82%B9%E3%82%AF%E3%83%88%E3%83%83%E3%83%97/id714464092?mt=8)
 
 Microsoft自身による公式アプリ。2018年現在はこれがベスト。以下で色々評価していましたが、ベストだったiTapをマイクロソフトが買収して公式アプリとして提供を開始したので、他のアプリの存在意義がほとんどなくなりました。
 
-### iRdesktop by Thinstuff (無料)[![](/images/badgeitunes61x15dark.gif)](https://itunes.apple.com/jp/app/irdesktop/id311467740?mt=8&amp;uo=4&amp;at=11l8bx)
+### iRdesktop by Thinstuff (無料)[Download](https://itunes.apple.com/jp/app/irdesktop/id311467740?mt=8)
 
 無料アプリの中では唯一実用的。iPadのフルスクリーンにも対応。サウンドが再生されない、クリップボードを共有できない、など機能は限定的。2011年でアップデート停止。
 
@@ -47,11 +47,11 @@ Microsoft自身による公式アプリ。2018年現在はこれがベスト。�
 日本語入力：未対応
 iPadのフルスクリーン：対応
 
-### iRemoteDesktop by By Hana Mobile (600円)[![](/images/badgeitunes61x15dark.gif)](https://itunes.apple.com/jp/app/rimotodesukutoppu/id343556263?mt=8&amp;uo=4&amp;at=11l8bx)
+### iRemoteDesktop by By Hana Mobile (600円)[Download](https://itunes.apple.com/jp/app/rimotodesukutoppu/id343556263?mt=8)
 
 日本語では「リモートデスクトップ」という名称。iTunesの説明文は機械翻訳。英語でも情報不足のため、詳細不明。ネガティブなコメントも寄せられている。もっと良いのがあるので、選ぶ理由はあまり無い。無料版もある。最後にアップデートされたのは2016年。
 
-### Remote Desktop by Mocha Soft (720円)[![](/images/badgeitunes61x15dark.gif)](https://itunes.apple.com/jp/app/remote-desktop-rdp/id288362053?mt=8&amp;uo=4&amp;at=11l8bx)
+### Remote Desktop by Mocha Soft (720円)[Download](https://itunes.apple.com/jp/app/remote-desktop-rdp/id288362053?mt=8)
 
 ハイブリッドでiPadにも対応。2018年4月になってもまだアップデートされているが、サウンドと日本語入力に対応していないため、機能面で劣る。
 
@@ -61,7 +61,7 @@ iPadのフルスクリーン：対応
 日本語入力：未対応
 iPadのフルスクリーン：対応
 
-### Remote Desktop Lite by Mocha Soft (無料)[![](/images/badgeitunes61x15dark.gif)](https://itunes.apple.com/jp/app/remote-desktop-lite-rdp/id288362576?mt=8&amp;uo=4&amp;at=11l8bx)
+### Remote Desktop Lite by Mocha Soft (無料)[Download](https://itunes.apple.com/jp/app/remote-desktop-lite-rdp/id288362576?mt=8)
 
 上記の無料版。制限として右クリックやドラッグ、矢印やCtrl+Alt+Deleteなどの特殊キー入力ができないため、お試し版的な位置づけ。
 
@@ -77,7 +77,7 @@ iPadのフルスクリーン：対応
 日本語入力：対応
 iPadのフルスクリーン：対応
 
-### Desktop Connect by Antecea (1,800円)[![](/images/badgeitunes61x15dark.gif)](https://itunes.apple.com/jp/app/desktop-connect/id364907570?mt=8&amp;uo=4&amp;at=11l8bx)
+### Desktop Connect by Antecea (1,800円)[Download](https://itunes.apple.com/jp/app/desktop-connect/id364907570?mt=8)
 
 RDPとVNCの両方に対応しているので接続先が WindowsのHomeエディションやMacでも接続できるお得なアプリ。外部モニタ出力やクリップボード共有にも対応。最後にアップデートされたのは2014年。
 
@@ -107,7 +107,7 @@ RDPとVNCの両方をサポート。外部モニタ出力も可能。アプリ�
 日本語入力：対応
 iPadのフルスクリーン：対応
 
-### Jump Desktop by Phase Five Systems (1,800円)[![](/images/badgeitunes61x15dark.gif)](https://itunes.apple.com/jp/app/jump-desktop-remote-desktop/id364876095?mt=8&amp;uo=4&amp;at=11l8bx)
+### Jump Desktop by Phase Five Systems (1,800円)[Download](https://itunes.apple.com/jp/app/jump-desktop-remote-desktop/id364876095?mt=8)
 
 RDPとVNCの両方をサポート。外部モニタ出力も可能。3Gで外部から接続するためのサポート機能もある。日本では知名度が低いが、海外では評判が高い。最後にアップデートされたのは2017年。
 
@@ -117,7 +117,7 @@ RDPとVNCの両方をサポート。外部モニタ出力も可能。3Gで外部
 日本語入力：未対応
 iPadのフルスクリーン：対応
 
-### iTeleport: VNC/RDP by iTeleport (3,000円)[![](/images/badgeitunes61x15dark.gif)](https://itunes.apple.com/jp/app/iteleport-vnc-rdp/id286470485?mt=8&amp;uo=4&amp;at=11l8bx)
+### iTeleport: VNC/RDP by iTeleport (3,000円)[Download](https://itunes.apple.com/jp/app/iteleport-vnc-rdp/id286470485?mt=8)
 
 操作性やパフォーマンスの面で評判が高かったJaadu Remote Desktopが名前を変えて復活。最後にアップデートされたのは2017年。
 
@@ -131,11 +131,11 @@ iPadのフルスクリーン：対応
 
 **日本語入力ができるものは３つ**しかなさそう。
 
-iPhoneで評判が良いのが[**iTeleport VNC/RDP**](https://itunes.apple.com/jp/app/iteleport-vnc-rdp/id286470485?mt=8&amp;uo=4&amp;at=11l8bx)。最近になって、ようやくiPadにも対応しました。ただし2,200円と高いです。
+iPhoneで評判が良いのが[**iTeleport VNC/RDP**](https://itunes.apple.com/jp/app/iteleport-vnc-rdp/id286470485?mt=8)。最近になって、ようやくiPadにも対応しました。ただし2,200円と高いです。
 
-2013年9月の時点でオススメなのは、iPadのフルスクリーンにも対応していて、比較的安価な **[iTap mobile RDP](https://itunes.apple.com/jp/app/itap-mobile-rdp-remote-desktop/id317062064?mt=8&amp;uo=4&amp;at=11l8bx) **と **[PocketCloudリモートデスクトップPro](https://itunes.apple.com/jp/app/pocketcloud-rimotodesukutoppu/id326512817?mt=8&amp;uo=4&amp;at=11l8bx) **。
+2013年9月の時点でオススメなのは、iPadのフルスクリーンにも対応していて、比較的安価な **[iTap mobile RDP](https://itunes.apple.com/jp/app/itap-mobile-rdp-remote-desktop/id317062064?mt=8) **と **[PocketCloudリモートデスクトップPro](https://itunes.apple.com/jp/app/pocketcloud-rimotodesukutoppu/id326512817?mt=8) **。
 私はこの二つを購入しました。ハイブリッドなのでiPhoneとiPadの両方で使えます。PocketCloudの方はVNCにも対応しています。
 
-利用頻度が低く、iPhone/iPadのキーボードで日本語入力ができなくても良い、安い方が良い、という場合は、無料の[**iRdesktop**](https://itunes.apple.com/jp/app/irdesktop/id311467740?mt=8&amp;uo=4&amp;at=11l8bx)でお試しを。
+利用頻度が低く、iPhone/iPadのキーボードで日本語入力ができなくても良い、安い方が良い、という場合は、無料の[**iRdesktop**](https://itunes.apple.com/jp/app/irdesktop/id311467740?mt=8)でお試しを。
 
-2018年4月追記：iTap mobileをマイクロソフトが買収して公式アプリとして提供を開始したので、他のアプリの存在意義がほとんどなくなりました。
+_2018年4月追記：iTap mobileをマイクロソフトが買収して公式アプリとして提供を開始したので、他のアプリの存在意義がほとんどなくなりました。_
