@@ -13,11 +13,11 @@ tags:
 
 ## こんなメールが来ました。
 
-![](http://files.cms-ia.webnode.com/200000346-00ceb02037/201502-find-iphone-sound.png)
+![](/images/ia-kid/201502-find-iphone-sound.png)
 
 「**iPhoneを探す**」(Find My iPhone) というアプリを使うと、リモートで子どもの居場所を調べられます。
 
-![](http://files.cms-ia.webnode.com/200000348-81f0682ea9/201502-find-iphone-actions.png)
+![](/images/ia-kid/201502-find-iphone-actions.png)
 
 iPhoneを紛失した時に場所を調べるのが本来の使い方です。見つけたら、音を鳴らしたり、機能を無効化したり、データを消去することができます。
 
@@ -34,7 +34,7 @@ iPhoneを紛失した時に場所を調べるのが本来の使い方です。�
 
 今度はこんなメールが届いて、仰天しました。
 
-![](http://files.cms-ia.webnode.com/200000347-6e7e57071d/201502-find-iphone-erase.png)
+![](/images/ia-kid/201502-find-iphone-erase.png)
 
 あれ、いつもとメッセージが違う。
 
