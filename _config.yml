@@ -106,3 +106,19 @@ popularPosts:
   morphologicalAnalysis:
   cache:                                                # (オプション) キャッシュの使用。デフォルトは非使用
     path: hexo-popular-related-posts-cached.json        # (オプション) キャッシュファイルの保存先(相対パス)
+
+algolia:
+  appId: "1YPAWQD830"
+  apiKey: "b2506df18cb2387c05027db831a3dd10"
+  adminApiKey: "407842cbae757be363be6d0a9ec1b3cc"
+  chunkSize: 5000
+  indexName: "prod_MS"
+  fields:
+    - content:strip:truncate,0,500
+    - excerpt:strip
+    - gallery
+    - permalink
+    - photos
+    - slug
+    - tags
+    - title
