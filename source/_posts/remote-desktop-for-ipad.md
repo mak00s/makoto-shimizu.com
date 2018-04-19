@@ -9,7 +9,9 @@ tags:
 
 iPhoneやiPadからPCを操作できる**リモートデスクトップ**のアプリを13個評価しました。FXやテレワーク（自宅勤務）、サーバー管理、SEO調査などに便利です。
 
+{% alert info %}
 PCやMacのデスクトップを遠隔操作する規格は、VNCとRDPの二つあります（参考：[Wikipedia](http://ja.wikipedia.org/wiki/Remote_Desktop_Protocol)）
+{% endalert %}
 
 ### RDP (Remote Desktop Protocol)
 
@@ -88,7 +90,7 @@ RDPとVNCの両方に対応しているので接続先が WindowsのHomeエデ�
 日本語入力：未対応
 iPadのフルスクリーン：対応
 
-### eZDesktop VNC and RDP by Antecea（開発終了）
+### eZDesktop VNC and RDP by Antecea（公開終了）
 
 2分間の限定お試ししかできないのに3,000円の有料アプリで、RDPとVNCそれぞれに対応するためにさらに850円のアプリ内課金が必要。苦情やサポートが放置されている。追記：2010年に開発終了。上記のDesktop Connectが後継版とのこと。
 
@@ -98,7 +100,7 @@ iPadのフルスクリーン：対応
 日本語入力：未対応
 iPadのフルスクリーン：未対応
 
-### PocketCloud Remote Desktop Pro by Wyse (1,800円)（開発終了）
+### PocketCloud Remote Desktop Pro by Wyse (1,800円)（公開終了）
 
 RDPとVNCの両方をサポート。外部モニタ出力も可能。アプリ内課金をすると、機能が増える。Android版アプリもある。日本語サイトや日本語サポートもあり、体制がしっかりしているのが安心。コストパフォーマンスが高い。
 
@@ -139,4 +141,6 @@ iPhoneで評判が良いのが[**iTeleport VNC/RDP**](https://itunes.apple.com/j
 
 利用頻度が低く、iPhone/iPadのキーボードで日本語入力ができなくても良い、安い方が良い、という場合は、無料の[**iRdesktop**](https://itunes.apple.com/jp/app/irdesktop/id311467740?mt=8)でお試しを。
 
-_2018年4月追記：iTap mobileをマイクロソフトが買収して公式アプリとして提供を開始したので、他のアプリの存在意義がほとんどなくなりました。_
+{% alert warning %}
+2018年4月追記：iTap mobileをマイクロソフトが買収して公式アプリとして提供を開始したので、他のアプリの存在意義がほとんどなくなりました。
+{% endalert %}

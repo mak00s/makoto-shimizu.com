@@ -3,7 +3,7 @@ title: iPhone用のGoogle Analyticsアプリ13種類まとめレビュー
 date: 2010-07-20 19:00:00
 ---
 
-**Google AnalyticsのiPhoneアプリ**を**13種類**あつめてレビューしました。機能や操作性、安定度がさまざまなだけでなく、サポートの対応、更新頻度もピンきりです。開発が止まったまま販売を続けるアプリや、サポートが放置状態のアプリもあるので、**購入の際は注意が必要**です。
+**Google AnalyticsのiPhoneアプリを13種類**あつめてレビューしました。機能や操作性、安定度がさまざまなだけでなく、サポートの対応、更新頻度もピンきりです。開発が止まったまま販売を続けるアプリや、サポートが放置状態のアプリもあるので、**購入の際は注意が必要**です。
 
 当サイトが今回の評価結果から導き出した、**長期的に安定して使えるものを選ぶためのポイント**は
 
@@ -13,7 +13,9 @@ date: 2010-07-20 19:00:00
 
 今回はそんな観点で、全13種類のGoogleアナリティクス用iPhoneアプリについてレビューしました。
 
-2018年更新：Googleが[公式のGoogle Analyticsアプリを公開](https://itunes.apple.com/ao/app/google-analytics/id881599038?mt=8)したので、それがベストです。サードパーティのアプリは存在意義を失ったので、ほぼ全滅しました。
+{% alert warning %}
+2018年追記：Googleが[公式のGoogle Analyticsアプリを公開](https://itunes.apple.com/ao/app/google-analytics/id881599038?mt=8)したので、それがベストです。サードパーティのアプリは存在意義を失ったので、ほぼ全滅しました。
+{% endalert %}
 
 ### Analytic（無料）[Download](https://itunes.apple.com/jp/app/analytic/id347040462?mt=8)
 
@@ -115,4 +117,6 @@ GAユーザーは一部のサイトオーナーに限られ、さらにGA系ア�
 
 2014/02/20 追記：13中9個のアプリが公開終了し、App Storeから削除されていました。新しいアプリも増えました。
 
+{% alert warning %}
 2018/4/18 追記：Googleが[公式のGoogle Analyticsアプリを公開](https://itunes.apple.com/ao/app/google-analytics/id881599038?mt=8)したので、それがベストです。サードパーティのアプリは存在意義を失ったので、ほぼ全滅しました。
+{% endalert %}

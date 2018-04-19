@@ -37,9 +37,13 @@ GoogleアナリティクスのCookie IDを会員IDとして計測するという
 
 今回の仕組みでは手作業が残るので、完全なオートメーションはできませんが、デジタルマーケティングは工夫すれば**スモールスタートできることを実証**できました。うまく実績を残せれば、社内説得や予算確保も容易になるはず。今年はこのように大きなことを小さく実現する方法について、もっと模索＆啓蒙していきたいと思っています。
 
-## 連載記事を書きました
-2018年4月追記：Zohoさんのブログで詳しい方法を公開しました。「GoogleアナリティクスとZoho CRMの連携術」という連載です。
+### 2018年4月追記
 
+{% alert info %}
+Zohoさんのブログで詳しい方法を公開しました。「GoogleアナリティクスとZoho CRMの連携術」という連載です。
+{% endalert %}
+
+#### 連載記事
 1. [データをリアルタイムで連携させる](https://blogs.zoho.jp/link/integrate-crm-salesiq-analytics/)
 2. [わかり次第ユーザーの情報を更新していくプログレッシブアプローチ](https://blogs.zoho.jp/link/integrate-crm-salesiq-analytics_vol2/)
 3. [実際のデータを見ながらどんな活用ができるのかを考えてみよう](https://blogs.zoho.jp/link/integrate-crm-salesiq-analytics_vol3/)
