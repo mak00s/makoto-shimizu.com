@@ -10,7 +10,7 @@
 
 
 # Image directory (default: images)
-image_dir: images
+image_dir: assets/images
 
 
 # ---------------------
