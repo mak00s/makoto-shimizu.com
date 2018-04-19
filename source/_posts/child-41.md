@@ -52,6 +52,6 @@ iPhoneを紛失した時に場所を調べるのが本来の使い方です。�
 
 ## まとめると
 
-![](http://files.cms-ia.info/200000349-f2bb4f3b58/cyber-attack.png)
+![](/images/ia-kid/cyber-attack.png)
 
 ネット上で繰り広げられた家庭内の一コマでした。
