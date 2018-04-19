@@ -6,7 +6,14 @@
 title: 清水誠公式サイト
 subtitle: ユーザー視点のWeb設計・分析を実践＆開拓中
 description:
-keywords: Analytics, UX, CX, Customer Experience, Data Visualization, Adobe Analytics, SiteCatalyst, Google Analytics, Tableau
+keywords: 
+  - Analytics
+  - UX
+  - Customer Experience
+  - Data Visualization
+  - Adobe Analytics
+  - Google Analytics
+  - Tableau
 author: Makoto Shimizu
 language: en
 timezone: Asia/Tokyo
@@ -76,7 +83,8 @@ pagination_dir: page
 ## Themes: https://hexo.io/themes/
 ## theme: landscape
 #theme: bootstrap-blog
-theme: icarus
+#theme: icarus
+theme: tranquilpeak
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
