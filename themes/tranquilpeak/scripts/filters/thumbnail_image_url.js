@@ -51,7 +51,7 @@
           return post.thumbnailImage;
         }
 
-        return urlFor(post.permalink + post.thumbnailImage);
+        return post.thumbnailImage; //return urlFor(post.permalink + post.thumbnailImage);
       }
 
       // Define third images (cover image and first photo) as thumbnail image
@@ -72,7 +72,7 @@
             return post.coverImage;
           }
 
-          return urlFor(post.permalink + post.coverImage);
+          return post.coverImage; //return urlFor(post.permalink + post.coverImage);
         }
       }
       return null;
