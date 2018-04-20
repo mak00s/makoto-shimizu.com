@@ -4,6 +4,7 @@ date: 2017-10-24 18:00:00
 tags:
   - Google Analytics
   - GTM
+thumbnailImage: /images/ga/custom-dimension-timestamp.png
 ---
 
 Googleアナリティクスでカスタマー（ユーザー）一人ひとりの行動を分析（＝カスタマーアナリティクス）するためには、Googleアナリティクスのカスタムディメンションに**Client IDとタイムスタンプ**を格納しておき、ヒット単位のデータをGAから取り出して時系列で並べて処理・集計する必要があります。
