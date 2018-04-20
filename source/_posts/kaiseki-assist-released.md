@@ -2,11 +2,13 @@
 title: Adobe Analyticsの便利ツールを公開しました
 date: 2016-02-05 14:30:45
 tags:
+thumbnailImage: //res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1523887998/20160202_ibs_kaiseki-assist-fig01.png
 ---
 
-Adobe Analyticsの便利ツール「**KAISEKI-Assist**」の第二弾がリリースされました。
+Adobe Analyticsの便利ツール「**KAISEKI-Assist**」の第二弾をリリースしました。
 
-現在利用できるのは、レポートスイートの設定情報を自動でExcel化する「**autoSDR**」と、分類（SAINT）の編集をExcelのみで行える「**autoClassify**」の２つです。
+レポートスイートの設定情報を自動でExcel化する「**autoSDR**」と、分類（SAINT）の編集をExcelのみで行える「**autoClassify**」の２つです。
+<!-- more -->
 
 ## 変数設定の管理・更新「autoSDR」
 

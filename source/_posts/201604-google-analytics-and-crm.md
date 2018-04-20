@@ -5,10 +5,10 @@ date: 2016-04-09 09:20:10
 categories: 
 tags:
   - Google Analytics
+thumbnailImage: /images/ga/zoho-crm.png
 ---
 Zohoのユーザー会で、Zoho **CRMとGoogleアナリティクス**を組み合わせた事例について講演しました。その時の資料を公開します。
 グローバル企業が大きなコストをかけて実現しているようなマーケティングのオートメーションを**低予算でどこまで真似できるか**、に挑戦した結果です。
-
 <!-- more -->
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/sCocYt6aihpEoq" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>

@@ -8,11 +8,9 @@ thumbnailImage: /images/ga/custom-dimension-timestamp.png
 ---
 
 Googleアナリティクスでカスタマー（ユーザー）一人ひとりの行動を分析（＝カスタマーアナリティクス）するためには、Googleアナリティクスのカスタムディメンションに**Client IDとタイムスタンプ**を格納しておき、ヒット単位のデータをGAから取り出して時系列で並べて処理・集計する必要があります。
-
-GTMでGoogleアナリティクスのカスタムディメンションにClient IDをセットする方法については、[前回の記事](..//how-to-measure-google-analytics-client-id-with-gtm-2017/)で紹介しました。
-
-今回は、さらにGTMでアクセス時間（タイムスタンプ）をセットする方法について紹介します。
 <!-- more -->
+
+GTMでGoogleアナリティクスのカスタムディメンションにClient IDをセットする方法については、[前回の記事](..//how-to-measure-google-analytics-client-id-with-gtm-2017/)で紹介しました。今回は、さらにGTMでアクセス時間（タイムスタンプ）をセットする方法について紹介します。
 
 ## なぜタイムスタンプもカスタムディメンションに入れるのか？
 

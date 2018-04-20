@@ -6,13 +6,14 @@ categories:
   - アメリカ勤務
 tags:
   - Utah
+thumbnailImage: //res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1517125792/201403-LibertyHill01.jpg
 ---
 今回のユタでの滞在先は、最初の1週間だけAirbnbで個人宅のお部屋を借りて、その間にアパートやシェアルームを探しました。いろいろ分かったことをメモ。
+<!-- more -->
 
 ## 便利だけど高いサービスアパート
-サービスアパート (Serviced Apartment) とは、家具付き、光熱費込み、敷金や礼金なしのアパートのことです。
-英語では Corporate Housing という名称の方が一般的ですね。
-<!-- more -->
+サービスアパート (Serviced Apartment) とは、家具付き、光熱費込み、敷金や礼金なしのアパートのことです。英語では Corporate Housing という名称の方が一般的ですね。
+
 詳細はWikipediaをどうぞ（[日本語](https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%82%A2%E3%83%91%E3%83%BC%E3%83%88%E3%83%A1%E3%83%B3%E3%83%88) ・ [英語](https://en.wikipedia.org/wiki/Serviced_apartment)）
 
 ホテルよりも広くて安く、洗濯機や冷蔵庫、キッチン、インターネット、ケーブルテレビ、掃除機などが揃っているので快適です。
