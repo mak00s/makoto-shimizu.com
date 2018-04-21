@@ -2,7 +2,7 @@
 title: US日記19. バンクーバーでのノマドは
 date: 2013-04-27 23:00:43
 permalink: us-diary-20130427
-banner: //res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1515904191/20130410-Cafe.jpg
+thumbnailImage: //res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1515904191/20130410-Cafe.jpg
 categories:
   - アメリカ勤務
 tags:

@@ -2,7 +2,7 @@
 title: US日記12. 前向き駐車のUSと後ろ向きの日本、それぞれの事情
 date: 2012-03-16 07:40:33
 permalink: us-diary-20120316
-banner: //res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1511181984/2012-03-16-Car-Parking.png
+thumbnailImage: //res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1511181984/2012-03-16-Car-Parking.png
 categories:
   - アメリカ勤務
 tags:

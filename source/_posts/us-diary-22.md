@@ -2,7 +2,7 @@
 title: US日記22. また通った意外な提案
 date: 2013-08-28 19:07:31
 permalink: us-diary-20130828
-banner: //res.cloudinary.com/mak00s/image/upload/v1523789577/nomad-us-canada-japan.png
+thumbnailImage: //res.cloudinary.com/mak00s/image/upload/v1523789577/nomad-us-canada-japan.png
 categories:
   - アメリカ勤務
 tags:

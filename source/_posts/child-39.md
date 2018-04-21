@@ -5,11 +5,13 @@ categories:
   - こどもIA日記
 date: 2014-02-22 08:30:00
 tags:
+thumbnailImage: /images/ia-kid/spike-20131224.png
 ---
 
 子どもが立ち上げたサイト全てにWeb解析を導入しています。
 
 ブラウザでWeb解析レポートを見るのは面倒なので、解析用アプリもいくつかiPhoneにインストールしてあげました。
+<!-- more -->
 
 参考：[iPhone用のGAアプリ13種類まとめ](/web-analytics/ga-app-for-iphone/)
 

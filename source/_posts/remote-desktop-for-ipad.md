@@ -12,6 +12,7 @@ iPhoneやiPadからPCを操作できる**リモートデスクトップ**のア�
 {% alert info %}
 PCやMacのデスクトップを遠隔操作する規格は、VNCとRDPの二つあります（参考：[Wikipedia](http://ja.wikipedia.org/wiki/Remote_Desktop_Protocol)）
 {% endalert %}
+<!-- more -->
 
 ### RDP (Remote Desktop Protocol)
 

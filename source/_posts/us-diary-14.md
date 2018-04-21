@@ -2,7 +2,7 @@
 title: US日記14. サマータイムではない
 date: 2012-04-23 06:00:42
 permalink: us-diary-20120421
-banner: //res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1509664418/customize_06_yo7qvt.jpg
+thumbnailImage: //res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1509664418/customize_06_yo7qvt.jpg
 categories:
   - アメリカ勤務
 tags:

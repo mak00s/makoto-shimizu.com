@@ -2,7 +2,7 @@
 title: US日記13. 充実の仕事環境をようやくGET
 date: 2012-04-06 10:05:36
 permalink: us-diary-20120406
-banner: //res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1511186196/2011-09-20-Cubicle-from-Top.jpg
+thumbnailImage: //res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1511186196/2011-09-20-Cubicle-from-Top.jpg
 categories:
   - アメリカ勤務
 tags:

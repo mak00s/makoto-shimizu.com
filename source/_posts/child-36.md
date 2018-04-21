@@ -5,12 +5,14 @@ categories:
   - こどもIA日記
 date: 2013-12-25 08:30:20
 tags:
+thumbnailImage: /images/ia-kid/dad-and-son-2014.png
 ---
 
 こんにちは。3月発売の書籍「[ビジュアルWeb解析](http://amzn.asia/1bE2JAu)」を鋭意執筆中の清水です。
+アクセス解析イニシアチブ主催のセミナー「チームの意思決定に不可欠なデータのビジュアライズ」（[参加レポート](https://kosgis.com/news/report-a2i_131217/)）に参加いただいた小杉さんの**WEB解析 Advent Calendar 2013**（[Facebook](https://www.facebook.com/WebAnalyticsAdventCalendar)）（[ATND](https://atnd.org/events/45132)）に参加したので久しぶりにブログ記事を書いてます。
+<!-- more -->
 
 ![](/images/ia-kid/dad-and-son-2014.png)
-アクセス解析イニシアチブ主催のセミナー「チームの意思決定に不可欠なデータのビジュアライズ」（[参加レポート](https://kosgis.com/news/report-a2i_131217/)）に参加いただいた小杉さんの**WEB解析 Advent Calendar 2013**（[Facebook](https://www.facebook.com/WebAnalyticsAdventCalendar)）（[ATND](https://atnd.org/events/45132)）に参加したので久しぶりにブログ記事を書いてます。
 
 単なる業界総括やトレンド予測では面白くない！今日はクリスマスなので、「家族と過ごす」というUSスタイルで「息子と一緒に学んだこと」について書くことにしました。
 

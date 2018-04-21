@@ -2,7 +2,7 @@
 title: US日記05. 戸惑いの1週間が過ぎて
 date: 2011-09-26 14:22:01
 permalink: us-diary-20110926
-banner: //res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1510384460/2011-09-23-Adobe-in-Orem.jpg
+thumbnailImage: //res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1510384460/2011-09-23-Adobe-in-Orem.jpg
 categories:
   - アメリカ勤務
 tags:

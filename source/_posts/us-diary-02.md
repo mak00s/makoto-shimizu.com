@@ -2,7 +2,7 @@
 title: US日記02. 業務のコンセプトとKPIって?
 date: 2011-09-08 01:47:50
 permalink: us-prepare2
-banner: //res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1510453707/business-meeting_SY7m3JANo_o58lqa.png
+thumbnailImage: //res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1510453707/business-meeting_SY7m3JANo_o58lqa.png
 categories:
   - アメリカ勤務
 tags:

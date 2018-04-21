@@ -2,10 +2,12 @@
 title: iTunes Matchで古いMP3の音質を大幅アップさせる方法
 date: 2014-01-05 00:05:05
 tags:
-banner: //res.cloudinary.com/mak00s/image/upload/f_auto/v1523898868/itunes-match-aac.png
+  - iPhone
+thumbnailImage: //res.cloudinary.com/mak00s/image/upload/f_auto/v1523898868/itunes-match-aac.png
 ---
 
 Tunes Matchを使って古いMP3を最新のAACフォーマットにグレードアップできたので、方法をメモ。
+<!-- more -->
 
 #### iTunes Matchのメリットは２つ。
 

@@ -5,9 +5,11 @@ categories:
   - こどもIA日記
 date: 2014-02-03 11:55:00
 tags:
+thumbnailImage: /images/ia-kid/monopoly-junior-01.png
 ---
 
 9歳の誕生日、中学受験で忙しくなる前のこと。実家からおじいちゃんとあばあちゃんが遊びに来てくれたので、モノポリーで遊びました。
+<!-- more -->
 
 ![](/images/ia-kid/monopoly-junior-01.png)
 
