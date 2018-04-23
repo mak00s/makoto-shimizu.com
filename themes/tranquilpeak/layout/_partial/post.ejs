@@ -44,6 +44,7 @@
             <%- partial('post/actions', {postContent: postContent}) %>
         <% } %>
         <%-
+            // 関連記事 2018-04-24 追加 by Mak
             popular_posts( {} , post )
         %>
         <% if (post.comments) { %>
