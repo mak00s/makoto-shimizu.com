@@ -43,6 +43,9 @@
         <% if (post.actions === undefined || post.actions) { %>
             <%- partial('post/actions', {postContent: postContent}) %>
         <% } %>
+        <%-
+            popular_posts( {} , post )
+        %>
         <% if (post.comments) { %>
             <% if (theme.disqus_shortname) { %>
                 <%- partial('post/disqus') %>
