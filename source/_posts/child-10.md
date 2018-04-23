@@ -13,6 +13,7 @@ tags:
 
 > 新規Microsoft Word 文書.doc
 > おーい.doc
+<!-- more -->
 
 ![](/images/ia-kid/20100118-dropbox-chat2.png)
 

@@ -2,18 +2,17 @@
 title: US日記15. 1月のユタを襲う逆転層と雨氷
 date: 2013-02-11 14:20:05
 permalink: us-diary-20130210
-thumbnailImage: //res.cloudinary.com/mak00s/image/upload/v1523779192/20130211-Utah-Inversion.jpg.jpg
 categories:
   - アメリカ勤務
 tags:
   - Utah
+thumbnailImage: //res.cloudinary.com/mak00s/image/upload/v1523779192/20130211-Utah-Inversion.jpg.jpg
 ---
 1月のユタを初めて経験しました。
 
 ## 山の方が暖かい
 まず驚いたのが、**逆転層**（[Wikipediaの説明](http://ja.wikipedia.org/wiki/%E9%80%86%E8%BB%A2%E5%B1%A4)）という気象現象。
 ユタ（のワサッチフロント）は四方を山に囲まれているので、寒い空気が閉じ込められて停滞した状態の上側に暖かい高気圧が来ることがあります。通常は高度が上がるほど気温が下がりますが、逆に**上に行くほど温度が上がる**ので、逆転層 (Inversion) と呼ばれます。
-
 <!-- more -->
 
 スキー場に行ったところ、確かに霧が晴れて空が青くなり、気温が4度ほど高くなりました。10度近く上がることもあるそうです。

@@ -8,7 +8,6 @@ tags:
   - Utah
 ---
 Microsoft Surface ProとAmazon Kindle Paperwhiteの実機を使ってみるため、Google MapでBest Buyを検索したところ、地図に**トイレマーク**みたいなアイコンが表示されているのに気づきました。何だコレ？
-
 <!-- more -->
 
 <img src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:429/v1515901368/20130226-google-map-bestbuy-arial.png" alt="Google Map上のアイコン" sizes="100vw" />

@@ -5,6 +5,7 @@ tags:
 ---
 
 アクセス解析に便利なFirefoxアドオン「[HttpFox](https://addons.mozilla.org/ja/firefox/addon/6647/)」の日本語化をお手伝いしました。最新版にアップデートするとUIが自動的に日本語になります。
+<!-- more -->
 
 海外ソフトウェアの日本語は、
 

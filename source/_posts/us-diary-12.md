@@ -2,17 +2,16 @@
 title: US日記12. 前向き駐車のUSと後ろ向きの日本、それぞれの事情
 date: 2012-03-16 07:40:33
 permalink: us-diary-20120316
-thumbnailImage: //res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1511181984/2012-03-16-Car-Parking.png
 categories:
   - アメリカ勤務
 tags:
   - Utah
+thumbnailImage: //res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1511181984/2012-03-16-Car-Parking.png
 ---
 USでは、ほぼ全員がバックではなく前向きのまま駐車スペースに突入し、そのままエンジンを止めます。
 後ろ向きに進んで駐車するのが一般的な日本となぜ違うのか、考えてみました。
 
 いろいろ理由が考えられます。
-
 <!-- more -->
 
 ## 日本では前向き駐車できない理由が多い

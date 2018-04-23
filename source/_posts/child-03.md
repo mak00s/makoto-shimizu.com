@@ -11,6 +11,7 @@ tags:
 _（３歳5ヶ月）_
 
 ![3歳3ヶ月の落書き](/images/ia-kid/20030904-rakugaki.png)
+<!-- more -->
 
 まだ幼稚園に入る前にくれた、[前回](../first-mobile-mailf/)に続く2通目のメールです。
 

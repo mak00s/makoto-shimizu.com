@@ -7,6 +7,7 @@ tags:
 ---
 
 面倒なので更新が遅れがちだった記事リストをGoogle Driveと自動連動させてみました。jQueryとDataTablesを使っているので、サクサクと並び替えやフィルタ、ページ移動ができます。いろいろ応用ができそうなので、方法についてメモしておきます。
+<!-- more -->
 
 <img src="//res.cloudinary.com/mak00s/image/upload/v1523896567/google-spreadsheet-before.png" alt="" sizes="100vw" />
 <img src="//res.cloudinary.com/mak00s/image/upload/v1523896567/google-spreadsheet-after.png" alt="" sizes="100vw" />

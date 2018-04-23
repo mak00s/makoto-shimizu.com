@@ -2,16 +2,15 @@
 title: US日記02. 業務のコンセプトとKPIって?
 date: 2011-09-08 01:47:50
 permalink: us-prepare2
-thumbnailImage: //res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1510453707/business-meeting_SY7m3JANo_o58lqa.png
 categories:
   - アメリカ勤務
 tags:
   - 
+thumbnailImage: //res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1510453707/business-meeting_SY7m3JANo_o58lqa.png
 ---
 日本のオフィスでの4日間は渡米の準備と社内ツールの習得、PCセットアップがメインでした。残りの8営業日は現状の体制、プロセス、課題の把握と仮説立案にフォーカスしたいと思っています。
 
 そのために、ヒアリングをたくさんセットしました。
-
 <!-- more -->
 
 自分のミッションのKGIとKPIについて決めておきたいところです。社内的には、ついバグの数とか解決までの期間短縮、契約のリテンション率などに注目しがちですが、**最終ゴールはあくまで既存顧客の満足度UP**。

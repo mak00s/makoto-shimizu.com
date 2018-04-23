@@ -5,6 +5,7 @@ categories:
   - こどもIA日記
 date: 2013-07-17 07:32:00
 tags:
+thumbnailImage: /images/ia-kid/emoji-2012-shiritori-h.png
 ---
 
 子どもから[絵文字アートが届いた](../emoji-art-by-11-year-kid/)同じ日のこと。文字化けのようなメッセージが届きました。
@@ -12,6 +13,7 @@ tags:
 ![絵文字しりとり](/images/ia-kid/emoji-2012-shiritori-a.png)
 
 よく見ると、
+<!-- more -->
 
 > 「しりとりしよ」
 > 「やろう〜」
@@ -73,7 +75,7 @@ tags:
 
 と、ここで子どもが「馬」と「鹿」と続けました。
 
-![](http://files.cms-ia.webnode.com/200000287-92b0f93aae/emoji-2012-shiritori-baka.png)
+![](/images/ia-kid/emoji-2012-shiritori-baka.png)
 
 ### え、「ウマ」と「シカ」？
 

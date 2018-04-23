@@ -2,16 +2,15 @@
 title: US日記10. 冬のユタ
 date: 2012-02-23 14:50:25
 permalink: us-diary-2012025
-thumbnailImage: //res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1510987098/2012-02-19-car-with-snow.jpg
 categories:
   - アメリカ勤務
 tags:
   - Utah
+thumbnailImage: //res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1510987098/2012-02-19-car-with-snow.jpg
 ---
 ガレージに入れるのをサボった時に限って、雪が降って車がこんなことに。
 
 Hertzで車を借りた時にくれた除雪用のスクレイパーではがしてみたところ。けっこう堅く、幅が狭いので時間がかかります。
-
 <!-- more -->
 
 <img sizes="100vw" src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1510986864/2012-02-19-car-snow-removal.jpg" alt="結構力が必要です" />

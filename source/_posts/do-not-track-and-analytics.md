@@ -5,6 +5,7 @@ tags:
 ---
 
 EUはCookie Lawにより**明示的なオプトインが必要**になりましたが、USではオプトアウトの「Do Not Track」が支持を集めつつあります。Googleを中心に広告業界による華麗なスルーがしばらく続いていましたが、オバマ政権が2012年2月に「Privacy Bill of Rights」を議会に提出したことで、業界が動き出しました。最近の動きとしては
+<!-- more -->
 
 ### 2012-02-23
 **Google**がChromeにDo Not Trackの機能を実装することを発表（Firefox、IE、Mac OS 10.7 Lion上のSafariは既に対応済み）- [WSJ記事](https://www.wsj.com/articles/SB10001424052970203960804577239774264364692)

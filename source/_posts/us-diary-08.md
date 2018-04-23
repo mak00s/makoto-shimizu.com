@@ -2,17 +2,16 @@
 title: US日記08. クルーズコントロールが行動に与える影響
 date: 2011-12-06 17:03:10
 permalink: us-diary-20111206
-thumbnailImage: //res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1510482958/a-man-holds-the-steering-wheel-with-one-hand_rYH8t_CBi_jxbcqt.jpg
 categories:
   - アメリカ勤務
 tags:
   - Utah
+thumbnailImage: //res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1510482958/a-man-holds-the-steering-wheel-with-one-hand_rYH8t_CBi_jxbcqt.jpg
 ---
 アクセルを踏まずに速度を自動で保ってくれるクルーズコントロールが便利すぎてやめられなくなりました。
 
 車がキープしたい速度に達したら、ハンドルについてる小さなレバー（カローラの場合）でクルーズコントロールをonにし、現在の速度をセットするだけ。アクセルを踏まなくても勝手に速度を保ってくれます。
 上り坂でも下り坂でも、シフトやエンジンブレーキが自動で作動して速度を一定に保ちます。レバーを小刻みに上下に倒すと、約1マイルずつ速度を調整できます。前の車との距離を一定に保つ機能もあるようです（高級車の場合）。
-
 <!-- more -->
 
 <img src="//res.cloudinary.com/mak00s/image/upload/f_auto/v1509665481/cruize-control_pq7fwf.png" class="alignnone wp-image-1109" width="431" height="299" alt="ハンドルについたクルーズコントロール">

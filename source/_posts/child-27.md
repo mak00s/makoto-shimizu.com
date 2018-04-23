@@ -10,6 +10,7 @@ tags:
 我が家のiPadには、[リモートデスクトップ](../remote-desktop-for-ipad/)や[VNC、LogMeIn系アプリ](../vnc-for-ipad-iphone/)がたくさん入っていて、自宅とクラウド**PCを遠隔操作**できるようになっています。
 
 WindowsやMacをiPadやiPhone、デスクトップから遠隔操作するというこのスタイルは、**大震災の後に活躍**しました。
+<!-- more -->
 
 ## 理由1\. 会社のMacを使えた
 

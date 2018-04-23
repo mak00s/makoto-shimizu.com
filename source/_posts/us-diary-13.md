@@ -2,16 +2,15 @@
 title: US日記13. 充実の仕事環境をようやくGET
 date: 2012-04-06 10:05:36
 permalink: us-diary-20120406
-thumbnailImage: //res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1511186196/2011-09-20-Cubicle-from-Top.jpg
 categories:
   - アメリカ勤務
 tags:
   - Utah
+thumbnailImage: //res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1511186196/2011-09-20-Cubicle-from-Top.jpg
 ---
 パーティションで仕切られた部屋のようなデスクを**Cubicle（キュービクル）**と呼びます。
 
 メーカーやモデルによっていろいろな種類がありますが、ユタのAdobeで使われているのはSteelcase製ので、くの字型のデスク、引き出し、棚、棚の下にライト、そして後ろ側には大きな個人用ホワイトボードがついています。
-
 <!-- more -->
 
 <img src="//res.cloudinary.com/mak00s/image/upload/v1511186378/2012-cubicle_i7jizf.png" alt="Cubicle" width="400" height="343" />

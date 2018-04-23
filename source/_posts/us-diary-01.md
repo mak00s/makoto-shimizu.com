@@ -2,17 +2,16 @@
 title: US日記01. US勤務前に行った６つの準備と抱負
 date: 2011-09-06 02:11:02
 permalink: us-prepare
-thumbnailImage: //res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1509665507/airplane-wing-view-at-sunset_QJliM4_fbqs0b.jpg
 categories:
   - アメリカ勤務
 tags:
   - Utah
+thumbnailImage: //res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1509665507/airplane-wing-view-at-sunset_QJliM4_fbqs0b.jpg
 ---
 旅は準備から始まります。出発までに行ったことをメモしておきます。
 
 ## 飛行機
 成田―ソルトレイクシティ間の場合、安いのはデルタかUnitedでした（時期による）。飛行機の座席についてのサイトで調べたところ、共用テレビが遠くの壁についている機体と、前の座席の裏側に個人用のテレビがついている機体があることがわかりました。そういえばOmniture Summitに参加した時の帰りはテレビが無くて退屈だったので、これは重要！席の良し悪しも解説されていたので、旅行会社に列と番号の希望を伝えることにしました。マニアックだけど役に立つサイトがあるもんです。
-
 <!-- more -->
 
 **参考** : [SeatExpert](http://seatexpert.com/seatmap/226/Delta_Air_Lines_Airbus_A330-200/), [SeatGuru](https://www.seatguru.com/airlines/Delta_Airlines/Delta_Airlines_Airbus_A330_200_3L2_new.php)

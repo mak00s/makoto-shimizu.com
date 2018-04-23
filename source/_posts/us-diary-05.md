@@ -2,11 +2,11 @@
 title: US日記05. 戸惑いの1週間が過ぎて
 date: 2011-09-26 14:22:01
 permalink: us-diary-20110926
-thumbnailImage: //res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1510384460/2011-09-23-Adobe-in-Orem.jpg
 categories:
   - アメリカ勤務
 tags:
   - Utah
+thumbnailImage: //res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1510384460/2011-09-23-Adobe-in-Orem.jpg
 ---
 US勤務の最初の一週間があっという間に過ぎました...。
 
@@ -14,7 +14,6 @@ US勤務の最初の一週間があっという間に過ぎました...。
 
 車で会社へ５分程度です。マイカー出勤が多いので、周りは駐車場だらけ。好きなところに止めてもよいそうです。
 USでは、**前向き駐車がほとんど**。広いので帰るときの方向転換を気にする必要がないため？
-
 <!-- more -->
 
 <img sizes="100vw" src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1510386249/2011-09-26-Canyon-Park-Tech-Center-Map.png" sizes="100vw" alt="オフィスの航空写真。２棟半を借りている。" />

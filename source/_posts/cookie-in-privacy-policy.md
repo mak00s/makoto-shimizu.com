@@ -11,8 +11,9 @@ tags:
 [Google Analytics規約違反について、あるいは企業はプライバシーポリシーをどう扱うべきかって話など。](http://fujii-yuji.net/2012/01/google-analytics.html) - フジイユウジ::ドットネット
 
 ちょうど先週、プライバシーポリシーの説明が上手なサイトを見つけたので、ご紹介します。
+<!-- more -->
 
-![]()
+![](/images/privacy-policy-about-cookie.png)
 
 プライバシーポリシーとは独立したページで、Cookie名ごとに用途、保存内容、期間などが記述されています。
 

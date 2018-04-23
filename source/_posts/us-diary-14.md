@@ -2,20 +2,19 @@
 title: US日記14. サマータイムではない
 date: 2012-04-23 06:00:42
 permalink: us-diary-20120421
-thumbnailImage: //res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1509664418/customize_06_yo7qvt.jpg
 categories:
   - アメリカ勤務
 tags:
--
+  -
+thumbnailImage: //res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1509664418/customize_06_yo7qvt.jpg
 ---
 日本では馴染みのないこの制度。USの場合は時計を一時間分進めるので、本来は11時なのにお昼になります。太陽が真上にくる頃は13時。朝は暗く、夜は遅くまで明るい状態になります。明るいうちに仕事を終えて、明るいうちに余暇を楽しむのが目的だとか。
 
-実は「Summer Time」はイギリスなどヨーロッパでの言い方で、USでは「**Daylight Saving Time**」と言います。
-昼の灯りを節約するための時間帯、というような意味です。
+実は「Summer Time」はイギリスなどヨーロッパでの言い方で、USでは「**Daylight Saving Time**」と言います。昼の灯りを節約するための時間帯、というような意味です。
+<!-- more -->
+
 いつからいつまで適用されるのかは国や地域によって異なります。USでは3月～11月に適用されるので、夏どころか、**春夏秋タイム**なのです。だからなのか、**誰もサマータイムとは言いません**。
 恥ずかしいので、相手の地域に応じて使い分けるようにしましょう...。
-
-<!-- more -->
 
 ## 切り替わりがツライ
 

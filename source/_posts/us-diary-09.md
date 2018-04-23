@@ -2,11 +2,11 @@
 title: US日記09. 第二期スタート
 date: 2012-01-30 09:15:46
 permalink: us-diary-20120130
-thumbnailImage: //res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1510986096/2012-us-japan.png
 categories:
   - アメリカ勤務
 tags:
   - Utah
+thumbnailImage: //res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1510986096/2012-us-japan.png
 ---
 2012年1月27日に再び渡米、第二期が始まりました。
 
@@ -16,7 +16,6 @@ tags:
 USから日本に戻った時も、日本からUSに戻った時も、「久しぶり」という感覚がなく、まるで先週までそこにいたかのように感じられます。物理的にはどちらかにしか居ないのに、両方の生活が途切れずに続いているパラレルワールド。同じ時間で2倍楽しめるのでオトクです。
 
 ただし、実際にはお店や座席、組織が変わっていたりして浦島太郎状態です。「何が変わったんだろう」と、思い出しながら記憶と現実を比較するのも面白いです。
-
 <!-- more -->
 
 ## リアルはつながらない

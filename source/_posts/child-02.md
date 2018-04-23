@@ -11,6 +11,7 @@ tags:
 _（３歳5ヶ月）_
 
 ![3才6ヶ月、コートを着て歩く](/images/ia-kid/20031221-3sai-walking.png)
+<!-- more -->
 
 ## パパIAの解説
 

@@ -2,16 +2,15 @@
 title: US日記18. バンクーバーのコロシアム図書館
 date: 2013-04-05 06:20:52
 permalink: us-diary-20130405
-thumbnailImage: //res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1515903629/20130403-Vancouver-Library.jpg
 categories:
   - アメリカ勤務
 tags:
   - Vancouver
+thumbnailImage: //res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1515903629/20130403-Vancouver-Library.jpg
 ---
 3月14日から4月13日までバンクーバーのホテルやカフェ、図書館などでノマド仕事しています。
 
 最近のお気に入りは図書館（Vancouver Public Library）。9階建てで蔵書280万冊、デスクには電源、無線LANもあり、夜9時まで開いているという充実っぷり。ダウンタウンなので近くにカフェやレストランも多く、便利です。
-
 <!-- more -->
 
 <img src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1515903782/Caprica_%20movie.png" alt="SFドラマ「Battlestar Galactica」のシーン" sizes="100vw" />

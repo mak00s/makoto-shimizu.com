@@ -11,6 +11,7 @@ tags:
 _（６歳）_
 
 すっかり**Flashゲーム**にハマってます
+<!-- more -->
 
 このころのお気に入りは「[ぷにぷにこうえん](http://netkun.com/puni/kouen/)」と「[シフトアップネット](http://www.shiftup.net/)」。
 
