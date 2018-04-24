@@ -1,5 +1,5 @@
 ---
-title: iTunes Auto Linkerのタグがダサいので最適化
+title: iTunes Auto Linkerのタグを最適化
 date: 2018-04-20 22:04:30
 tags:
   - GTM
@@ -30,3 +30,5 @@ iTunesのアフィリエイト管理画面で発行されるタグの問題点�
 * ２つのvarを１つにまとめた
 
 参考にしたのはGoogle Tag Managerのタグです。
+
+ツールが提供するタグは鵜呑みにしないで、自分のサイトや時代に合った形で入れるようにしたいものです。
