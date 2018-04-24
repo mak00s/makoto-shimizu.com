@@ -1,15 +1,14 @@
 ---
 title: iPhoneとiPad用VNCアプリ17種類まとめ
 categories:
-  - 
+  -
 date: 2013-09-01 23:50:54
 tags:
   - iPhone
+thumbnailImage: /images/apple/vnc.jpg
 ---
 
-「[iPhoneとiPad用リモートデスクトップアプリ13種類まとめ](../remote-desktop-for-ipad/)」の記事では、ソフトをインストールしないでWindowsをリモートで操作できるiPhone/iPod Touch/iPadアプリについて評価しました。このRDP方式は手軽な反面、家庭では一般的なWindows Homeエディションでは利用できない、社外または自宅外からアクセスするためのネットワーク設定が難しい、という問題がありました。
-
-そこで今回は、自宅の**Windows Home**エディションや**Mac**にも外出先から**手軽に**アクセスできるアプリ17種類についてまとめました。
+「[iPhoneとiPad用リモートデスクトップアプリ13種類まとめ](../remote-desktop-for-ipad/)」の記事では、ソフトをインストールしないでWindowsをリモートで操作できるiPhone/iPod Touch/iPadアプリについて評価しました。このRDP方式は手軽な反面、家庭では一般的なWindows Homeエディションでは利用できない、社外や自宅外からアクセスするためのネットワーク設定が難しい、という問題があったので、今回は自宅の**Windows Home**エディションや**Mac**にも外出先から**手軽に**アクセスできるアプリ17種類についてまとめました。
 <!-- more -->
 
 **VNC方式と独自方式**があります。
