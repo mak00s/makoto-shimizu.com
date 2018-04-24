@@ -60,6 +60,9 @@
             margin-bottom:  10px;
             border-bottom:  1px solid #eef2f8;
         }
+        .popular-posts-title {
+            font-size:   map-get($font-size, medium);
+        }
     }
 }
 
