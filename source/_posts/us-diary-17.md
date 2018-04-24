@@ -6,6 +6,7 @@ categories:
   - アメリカ勤務
 tags:
   - Utah
+thumbnailImage: //res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:562/v1515901368/20130226-google-map-edit-shape.png
 ---
 Microsoft Surface ProとAmazon Kindle Paperwhiteの実機を使ってみるため、Google MapでBest Buyを検索したところ、地図に**トイレマーク**みたいなアイコンが表示されているのに気づきました。何だコレ？
 <!-- more -->
