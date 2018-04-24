@@ -1,6 +1,7 @@
 ---
 title: 清水 誠とは
 date: 2018-04-19 01:18:48
+comments: false
 ---
 
 [![](/images/makoto-shimizu-interview-by-loftwork.png)](https://www.opencu.com/2010/04/shimzumakoto1/)
