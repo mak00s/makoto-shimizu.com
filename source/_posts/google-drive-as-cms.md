@@ -4,13 +4,13 @@ categories:
 date: 2013-01-04 12:40:27
 tags:
   - CMS
+thumbnailImage: /images/cms/google-drive-as-cms.png
 ---
 
 面倒なので更新が遅れがちだった記事リストをGoogle Driveと自動連動させてみました。jQueryとDataTablesを使っているので、サクサクと並び替えやフィルタ、ページ移動ができます。いろいろ応用ができそうなので、方法についてメモしておきます。
 <!-- more -->
 
-<img src="//res.cloudinary.com/mak00s/image/upload/v1523896567/google-spreadsheet-before.png" alt="" sizes="100vw" />
-<img src="//res.cloudinary.com/mak00s/image/upload/v1523896567/google-spreadsheet-after.png" alt="" sizes="100vw" />
+<img src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:710/v1524580366/google-drive-as-cms.png" alt="" sizes="100vw" />
 
 ## 1\. スプレッドシートを作成し公開
 
@@ -26,52 +26,11 @@ tags:
 
 ## 2\. jQueryプラグイン「DataTables」をインストール
 
-[jQuery](http://jquery.com/)と[DataTables](http://www.datatables.net/)をダウンロードし、ページにリンクします（headにscriptタグを追加）。
+[jQuery](http://jquery.com/)と[DataTables](https://www.datatables.net/)をダウンロードし、ページにリンクします（headにscriptタグを追加）。
 
 以下はGoogleスプレッドシートと連携させるために最低限必要な基本コードです。
 
-```html
-<script type="text/javascript" src="xxx/jquery.min.js"></script>
-<script type="text/javascript" src="xxx/jquery.dataTables.js"></script>
-<script type="text/javascript">
-$(document).ready(function() {
-	$('#example').dataTable({
-		"bServerSide": false,
-		"bProcessing": true,
-		"sAjaxDataProp": "feed.entry",
-		"sAjaxSource": "https://spreadsheets.google.com/feeds/list/[keyをここへ]/od6/public/values?alt=json",
-		"aoColumns": [{
-			"mData": "gsx\$series.\$t"
-		}, {
-			"mData": "gsx\$published.\$t"
-		}, {
-			"mData": "gsx\$title.\$t"
-		}, {
-			"mData": "gsx\$media.\$t"
-		}]
-	});
-});
-</script>
-...
-<table id="example" width="100%">
-	<thead>
-		<tr>
-			<th>連載名</th>
-			<th>公開日</th>
-			<th>記事タイトル</th>
-			<th>サイト</th>
-		</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-		</tr>
-	</tbody>
-</table>
-```
+{% gist mak00s/0b28eae5a5326e98433a6c2f18fa7d70 %}
 
 * [keyをここへ]の部分にはスプレッドシートのURLに含まれる長い英数字を入れる
 * GoogleドライブのJSONはXML構造が特殊なので、aoColumnsでデータの場所を指定する（gsx$[ここに項目名].$t）
