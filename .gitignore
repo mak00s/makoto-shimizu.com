@@ -6,3 +6,4 @@ hexo-popular-related-posts-cached.json
 node_modules/
 public/
 .deploy*/
+db 2.json
