@@ -6,7 +6,7 @@ tags:
 thumbnailImage: /images/apple/itunes-auto-link-maker-tag.png
 ---
 
-iTunesストアのアプリDownloadページへのリンクを自動でアフィリエイト対応してくれるAuto Link Makerのタグがダラダラと長くてダサいので改善。
+iTunesストアのアプリDownloadページへのリンクを自動でアフィリエイト対応してくれるAuto Link Makerのタグがダラダラと長くて古風なので改善。
 <!-- more -->
 
 iTunesのアフィリエイト管理画面で発行されるタグの問題点は
@@ -32,3 +32,4 @@ iTunesのアフィリエイト管理画面で発行されるタグの問題点�
 参考にしたのはGoogle Tag Managerのタグです。
 
 ツールが提供するタグは鵜呑みにしないで、自分のサイトや時代に合った形で入れるようにしたいものです。
+（少しでもタグを変えると「サポートできない」という外資ベンダーの日本法人も存在するので要注意）
