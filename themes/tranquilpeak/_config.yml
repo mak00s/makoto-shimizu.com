@@ -46,16 +46,16 @@ sidebar:
             title: global.archives
             url: /archives-all
             icon: archive
+        about:
+            title: global.about
+            url: /about/profile.html
+            icon: question
         search:
             title: global.search
             url: /#search
             icon: search
             # `open-algolia-search` classes are used to open algolia search modal
             class: open-algolia-search
-        about:
-            title: global.about
-            url: /about/profile.html
-            icon: question
     author_links:
         # github:
         #     title: global.github
@@ -65,22 +65,22 @@ sidebar:
         #     title: global.stack_overflow
         #     url: http://stackoverflow.com/users
         #     icon: stack-overflow
-         twitter:
-             title: global.twitter
-             url: https://twitter.com/mak00s
-             icon: twitter
-         facebook:
-             title: global.facebook
-             url: https://www.facebook.com/makoto.shimizu1
-             icon: facebook
+        # twitter:
+        #     title: global.twitter
+        #     url: https://twitter.com/mak00s
+        #     icon: twitter
+        # facebook:
+        #     title: global.facebook
+        #     url: https://www.facebook.com/makoto.shimizu1
+        #     icon: facebook
         # google_plus:
         #     title: global.google_plus
         #     url: https://plus.google.com/
         #     icon: google-plus
-         linked_in:
-             title: global.linkedin
-             url: https://www.linkedin.com/in/smz71/
-             icon: linkedin
+        # linked_in:
+        #     title: global.linkedin
+        #     url: https://www.linkedin.com/in/smz71/
+        #     icon: linkedin
         # mail:
         #     title: global.mail
         #     url: mailto:
