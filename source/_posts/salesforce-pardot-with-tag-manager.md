@@ -5,6 +5,7 @@ tags:
 ---
 
 タグマネージャーでSalesforceの「**Pardot**」のタグを入れる方法について、公式ヘルプの説明がイマイチなのでメモを公開しておきます。
+<!-- more -->
 
 Pardotを導入するために発行されるのは以下のようなタグ。
 
@@ -16,7 +17,7 @@ Pardotを導入するために発行されるのは以下のようなタグ。
 
 [公式ヘルプ](https://help.salesforce.com/articleView?id=Using-Google-Tag-Manager-with-Pardot&language=en_US&type=1)に書かれている方法です。
 
-カスタムHTMLタグを作り、Pardotのタグをそのまま貼り付けるという**安直な方法**です。
+カスタムHTMLタグを作り、Pardotのタグをそのまま貼り付けるという古風なスタイルです。
 
 ## Dynamic Tag Management (Adobe)の場合
 
