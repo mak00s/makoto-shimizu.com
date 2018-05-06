@@ -28,4 +28,4 @@ tags:
 
 とにかく、子どもから**楽しく連絡してくれる**ようになって、何よりです。
 
-次は、[FaceTimeで遊びました](../facetime-with-kids/)。
+次は、[FaceTimeで遊びました](/news/facetime-with-kids/)。

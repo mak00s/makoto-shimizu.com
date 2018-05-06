@@ -8,7 +8,7 @@ tags:
 thumbnailImage: /images/ia-kid/emoji-2012-shiritori-h.png
 ---
 
-子どもから[絵文字アートが届いた](../emoji-art-by-11-year-kid/)同じ日のこと。文字化けのようなメッセージが届きました。
+子どもから[絵文字アートが届いた](/news/emoji-art-by-11-year-kid/)同じ日のこと。文字化けのようなメッセージが届きました。
 
 ![絵文字しりとり](/images/ia-kid/emoji-2012-shiritori-a.png)
 
@@ -30,7 +30,7 @@ thumbnailImage: /images/ia-kid/emoji-2012-shiritori-h.png
 
 シール＞ルビー＞ビール＞ルート＞ドリル＞ルール＞ルー＞ルーム＞虫
 
-子どもが考えた「る」で終わらせる攻撃（「[Dropboxで見つけた9歳のHackメモ](../hack-memo-by-9yrs-kid/)」参照）を受けています...。
+子どもが考えた「る」で終わらせる攻撃（「[Dropboxで見つけた9歳のHackメモ](/news/hack-memo-by-9yrs-kid/)」参照）を受けています...。
 
 最初は一部のみに絵文字を使ってましたが、この後はストリクトに絵文字オンリーです。
 
@@ -109,4 +109,4 @@ thumbnailImage: /images/ia-kid/emoji-2012-shiritori-h.png
 
 （そろそろ勉強するよーに!!）
 
-この後、小学校を卒業しました。バンクーバーへ来てから帰国した後の[マインクラフト遊びについて](../offline-to-online-by-12-year-kid/)紹介します。
+この後、小学校を卒業しました。バンクーバーへ来てから帰国した後の[マインクラフト遊びについて](/news/offline-to-online-by-12-year-kid/)紹介します。

@@ -90,4 +90,4 @@ tags:
 
 ### 関連
 
-[Do Not Trackに対する業界の反応（2012年8月）](../do-not-track-and-analytics/)
+[Do Not Trackに対する業界の反応（2012年8月）](/news/do-not-track-and-analytics/)

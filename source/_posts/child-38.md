@@ -51,4 +51,4 @@ thumbnailImage: /images/ia-kid/monopoly-junior-01.png
 
 ![](/images/ia-kid/birthday-party-9.png)
 
-次回は、[9歳になった時の驚きのDropbox活用方法](../chat-via-dropbox-with-9years-child/)についてです。
+次回は、[9歳になった時の驚きのDropbox活用方法](/news/chat-via-dropbox-with-9years-child/)についてです。

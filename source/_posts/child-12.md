@@ -40,7 +40,7 @@ tags:
 
 ## インタビュー
 
-**そんな子供にインタビュー**してみました（半年後の今日、[Dropboxで](../chat-via-dropbox-with-9years-child/)）。
+**そんな子供にインタビュー**してみました（半年後の今日、[Dropboxで](/news/chat-via-dropbox-with-9years-child/)）。
 
 > Q：一万円もらえたら何に使いたい？
 > 
@@ -82,4 +82,4 @@ tags:
 
 ちょww　**見事なオチ**でした（やらせ無し）
 
-次回は[９歳のぬいぐるみから色々考察](../standards-by-9yrs/)します。
+次回は[９歳のぬいぐるみから色々考察](/news/standards-by-9yrs/)します。

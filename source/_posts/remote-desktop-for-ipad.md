@@ -29,7 +29,7 @@ OSに依存しないオープンソースの規格。PCやMac、Linux用のア�
 まとめると、Windows Professionalに接続するならRDP、Windows HomeやMac、Linuxに接続するならVNC、ですね。
 
 このページでは、iPhoneやiPadなどのiOSデバイスからWindows Professionalのマシンをリモート操作するためのアプリについて紹介します。
-VNC方式（LogMeInやPC2Me+などの独自方式も含む）については、[VNCクライアント16種類まとめ](../vnc-for-ipad-iphone/)のエントリーをどうぞ。
+VNC方式（LogMeInやPC2Me+などの独自方式も含む）については、[VNCクライアント16種類まとめ](/news/vnc-for-ipad-iphone/)のエントリーをどうぞ。
 
 ## iPhoneやiPadで使えるリモートデスクトップアプリ
 

@@ -28,7 +28,7 @@ thumbnailImage: /images/ia-kid/spike-20131224.png
 
 ## まずブログからリンク
 
-まず、[12/25のブログ記事](../analytics-2014-with-my-son/)で子どもがサイトを立ち上げたことを紹介。
+まず、[12/25のブログ記事](/news/analytics-2014-with-my-son/)で子どもがサイトを立ち上げたことを紹介。
 
 記事の中から子どものサイトにリンクしたので、アクセスが多少増えるはず(*´◡`)
 
@@ -72,4 +72,4 @@ thumbnailImage: /images/ia-kid/spike-20131224.png
 
 Good Job! サイト運営と解析の楽しさが分かったね ( ´_Ｊ`)
 
-この後息子は、[解析ではなくプログラミングに傾倒](../13-years-old-boy-simulates-and-learns/)していきました。
+この後息子は、[解析ではなくプログラミングに傾倒](/news/13-years-old-boy-simulates-and-learns/)していきました。

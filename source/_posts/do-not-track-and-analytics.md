@@ -52,6 +52,6 @@ EUからの圧力、オバマ政権の積極的な推進を受け、W3Cでは７
 このW3Cによる自主規制が年内にまとまらなければ法規制が必要になる、と政権はプレッシャーをかけています。来年頭にはさらに動きがありそうです。
 
 ### 関連
-* [EUから学ぶ、プライバシーポリシーでのCookie説明方法](../cookie-in-privacy-policy/)
+* [EUから学ぶ、プライバシーポリシーでのCookie説明方法](/news/cookie-in-privacy-policy/)
 * [Web解析・広告で個人情報をどう扱うべきか？プライバシー対策としての「Do Not Track」の現状と課題](https://markezine.jp/article/detail/14697) (MarkeZine)
-* [電話版オプトアウト「Do Not Call Registry」体験レポート](../do-not-call/)
+* [電話版オプトアウト「Do Not Call Registry」体験レポート](/news/do-not-call/)

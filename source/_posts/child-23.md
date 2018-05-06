@@ -26,4 +26,4 @@ tags:
 
 礼儀正しく言いなさい！と画一的に正すのではなく、環境に合わせて変化する個性と表現力を大切にしたいと思っています。
 
-次回はまたデジタル系の話題に戻り、[Windowsの遠隔操作について](../kids-can-chat-with-remote-desktop/)です。
+次回はまたデジタル系の話題に戻り、[Windowsの遠隔操作について](/news/kids-can-chat-with-remote-desktop/)です。

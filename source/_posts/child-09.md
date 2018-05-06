@@ -7,7 +7,7 @@ date: 2010-03-21 08:31:58
 tags:
 ---
 
-前回「[５歳のディレクトリ構造化手法](../directory-structure-by-5years-child/)」でレビューした**情報分類**は、その後1年でどう**進化**したのか？またフォルダを拝見しましょう。
+前回「[５歳のディレクトリ構造化手法](/news/directory-structure-by-5years-child/)」でレビューした**情報分類**は、その後1年でどう**進化**したのか？またフォルダを拝見しましょう。
 
 [![6歳が管理するルートディレクトリ](/images/ia-kid/193-folder-2006.png)](/images/ia-kid/193-folder-2006.png)
 
@@ -87,4 +87,4 @@ tags:
 
 これが**幼稚園生**ですよね...(汗)。6歳7ヶ月でした。
 
-次回は[お花フォルダ](../hana-yasai-classified-by-6years-child/)を見てみましょう。
+次回は[お花フォルダ](/news/hana-yasai-classified-by-6years-child/)を見てみましょう。

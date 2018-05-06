@@ -7,7 +7,7 @@ categories:
 tags:
   - 英語
 ---
-前回の「<a href="../useful-english-phrases/">英語のプレゼンをうまく切り抜けるための英語フレーズ集</a>」では、主にプレゼンで使える15の便利フレーズを紹介しましたが、その後も耳にした便利フレーズをまた紹介します。
+前回の「<a href="/news/useful-english-phrases/">英語のプレゼンをうまく切り抜けるための英語フレーズ集</a>」では、主にプレゼンで使える15の便利フレーズを紹介しましたが、その後も耳にした便利フレーズをまた紹介します。
 <!-- more -->
 
 > **With that, I will turn it over to today's presenter, XX.**
