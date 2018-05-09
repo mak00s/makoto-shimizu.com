@@ -1,5 +1,5 @@
 ---
-title: Googleアナリティクスのメンテで面倒なURLクエリパラメータ除外を自動化する方法
+title: Googleアナリティクスで面倒なURLクエリパラメータ除外を楽にメンテする方法
 date: 2018-05-09 20:15:00
 tags:
   - Google Analytics
