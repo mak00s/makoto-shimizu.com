@@ -106,6 +106,7 @@ JavaScriptで自作しても良いですが、実はこの同意を管理する�
 * [TrustArc](https://www.trustarc.com/)
 * [Evidon](https://www.evidon.com/)
 * [PrivacyCheq](http://www.privacycheq.com/)
+* [Civic](https://www.civicuk.com/)
 * [Consentric](https://consentric.io/)
 * [Consentua](https://consentua.com/)
 * [Obsequio Software](https://www.obsequiosoftware.com/)
@@ -113,7 +114,7 @@ JavaScriptで自作しても良いですが、実はこの同意を管理する�
 * [Didomi](https://www.didomi.io/en/)
 * [Datastreams.io](https://www.datastreams.io/)
 
-この中でOneTrustだけ無料アカウントを作れますが、駆け込み需要で忙しいのか、無名企業だと無視されるのか、審査待ちのまま2週間を過ぎてもアカウント発行の連絡がありません...。
+この中ではOneTrustとCivicが無料プランを提供しています。駆け込み需要で忙しいのか、OneTrustは審査待ちのまま2週間を過ぎてもアカウント発行の連絡がありません...。
 
 ## タグマネージャーをオプトイン対応する
 
