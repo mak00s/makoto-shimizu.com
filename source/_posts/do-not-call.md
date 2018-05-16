@@ -4,6 +4,7 @@ categories:
   - アメリカ勤務
 date: 2011-11-21 08:05:04
 tags:
+  - Privacy
 ---
 
 2011-11-21に公開された『[Web解析・広告で個人情報をどう扱うべきか？プライバシー対策としての「Do Not Track」の現状と課題](https://markezine.jp/article/detail/14697)』【MarkeZine】の記事で紹介した「National Do Not Call Registry」を実際に体験してみました。

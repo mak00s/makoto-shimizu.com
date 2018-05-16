@@ -6,8 +6,8 @@ tags:
 thumbnailImage: //res.cloudinary.com/mak00s/image/upload/c_scale,f_auto,h_300,w_300/v1525956817/what-is-concept-diagram-w-text.png
 ---
 
-コンセプトダイアグラムとは、
-# 顧客の心理変容と企業の施策を図解し、顧客の理解と施策の評価を行うフレームワーク
+コンセプトダイアグラムは、
+### 顧客の心理変容と企業の施策を図解し、顧客の理解と施策の評価を行うフレームワーク
 です。
 <!-- more -->
 

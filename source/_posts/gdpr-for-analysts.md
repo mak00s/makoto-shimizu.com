@@ -11,6 +11,10 @@ thumbnailImage: //res.cloudinary.com/mak00s/image/upload/f_auto/v1526433637/eu-f
 
 <img src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1526434702/gdpr-for-analysts.png" alt="" sizes="100vw" />
 
+{% alert info %}
+以下は個人としての見解です
+{% endalert %}
+
 # EUに物理的に存在する個人のプライバシーを守る
 
 まずは原則から。GDPR（EU一般データ保護規則）は、EU（正確にはEEA）内の全ての個人のプライバシー保護を強化するために2018年5月25日に施行される法律です（一般論は割愛するので詳細は[Wikipedia](https://ja.wikipedia.org/wiki/EU%E4%B8%80%E8%88%AC%E3%83%87%E3%83%BC%E3%82%BF%E4%BF%9D%E8%AD%B7%E8%A6%8F%E5%89%87)やGoogleで調べてください）
