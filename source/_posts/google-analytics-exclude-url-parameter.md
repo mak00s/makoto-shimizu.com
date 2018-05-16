@@ -3,7 +3,7 @@ title: Googleアナリティクスで面倒なURLクエリパラメータ除外�
 date: 2018-05-09 20:15:00
 tags:
   - Google Analytics
-thumbnailImage: /images/ga/ga-parameters-extractor.png
+thumbnailImage: https://res.cloudinary.com/mak00s/image/upload/c_pad,f_auto,h_150,w_150/v1526484393/ga-parameters-extractor.png
 ---
 
 同じページが別ページ扱いになってしまい集計漏れが発生する原因となるURLクエリパラメータ。GAの管理画面で不要なパラメータを指定できますが、あまりに面倒なので、なるべく楽で効果的にメンテする方法について紹介します。
