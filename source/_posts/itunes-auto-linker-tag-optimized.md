@@ -3,7 +3,7 @@ title: iTunes Auto Linkerのタグを最適化
 date: 2018-04-20 22:04:30
 tags:
   - GTM
-thumbnailImage: /images/apple/itunes-auto-link-maker-tag.png
+thumbnailImage: http://res.cloudinary.com/mak00s/image/upload/c_scale,f_auto,w_140/v1526485784/itunes-auto-link-maker-tag.png
 ---
 
 iTunesストアのアプリDownloadページへのリンクを自動でアフィリエイト対応してくれるAuto Link Makerのタグがダラダラと長くて古風なので改善。
