@@ -10,14 +10,14 @@ comments: false
 
 データ収集を希望されない方は、以下のリンクからオプトアウト（データ収集の停止）ができます。
 
-分析のためのアナリティクス
+サイト閲覧行動の分析
 * [Adobe Analytics](https://dentsuisobarpartnersandbox.sc.omtrdc.net/optout.html?locale=jp_JP)
 * [Google Analytics](https://tools.google.com/dlpage/gaoptout?hl=ja)
 
-コメント機能の分析
+コメント利用の分析
 * [DISQUS](https://disqus.com/data-sharing-settings/)
 
-広告のターゲティング
+サイト内に掲載される広告のターゲティング（最適化）
 * [Google](https://adssettings.google.com/)
 
 
