@@ -1,17 +1,27 @@
 ---
 title: プライバシーポリシー
-date: 2018-05-09 17:31:17
+date: 2018-05-18 18:37:00
 comments: false
 ---
+
+（準備中）
 
 ## オプトアウト
 
 データ収集を希望されない方は、以下のリンクからオプトアウト（データ収集の停止）ができます。
+
+分析のためのアナリティクス
 * [Adobe Analytics](https://dentsuisobarpartnersandbox.sc.omtrdc.net/optout.html?locale=jp_JP)
-* [Google Analytics](https://tools.google.com/dlpage/gaoptout?hl=en)
-* [DAA Consumer Choice](https://optout.aboutads.info)
+* [Google Analytics](https://tools.google.com/dlpage/gaoptout?hl=ja)
+
+コメント機能の分析
+* [DISQUS](https://disqus.com/data-sharing-settings/)
+
+広告のターゲティング
+* [Google](https://adssettings.google.com/)
+
 
 ## 収集データの確認
 
-すでに収集されたデータの確認・削除を依頼される場合は、まずご自身のIDを確認してください。
+すでに収集されたご自身の個人データの確認・削除を依頼される場合は、以下のIDを添えてご連絡ください。
 （準備中）
