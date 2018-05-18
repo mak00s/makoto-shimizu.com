@@ -92,7 +92,7 @@ Googleとしては責任を逃れられるように規約を定めているだ�
 ## オプトアウトの方法を説明する
 プライバシーポリシーの中でオプトアウト方法を説明し、それが可能なページにリンクすることが多いようです。ツールによって方法やリンク先が異なるので、その方法を整理して伝えましょう。
 
-* [Adobe Analyticsの例（企業によってドメインが異なる）](https://dentsuisobarpartnersandbox.sc.omtrdc.net/optout.html?locale=jp_JP)
+* [Adobe Analyticsなど](https://www.adobe.com/jp/privacy/opt-out.html)
 * [Google Analyticsのブラウザプラグイン](https://tools.google.com/dlpage/gaoptout?hl=en)
 * [DAA Consumer Choice](https://optout.aboutads.info)
 など
