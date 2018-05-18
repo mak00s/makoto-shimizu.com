@@ -113,8 +113,9 @@ JavaScriptで自作しても良いですが、実はこの同意を管理する�
 * [Baycloud](https://baycloud.com/)
 * [Didomi](https://www.didomi.io/en/)
 * [Datastreams.io](https://www.datastreams.io/)
+* [iubenda](https://www.iubenda.com/en/)
 
-この中ではOneTrustとCivicが無料プランを提供しています。本サイト（https://makoto-shimizu.com）にはCIVICのCookie Control V8を実装している途中です。OneTrustは駆け込み需要で忙しいのか、審査待ちのまま2週間を過ぎてもアカウント発行の連絡がありません...。
+この中ではOneTrustとCivicとiubendaが無料プランを提供しています。本サイト（https://makoto-shimizu.com）にはCIVICのCookie Control V8を実装している途中です。OneTrustは駆け込み需要で忙しいのか、審査待ちのまま2週間を過ぎてもアカウント発行の連絡がありません...。
 
 ## タグマネージャーをオプトイン対応する
 
