@@ -11,6 +11,10 @@ thumbnailImage: //res.cloudinary.com/mak00s/image/upload/f_auto/v1526433637/eu-f
 
 <img src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1526614534/gdpr-ip-anonymization-in-analytics.png" alt="" sizes="100vw" />
 
+{% alert info %}
+日本向けの日本語のみサイトでここまで対応すべきか、は法務と相談してください
+{% endalert %}
+
 ## Googleアナリティクスの場合
 
 [GA公式ヘルプ](https://support.google.com/analytics/answer/2763052?hl=ja)を見ながら設定しましょう。
