@@ -115,7 +115,7 @@ JavaScriptで自作しても良いですが、実はこの同意を管理する�
 * [Datastreams.io](https://www.datastreams.io/)
 * [iubenda](https://www.iubenda.com/en/)
 
-この中ではOneTrustとCivicとiubendaが無料プランを提供しています。本サイト（https://makoto-shimizu.com）にはCIVICのCookie Control V8を実装している途中です。OneTrustは駆け込み需要で忙しいのか、審査待ちのまま2週間を過ぎてもアカウント発行の連絡がありません...。
+この中ではOneTrustとCivicとiubendaが無料プランを提供しています。[本サイト](https://makoto-shimizu.com)にはCIVICのCookie Control V8を実装しました。OneTrustは駆け込み需要で忙しいのか、審査待ちのまま2週間を過ぎてもアカウント発行の連絡がありません...。
 
 ## タグマネージャーをオプトイン対応する
 
@@ -132,6 +132,8 @@ Client IDや会員IDを取得している場合は、その必要性を再検討
 ページのURLやタイトルにEmailや会員IDが含まれていないか確認し、サイトを修正します。
 
 ＜要注意＞サンクスページなどで動的にIDやEmailアドレスをURLクエリパラメータに付与していると、それがアナリティクスによって計測されてしまいます。知らない間に個人データを計測していることもあるので、今すぐ確認を。
+
+参考：[個人情報（PII）を送信しないようにする方法](https://support.google.com/analytics/answer/6366371?hl=ja) - GA公式ヘルプ
 
 **IPアドレス**:
 ドイツなど厳しい国では、GDPR施工の前からIPアドレスの取得がNGでした。
