@@ -10,7 +10,7 @@ thumbnailImage: //res.cloudinary.com/mak00s/image/upload/f_auto/v1526433637/eu-f
 [GDPRの対策としてWebアナリストがすべきこと](/news/gdpr-for-analysts/)の記事の中で、個人データの取得には同意が必要、と書きました。その具体的な方法と注意点について紹介します。
 <!-- more -->
 
-<img src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1526715357/gdpr-consent-manager.png" alt="" sizes="100vw" />
+<img src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1526826147/gdpr-consent-manager2.png" alt="" sizes="100vw" />
 
 {% alert info %}
 対応の必要性については法務部門や専門家に相談してください。
