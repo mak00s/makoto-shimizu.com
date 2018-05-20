@@ -102,20 +102,26 @@ Googleとしては責任を逃れられるように規約を定めているだ�
 
 JavaScriptで自作しても良いですが、実はこの同意を管理するソリューション（Consent Manager）が数多くリリースされています。
 
-* [OneTrust](https://onetrust.com/)
-* [TrustArc](https://www.trustarc.com/)
-* [Evidon](https://www.evidon.com/)
-* [PrivacyCheq](http://www.privacycheq.com/)
-* [Civic](https://www.civicuk.com/)
-* [Consentric](https://consentric.io/)
-* [Consentua](https://consentua.com/)
-* [Obsequio Software](https://www.obsequiosoftware.com/)
-* [Baycloud](https://baycloud.com/)
-* [Didomi](https://www.didomi.io/en/)
-* [Datastreams.io](https://www.datastreams.io/)
-* [iubenda](https://www.iubenda.com/en/)
+|  提供者 | URL | 提供形態 | 対応タグマネ |
+|  ------ | ------ | ------ | ------ |
+|  Baycloud | https://baycloud.com/ | 商用サービス |  |
+|  CIVIC | https://www.civicuk.com/ | 商用サービス（無料版あり） |  |
+|  Consent Cookie by Insites | https://cookieconsent.insites.com/ | 無料 |  |
+|  Consentric | https://consentric.io/ | 商用サービス |  |
+|  Consentua | https://consentua.com/ | 商用サービス |  |
+|  Datastreams.io | https://www.datastreams.io/ | 商用サービス |  |
+|  Didomi | https://www.didomi.io/en/ | 商用サービス |  |
+|  Evidon | https://www.evidon.com/ | 商用サービス | Adobe Launch |
+|  iubenda | https://www.iubenda.com/en/ | 商用サービス（無料版あり） |  |
+|  Obsequio Software | https://www.obsequiosoftware.com/ | 商用サービス |  |
+|  OneTrust | https://onetrust.com/ | 商用サービス（無料版あり） | Adobe Launch |
+|  PrivacyCheq | http://www.privacycheq.com/ | 商用サービス | Adobe Launch |
+|  TrustArc | https://www.trustarc.com/ | 商用サービス | Adobe Launch |
 
-この中ではOneTrustとCivicとiubendaが無料プランを提供しています。[本サイト](https://makoto-shimizu.com)にはCIVICのCookie Control V8を実装しました。OneTrustは駆け込み需要で忙しいのか、審査待ちのまま2週間を過ぎてもアカウント発行の連絡がありません...。
+  * アルファベット順です
+  * 対応タグマネは、タグが事前定義されているか、という意味です。タグを手動で貼ればどのタグマネージャーでも対応できます。調査対象はGoogle Tag ManagerとAdobe Dynamic ManagementとAdobe Launchです。
+
+この中ではOneTrustとCIVICとiubendaが無料プランを提供しています。[このページ](/news/gdpr-for-analysts/)にCIVICのCookie Control V8を試験導入しました。[詳しい解説と実装方法は別の記事](/news/gdpr-cookie-consent-manager/)をどうぞ。OneTrustは駆け込み需要で忙しいのか、審査待ちのまま2週間を過ぎてもアカウント発行の連絡がありません...。
 
 ## タグマネージャーをオプトイン対応する
 
