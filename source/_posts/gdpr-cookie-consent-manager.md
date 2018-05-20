@@ -1,6 +1,6 @@
 ---
 title: GDPR対策のためにGA計測の同意を得る方法
-date: 2018-05-19 23:00:00
+date: 2018-05-20 11:20:00
 tags:
   - Privacy
   - Google Analytics
