@@ -13,7 +13,7 @@ thumbnailImage: //res.cloudinary.com/mak00s/image/upload/f_auto/v1526433637/eu-f
 <img src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1526614534/gdpr-ip-anonymization-in-analytics.png" alt="" sizes="100vw" />
 
 {% alert info %}
-日本向けの日本語のみサイトでここまで対応すべきか、は法務と相談してください
+日本向けの日本語のみサイトでここまで対応すべきか、は法務と相談してください。
 {% endalert %}
 
 ## Googleアナリティクスの場合
@@ -69,7 +69,23 @@ GAのビーコンに **&aip=** が付与されていれば成功です。
 
 ### 地域レポートの精度が落ちる
 
-IPアドレスで判定している地域（都道府県・市区町村）のレポートは、元データの粒度が荒くなるので、精度が下がります。GAのIPアドレスを他のシステムと連携させていないか確かめるなど、影響範囲を把握してから設定を変更すると良いでしょう。
+IPアドレスで判定している地域（都道府県・市区町村）のレポートは、元データの粒度が荒くなるので、精度が下がります。
+
+<img src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1526881647/ga-report-region-compared.png" alt="設定前後の比較" sizes="100vw" />
+
+GAのIPアドレスを他のシステムと連携させていないか確かめるなど、影響範囲を把握してから設定を変更すると良いでしょう。
 
 ## Adobe Analyticsの場合
-（準備中）
+
+管理画面（レポートスイートマネージャー）の「一般的なアカウント設定」だけで対応可能です。
+
+<img src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1526911488/aa-rs-manager-ip-obfuscation.png" alt="設定前後の比較" sizes="100vw" />
+
+#### IPアドレスの最後のオクテットを0に置き換える
+GAと同じ方式です。IP除外よりも先に置き換えられるので、GAと同様にフィルタ設定を見直す必要があります。
+
+#### IPアドレスを不明化
+IPアドレスをハッシュ化された文字列で置き換えます。IP除外や地域特定の処理が行われた後に不明化されるので、IP除外の設定変更は不要です。
+
+#### IPアドレスを削除
+IPアドレスを一律の固定文字列（x.x.x.x）で置き換えます。EMEA向けのレポートスイートでは、これがデフォルトで有効になります。IP除外や地域特定の処理が行われた後に削除されるので、IP除外の設定変更は不要です。
