@@ -142,7 +142,7 @@ Client IDや会員IDを取得している場合は、その必要性を再検討
 参考：[個人情報（PII）を送信しないようにする方法](https://support.google.com/analytics/answer/6366371?hl=ja) - GA公式ヘルプ
 
 **IPアドレス**:
-ドイツなど厳しい国では、GDPR施工の前からIPアドレスの取得がNGでした。
+ドイツなど厳しい国では、GDPR施行の前からIPアドレスの取得がNGでした。
 GoogleアナリティクスやAdobe AnalyticsにはIPアドレスを匿名化する機能があるので、それを有効にします。
 
 参考：[GDPR対策のためにGAとAAのIPアドレスを匿名化する方法](/news/gdpr-ip-anonymization-in-analytics/)。
