@@ -1,5 +1,5 @@
 ---
-title: GDPR対策のためにGAとAAのIPアドレスを匿名化する方法
+title: GDPR対策のためにアナリティクスのIPアドレスを匿名化する方法
 date: 2018-05-18 12:52:00
 tags:
   - Privacy
