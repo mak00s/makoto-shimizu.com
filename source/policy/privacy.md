@@ -35,7 +35,7 @@ comments: false
 <p id="id-ga"></p>
 
 ### Adobe Analytics
-（準備中です）
+
 <a class="btn btn--default" id="get-id-aa">IDを取得する</a>
 <p id="id-aa"></p>
 
