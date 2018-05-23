@@ -6,6 +6,10 @@ comments: false
 
 （準備中）
 
+[Adobe Analyticsによって収集されるデータの種類](https://marketing.adobe.com/resources/help/ja_JP/reference/c_Privacy_Overview.html)
+
+## Cookie
+
 ## オプトアウト
 
 データ収集を希望されない方は、以下のリンクからオプトアウト（データ収集の停止）ができます。
@@ -21,7 +25,14 @@ comments: false
 * [Google](https://adssettings.google.com/)
 
 
-## 収集データの確認
+## 収集データの確認・削除
 
-すでに収集されたご自身の個人データの確認・削除を依頼される場合は、以下のIDを添えてご連絡ください。
+すでに収集されたご自身の個人データの確認・削除を依頼される場合は、このブラウザのCookieに保存された以下のID（オンライン識別子）を添えてご連絡ください。
 （準備中）
+### Google Analytics
+
+<button type="button" id="get-id-ga">IDを取得する</button>
+
+### Adobe Analytics
+
+<button type="button" id="get-id-aa">IDを取得する</button>
