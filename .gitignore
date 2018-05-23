@@ -7,3 +7,4 @@ node_modules/
 public/
 .deploy*/
 db 2.json
+*.bak
