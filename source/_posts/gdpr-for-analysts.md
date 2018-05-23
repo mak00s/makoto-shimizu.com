@@ -145,7 +145,7 @@ Client IDや会員IDを取得している場合は、その必要性を再検討
 ドイツなど厳しい国では、GDPR施行の前からIPアドレスの取得がNGでした。
 GoogleアナリティクスやAdobe AnalyticsにはIPアドレスを匿名化する機能があるので、それを有効にします。
 
-参考：[GDPR対策のためにGAとAAのIPアドレスを匿名化する方法](/news/gdpr-ip-anonymization-in-analytics/)。
+参考：[GDPR対策のためにGAとAAのIPアドレスを匿名化する方法](/news/gdpr-ip-anonymization-in-analytics/)
 
 ## 保管期間を過ぎたデータは削除する
 
@@ -163,7 +163,7 @@ Adobe Analyticsの場合は、設定期限後の自動削除に加えて、ど�
 
 また、特定のIDに関するデータのみを削除する機能を実装する必要があります。GoogleアナリティクスにもAdobe Analyticsにも、特定データを削除する機能はありませんが、GDPR対策として2018年5月にAPIがリリースされています。
 
-Google：
+Googleアナリティクス：
 * [指定したClient IDやUser IDのデータを過去に遡って削除するAPI](https://developers.google.com/analytics/devguides/config/userdeletion/v3/)
 
 Adobe Analytics：
