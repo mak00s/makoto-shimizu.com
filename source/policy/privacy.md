@@ -28,13 +28,15 @@ comments: false
 ## 収集データの確認・削除
 
 すでに収集されたご自身の個人データの確認・削除を依頼される場合は、このブラウザのCookieに保存された以下のID（オンライン識別子）を添えてご連絡ください。
-（準備中）
+
 ### Google Analytics
 
 <a class="btn btn--default" id="get-id-ga">IDを取得する</a>
 <p id="id-ga"></p>
 
 ### Adobe Analytics
-
+（準備中です）
 <a class="btn btn--default" id="get-id-aa">IDを取得する</a>
 <p id="id-aa"></p>
+
+* [お問い合わせはこちらへ](/contact/)
