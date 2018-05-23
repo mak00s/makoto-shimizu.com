@@ -153,13 +153,24 @@ GoogleアナリティクスやAdobe AnalyticsにはIPアドレスを匿名化す
 
 Googleアナリティクスの場合、まずは期限設定機能がリリースされましたが、細かい制御はできません。
 
-Adobe Analyticsの場合は、設定期限後の自動削除に加えて、どのデータが個人データに該当するのかを区別するためのラベル付け機能と、訪問者が自分のID（オンライン識別子）を調べるためのJavaScriptライブラリ、要求を受け付けた運営会社が特定IDの訪問者に関するデータをエクスポートや削除するためのAPIもリリースされました。APIなので、それを使った管理画面は自作する必要があります。Googleも追従して、このような機能をこの後リリースすると思われます。
+Adobe Analyticsの場合は、設定期限後の自動削除に加えて、どのデータが個人データに該当するのかを区別するためのラベル付け機能もリリースされました。
 
 ## 個人データの確認や修正、エクスポート、削除の依頼に対応する
 
 実はこれが一番難しいです。例えばFacebookの場合、設定画面の中に、自分に関するデータを全てダウンロードしたり、全て削除する機能が含まれています。
 
 アナリティクスの場合は完全自動化が難しいので、プライバシーポリシーの中でリクエスト方法について説明し、そのリクエストを（書面やメールやフォームで）受け取った場合にデータの抽出・返信や削除を個別対応する運用プロセスを作ります。
+
+また、特定のIDに関するデータのみを削除する機能を実装する必要があります。GoogleアナリティクスにもAdobe Analyticsにも、特定データを削除する機能はありませんが、GDPR対策として2018年5月にAPIがリリースされています。
+
+Google：
+* [指定したClient IDやUser IDのデータを過去に遡って削除するAPI](https://developers.google.com/analytics/devguides/config/userdeletion/v3/)
+
+Adobe Analytics：
+* [訪問者が自分のID（オンライン識別子）を調べるためのJavaScriptライブラリ](https://www.adobe.io/apis/cloudplatform/gdpr/services/allservices.html)
+* [指定IDの訪問者に関するデータをエクスポートや削除するためのAPI](https://marketing.adobe.com/resources/help/en_US/analytics/gdpr/gdpr_submit_access_delete.html)
+
+提供されているのはAPIのみで、画面はありません。社内用の管理画面を自前で構築する必要があります。
 
 # 顧客視点の積極的な対応を
 
