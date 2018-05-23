@@ -31,8 +31,10 @@ comments: false
 （準備中）
 ### Google Analytics
 
-<button type="button" id="get-id-ga">IDを取得する</button>
+<a class="btn btn--default" id="get-id-ga">IDを取得する</a>
+<p id="id-ga"></p>
 
 ### Adobe Analytics
 
-<button type="button" id="get-id-aa">IDを取得する</button>
+<a class="btn btn--default" id="get-id-aa">IDを取得する</a>
+<p id="id-aa"></p>
