@@ -4,7 +4,8 @@ date: 2018-05-18 18:37:00
 comments: false
 ---
 
-（準備中）
+<a href="https://www.iubenda.com/privacy-policy/61553633" class="iubenda-white iubenda-embed" title="Privacy Policy">Privacy Policy</a>
+<script>(function (w,d) {var loader = function () {var s = d.createElement("script"), tag = d.getElementsByTagName("script")[0]; s.src="https://cdn.iubenda.com/iubenda.js"; tag.parentNode.insertBefore(s,tag);}; if(w.addEventListener){w.addEventListener("load", loader, false);}else if(w.attachEvent){w.attachEvent("onload", loader);}else{w.onload = loader;}})(window, document);</script>
 
 [Adobe Analyticsによって収集されるデータの種類](https://marketing.adobe.com/resources/help/ja_JP/reference/c_Privacy_Overview.html)
 
