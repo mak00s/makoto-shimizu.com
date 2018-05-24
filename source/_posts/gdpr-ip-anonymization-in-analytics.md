@@ -7,7 +7,7 @@ tags:
 thumbnailImage: //res.cloudinary.com/mak00s/image/upload/f_auto/v1526433637/eu-flag.png
 ---
 
-[GDPRの対策としてWebアナリストがすべきこと](/news/gdpr-for-analysts/)の記事の中で、不要な個人データを匿名化する方法の一つとしてGAやAAにはIPアドレスを匿名化する機能がある、と書きました。その具体的な方法と注意点についてです。
+[GDPRの対策としてWebアナリストがすべきこと](/news/gdpr-for-analysts/)の記事の中で取り上げた、不要な個人データを匿名化する方法の一つとしてGAやAAでIPアドレスを匿名化する方法と注意点について。GAの場合、訪問者のIPアドレスをレポート画面で表示することはできませんが、システム内部に保存されています。GDPRでは、個人データを取得し保存しているだけで、ツールベンダーや代理店ではなく事業会社のデータ管理責任が問われるので要注意。
 <!-- more -->
 
 <img src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1526614534/gdpr-ip-anonymization-in-analytics.png" alt="" sizes="100vw" />
