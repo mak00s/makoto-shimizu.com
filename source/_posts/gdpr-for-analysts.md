@@ -119,7 +119,7 @@ JavaScriptで自作しても良いですが、実はこの同意を管理する�
   * アルファベット順です
   * 対応タグマネは、タグが事前定義されているか、という意味です。タグを手動で貼ればどのタグマネージャーでも対応できます。調査対象はGoogle Tag Manager, Adobe Dynamic Management, Adobe Launch, Tealiumです。
 
-この中ではOneTrustとCIVICとiubendaが無料プランを提供しています。[このページ](/news/gdpr-for-analysts/)では、CIVICのCookie Control V8を試験導入しました。[詳しい解説と実装方法はこの記事](/news/gdpr-cookie-consent-manager/)をどうぞ。OneTrustは駆け込み需要で忙しいのか、審査待ちのまま2週間を過ぎてもアカウント発行の連絡がありません...。
+この中ではOneTrustとCIVICとiubendaが無料プランを提供しています。[このページ](/news/gdpr-for-analysts/)では、CIVICのCookie Control V8を試験導入しました。[詳しい解説と実装方法はこの記事](/news/gdpr-cookie-consent-manager/)をどうぞ。OneTrustは駆け込み需要で忙しいのか、審査に2週間かかりました。
 
 ## データ取得ツールをオプトイン対応する
 
