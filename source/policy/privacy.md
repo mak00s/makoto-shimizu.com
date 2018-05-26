@@ -11,6 +11,10 @@ comments: false
 
 ## Cookie
 
+<!-- OneTrust Cookies Policy start -->
+<div id="optanon-cookie-policy"></div>
+<!-- OneTrust Cookies Policy end -->
+
 ## オプトアウト
 
 データ収集を希望されない方は、以下のリンクからオプトアウト（データ収集の停止）ができます。
