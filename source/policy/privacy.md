@@ -9,11 +9,15 @@ comments: false
 
 [Adobe Analyticsによって収集されるデータの種類](https://marketing.adobe.com/resources/help/ja_JP/reference/c_Privacy_Overview.html)
 
-## Cookie
+## Cookieポリシー
 
 <!-- OneTrust Cookies Policy start -->
 <div id="optanon-cookie-policy"></div>
 <!-- OneTrust Cookies Policy end -->
+
+<!-- OneTrust Cookies Settings button start -->
+<a class="optanon-show-settings">Cookie設定</a>
+<!-- OneTrust Cookies Settings button end -->
 
 ## オプトアウト
 
