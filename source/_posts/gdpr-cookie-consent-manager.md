@@ -49,7 +49,7 @@ thumbnailImage: //res.cloudinary.com/mak00s/image/upload/f_auto/v1526433637/eu-f
 
 Cookie管理ツールから包括的なプライバシー管理ソリューションまで色々あります。[iapp.orgのPrivacy Tech Vendor Report](https://iapp.org/media/pdf/resource_center/2018-Privacy-Tech-Vendor-Report-V2.1e.pdf)では、Consent Manager（同意管理）のカテゴリだけで21ものツールが紹介されています。
 
-今回は、無料で使えるものを４つ紹介します。
+今回は、無料で使えるものを5つ紹介します。
 
 ### [InsitesのCookie Consent](https://cookieconsent.insites.com/)
 初回訪問時の**通知表示と同意取得に特化**したオープンソースの無料ツール。見た目や文言を細かくカスタマイズできます。[デモのページ](https://cookieconsent.insites.com/demos/)で各種カスタマイズ結果を確認できます。Cookieの削除やオプトアウト機能はありません。
@@ -61,7 +61,7 @@ Cookie管理ツールから包括的なプライバシー管理ソリューシ�
 
 無料版は、100ページ以内のみに対応（超えたら有料プランへ自動移行）。多言語対応やカスタマイズができず、基本機能のみ。本番利用は現実的ではないので、事実上お試しプランという位置づけですね。
 
-### [OneTrust]()
+### [OneTrust](https://onetrust.com/)
 機能的にはCookiebotに似ていて、通知表示と同意取得に加えて、サイトをスキャンしてCookie表を自動生成したり、EUからのアクセス時のみ機能をONにする機能もあります。本サイトはこれを採用しました。
 
 無料版でも多言語対応やカスタマイズ、サイトをスキャンしたCookie表の自動生成、入力フォーム自動検出が可能。ただしオンライン登録したすぐ使えるようにはならず、何日か経って審査を通った場合に登録の通知メールと営業担当からの個別フォローメール（英語）が届きます。
@@ -83,6 +83,11 @@ onetrust-cookie-notice.png
 onetrust-cookie-banner.png
 
 Cookieのオプトイン・オプトアウト用UIもあります。
+
+### [COOKIE INFO SCRIPT](https://cookieinfoscript.com/)
+通知表示のみに特化した無料JavaScriptライブラリ。詳細リンクを含む通知を表示するだけで、同意の管理機能はありません。デザインや文言をカスタマイズできます。
+
+cookieinfoscript-demo.png
 
 ### [CIVICのCookie Control](https://www.civicuk.com/cookie-control)
 同意取得というよりも**Cookieのオプトイン・オプトアウト管理**ツール。カテゴリやツール毎に細かくCookieのON・OFFを切り替えられます。デフォルトがオプトアウト状態になっていて、ONにして明示的にオプトインする必要がある、ONからOFFに切り替えると該当Cookieが即削除される、というストリクトなポリシーが前提。イギリスの公的機関ICOが採用しています。
