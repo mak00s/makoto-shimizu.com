@@ -66,28 +66,28 @@ Cookie管理ツールから包括的なプライバシー管理ソリューシ�
 
 無料版でも多言語対応やカスタマイズ、サイトをスキャンしたCookie表の自動生成、入力フォーム自動検出が可能。ただしオンライン登録したすぐ使えるようにはならず、何日か経って審査を通った場合に登録の通知メールと営業担当からの個別フォローメール（英語）が届きます。
 
-onetrust-registration.png
+<img src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1527529577/onetrust-registration.png" alt="" sizes="100vw" />
 
 まずサイト全体を自動スキャンし、Cookieや入力フォーム、LocalStorageを検知することから始めます。
 
-onetrust-scan-result.png
+<img src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1527529577/onetrust-scan-result.png" alt="" sizes="100vw" />
 
 検知したCookieは、設定内容だけでなく、データベースと照合して何のCookieなのか説明文も表示してくれます。
 
-onetrust-cookie-notice.png
+<img src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1527529577/onetrust-cookie-notice.png" alt="" sizes="100vw" />
 
 この情報をもとにサイト上のCookie Notice（利用するCookieの説明表）ページを自動生成できます。
 
 同意の通知は、表示場所や色、項目をカスタマイズできます。
 
-onetrust-cookie-banner.png
+<img src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1527529578/onetrust-cookie-banner.png" alt="" sizes="100vw" />
 
 Cookieのオプトイン・オプトアウト用UIもあります。
 
 ### [COOKIE INFO SCRIPT](https://cookieinfoscript.com/)
 通知表示のみに特化した無料JavaScriptライブラリ。詳細リンクを含む通知を表示するだけで、同意の管理機能はありません。デザインや文言をカスタマイズできます。
 
-cookieinfoscript-demo.png
+<img src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1527529577/cookieinfoscript-demo.png" alt="" sizes="100vw" />
 
 ### [CIVICのCookie Control](https://www.civicuk.com/cookie-control)
 同意取得というよりも**Cookieのオプトイン・オプトアウト管理**ツール。カテゴリやツール毎に細かくCookieのON・OFFを切り替えられます。デフォルトがオプトアウト状態になっていて、ONにして明示的にオプトインする必要がある、ONからOFFに切り替えると該当Cookieが即削除される、というストリクトなポリシーが前提。イギリスの公的機関ICOが採用しています。
