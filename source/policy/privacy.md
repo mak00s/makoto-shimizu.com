@@ -47,5 +47,3 @@ comments: false
 
 <a class="btn btn--default" id="get-id-aa">IDを取得する</a>
 <p id="id-aa"></p>
-
-* これらのIDはブラウザに保存されています。
