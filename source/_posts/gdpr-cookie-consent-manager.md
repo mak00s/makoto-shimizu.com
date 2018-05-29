@@ -47,7 +47,7 @@ thumbnailImage: //res.cloudinary.com/mak00s/image/upload/f_auto/v1526433637/eu-f
 
 ## 無料で使える同意・Cookie管理ツール
 
-Cookie管理ツールから包括的なプライバシー管理ソリューションまで色々あります。[iapp.orgのPrivacy Tech Vendor Report](https://iapp.org/media/pdf/resource_center/2018-Privacy-Tech-Vendor-Report-V2.1e.pdf)では、Consent Manager（同意管理）のカテゴリだけで21ものツールが紹介されています。
+Cookie管理ツールから包括的なプライバシー管理ソリューションまで色々あります。[iapp.orgのPrivacy Tech Vendor Report](https://iapp.org/resources/article/2018-privacy-tech-vendor-report/)では、Consent Manager（同意管理）のカテゴリだけで36ものツールが紹介されています。
 
 今回は、無料で使えるものを5つ紹介します。
 
