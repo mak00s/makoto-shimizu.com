@@ -15,13 +15,13 @@ comments: false
 <div id="optanon-cookie-policy"></div>
 <!-- OneTrust Cookies Policy end -->
 
-<!-- OneTrust Cookies Settings button start -->
-<a class="optanon-show-settings">Cookie設定</a>
-<!-- OneTrust Cookies Settings button end -->
-
 ## オプトアウト
 
 データ収集を希望されない方は、以下のリンクからオプトアウト（データ収集の停止）ができます。
+
+<!-- OneTrust Cookies Settings button start -->
+<a class="optanon-show-settings">Cookie設定</a>
+<!-- OneTrust Cookies Settings button end -->
 
 サイト閲覧行動の分析
 * [Adobe Analytics](https://dentsuisobarpartnersandbox.sc.omtrdc.net/optout.html?locale=jp_JP)
