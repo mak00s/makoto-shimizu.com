@@ -48,7 +48,7 @@ sidebar:
             icon: archive
         about:
             title: global.about
-            url: /about/profile.html
+            url: /about/
             icon: question
         search:
             title: global.search
