@@ -4,14 +4,14 @@ date: 2018-07-17 13:49:00
 comments: false
 ---
 
-カスタマーアナリティクスを体感できるDemoを作っています。
+カスタマーアナリティクス体感Demoその１：送信内容がGoogle Sheetsへ反映され、GAの行動データと結合されます。
 
 {% raw %}
 <script>
   function postToGoogle() {
    var field1 = $("input[type='radio'][name='qs1']:checked").val();
    var field2 = $('#feed').val();
-   var clientid = ga.getAll()[0].get('clientId');
+   var clientid = "x" + ga.getAll()[0].get('clientId');
    $.ajax({
      url: "https://docs.google.com/forms/d/e/1FAIpQLSewFdljex3bfTvxxc07HwpptyzTUx-j9-adEnbA8CK1_552IA/formResponse",
      data: {
@@ -32,6 +32,7 @@ comments: false
    });
  }
 </script>
+
 <form id="form" target="_self" onsubmit="" action="javascript: postToGoogle()">
   <fieldset>
     <label>夏は好きですか？</label>
