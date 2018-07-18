@@ -53,3 +53,10 @@ comments: false
 {% endraw %}
 
 [送信結果はこちら](https://docs.google.com/spreadsheets/d/1LJsKR3eyBy34apzdVgtYV8d3mZT-mp3kA0pgV7oLAiw/edit#gid=418492740)
+
+再現方法
+1. [Google Forms](https://www.google.com/forms/about/)でフォームを作る
+2. このページのHTMLとJSをコピーしてURLやパラメータを修正
+3. このページにGAを導入し[client IDをカスタムディメンションへ入れる](/news/how-to-measure-google-analytics-client-id-with-gtm-2017/)
+4. 回答が記入されるGoogle SheetsにGAのアドオンを入れてデータ抽出
+5. [サンプル](https://docs.google.com/spreadsheets/d/1LJsKR3eyBy34apzdVgtYV8d3mZT-mp3kA0pgV7oLAiw/edit#gid=406719613)を参考にまとめシートを作る
