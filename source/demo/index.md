@@ -52,7 +52,8 @@ comments: false
 </form>
 {% endraw %}
 
-[送信結果はこちら](https://docs.google.com/spreadsheets/d/1LJsKR3eyBy34apzdVgtYV8d3mZT-mp3kA0pgV7oLAiw/edit#gid=418492740)
+※
+送信しても画面は変わりません。送信結果は[このページに反映されます](https://docs.google.com/spreadsheets/d/1LJsKR3eyBy34apzdVgtYV8d3mZT-mp3kA0pgV7oLAiw/edit#gid=418492740)
 
 再現方法
 1. [Google Forms](https://www.google.com/forms/about/)でフォームを作る
