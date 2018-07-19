@@ -6,8 +6,6 @@ date: 2018-07-19 23:12:00
 執筆、または取材を受けた記事のリストです。
 
 {% raw %}
-<!--link rel="stylesheet" href="https://code.jquery.com/ui/1.9.2/themes/base/jquery-ui.css"/-->
-
 <table class="display" id="table_id" width="100%">
 	<thead>
 		<tr>
