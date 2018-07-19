@@ -6,10 +6,10 @@ date: 2018-07-19 23:12:00
 執筆、または取材を受けた記事のリストです。
 
 {% raw %}
-<script src="http://img.xii.jp/lib/datatables/jquery.dataTables.min.js"></script>
-<script src="http://img.xii.jp/lib/datatables/articles.js"></script>
-<link rel="stylesheet" href="http://img.xii.jp/lib/datatables/datatables.css"/>
-<link rel="stylesheet" href="http://code.jquery.com/ui/1.9.2/themes/base/jquery-ui.css"/>
+<script src="/js/jquery.dataTables.min.js"></script>
+<script src="/js/articles.js"></script>
+<link rel="stylesheet" href="/js/datatables.css"/>
+<link rel="stylesheet" href="https://code.jquery.com/ui/1.9.2/themes/base/jquery-ui.css"/>
 
 <table class="display" id="table_id" width="100%">
 	<thead>
