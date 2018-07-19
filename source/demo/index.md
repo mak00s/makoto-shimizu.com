@@ -81,7 +81,10 @@ textarea {
 5. [サンプル](https://docs.google.com/spreadsheets/d/1LJsKR3eyBy34apzdVgtYV8d3mZT-mp3kA0pgV7oLAiw/edit#gid=406719613)を参考にまとめシートを作る
 
 ## #02. ECサイトの検討・回遊スコアリング
+商品の検討度合いや、関心商品カテゴリの広がり、価格帯の高まりといった心理の変化をスコアリングする方法について。
 （準備中）
 
 ## #03. GAデータのクロスデバイス対応
+ログインできるサイトで会員IDを取得したGAデータを処理してデバイスやブラウザを超えた人単位の分析ができるかのデモ。
 （準備中）
+まず[元データ](https://docs.google.com/spreadsheets/d/1cxbK9nelOBEL7KAhiha9fsJ0Gcw9X7aXQykPGej7T6Q/edit#gid=613290869)を作りました。
