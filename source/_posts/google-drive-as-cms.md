@@ -53,4 +53,4 @@ thumbnailImage: /images/cms/google-drive-as-cms.png
 
 ## 4\. 完成！
 
-[こんなだったページ](http://www.cms-ia.info/cms-ia-article/)（Before）が[こうなりました（After）](http://www.cms-ia.info/articles/)。これは便利！クールで使いやすい上に、更新が楽になってます。Google DriveのスプレッドシートならiPhoneでも気軽に更新できるので、長続きしそうです。
+[こうなりました](/articles/)。これは便利！クールで使いやすい上に、更新が楽になってます。Google DriveのスプレッドシートならiPhoneでも気軽に更新できるので、メンテが長続きしそうです。
