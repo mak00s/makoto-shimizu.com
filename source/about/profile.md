@@ -17,6 +17,7 @@ Webビジネス歴23年。UXとIAの分野を開拓後、楽天やWebCrewなど�
 * 「コンセプトダイアグラムでわかる[清水式]ビジュアルWeb解析」
 * 「サイトサーチアナリティクス  アクセス解析とUXによるウェブサイトの分析・改善手法」（監訳）
 * 「商談に結びつける　売上をあげるためのBtoBデジタルマーケティング入門」（共著）
+* [書籍以外の寄稿記事や取材記事リスト](/articles/)
 
 [LinkedIn](https://www.linkedin.com/in/smz71/) | [Facebook](https://www.facebook.com/makoto.shimizu1) | [Twitter](https://twitter.com/mak00s)
 
