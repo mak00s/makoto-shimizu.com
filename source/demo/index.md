@@ -53,11 +53,15 @@ textarea {
 4. 回答が記入されるGoogle SheetsにGAのアドオンを入れてデータ抽出
 5. [サンプル](https://docs.google.com/spreadsheets/d/1LJsKR3eyBy34apzdVgtYV8d3mZT-mp3kA0pgV7oLAiw/edit#gid=406719613)をコピーして参考にし、まとめシートを作る
 
-## #02. ECサイトの検討・回遊スコアリング
-商品の検討度合いや、関心商品カテゴリの広がり、価格帯の高まりといった心理の変化をスコアリングする方法について。
+## #02. ECサイトで商品の検討スコアリング
+どの商品をどの程度検討しているかを数値化します。[このダミー商品ページ](https://store.concept-diagram.com/ec/html/products/detail/1)で写真の切り替え、種類、サイズの選択、レビューコンテンツのオンマウスをすると、点数が加算されていきます。
 （準備中）
 
-## #03. GAデータのクロスデバイス対応
+## #03. 関心カテゴリの広がり
+閲覧や検討する商品カテゴリの広がり、価格帯の高まりといった心理の変化をスコアリングします。
+（準備中）
+
+## #04. GAデータのクロスデバイス対応
 ログインできるサイトで会員IDを取得したGAデータを処理してデバイスやブラウザを超えた人単位の分析ができるかのデモ。
 （準備中）
 まず[元データ](https://docs.google.com/spreadsheets/d/1cxbK9nelOBEL7KAhiha9fsJ0Gcw9X7aXQykPGej7T6Q/edit#gid=613290869)を作りました。
