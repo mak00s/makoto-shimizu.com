@@ -11,32 +11,6 @@ comments: false
 以下のフォームに記入して送信すると、その内容とGAの閲覧履歴データが結合されてGoogle Sheetsに自動反映されます。
 
 {% raw %}
-<script>
-  function postToGoogle() {
-   var field1 = $("input[type='radio'][name='qs1']:checked").val();
-   var field2 = $('#feed').val();
-   var clientid = "x" + ga.getAll()[0].get('clientId');
-   $.ajax({
-     url: "https://docs.google.com/forms/d/e/1FAIpQLSewFdljex3bfTvxxc07HwpptyzTUx-j9-adEnbA8CK1_552IA/formResponse",
-     data: {
-       "entry.1340666436": clientid,
-       "entry.877086558": field1,
-       "entry.443565211": field2
-     },
-     type: "POST",
-     dataType: "xml",
-     statusCode: {
-       0: function() {
-         //Success message
-       },
-       200: function() {
-         //Success Message
-       }
-     }
-   });
- }
-</script>
-
 <div class="form-box">
 <form action="javascript: postToGoogle()">
     <b>夏は好きですか？</b>
@@ -48,7 +22,7 @@ comments: false
     </div>
     <div>
     <b>ニックネーム</b>
-    <textarea id="nickname" name="feed"></textarea>
+    <textarea name="feed"></textarea>
     </div>
     <button type="submit" class="post-action-btn btn">
       送信する
