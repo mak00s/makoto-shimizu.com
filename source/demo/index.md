@@ -21,8 +21,8 @@ comments: false
     <label for="qs2">いいえ</label>
     </div>
     <div>
-    <b>ニックネーム</b>
-    <textarea name="feed"></textarea>
+    <b>理由は？</b>
+    <textarea name="kotae"></textarea>
     </div>
     <button type="submit" class="post-action-btn btn">
       送信する
