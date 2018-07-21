@@ -1,8 +1,10 @@
 ---
-title: Demo #01. B2Bのリードを閲覧履歴でスコアリング
+title: Demo 01. B2Bのリードを閲覧履歴でスコアリング
 date: 2018-07-17 13:49:00
+permalink: demo/lead-scoring
 tags:
   - Demo
+thumbnailImage: //res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1532158122/demo-lead-scoring.png
 ---
 
 資料請求のリード一覧にGAの閲覧履歴を合わせると、関心エリアや本気度がわかるので、営業アプローチの参考になります。有料ツール（MA）を使わずに無料GAで実装してみました。
