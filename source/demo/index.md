@@ -24,7 +24,7 @@ comments: false
     <b>理由は？</b>
     <textarea name="kotae"></textarea>
     </div>
-    <button type="submit" class="post-action-btn btn">
+    <button type="submit" class="post-action-btn btn" disabled>
       送信する
     </button>
 </form>
@@ -42,8 +42,7 @@ textarea {
 </style>
 {% endraw %}
 
-- 手抜き実装なので送信しても画面は変わりません
-- 送信結果は[このページに反映されます](https://docs.google.com/spreadsheets/d/1LJsKR3eyBy34apzdVgtYV8d3mZT-mp3kA0pgV7oLAiw/edit#gid=418492740)
+- 送信結果は[このSpreadsheetに反映されます](https://docs.google.com/spreadsheets/d/1LJsKR3eyBy34apzdVgtYV8d3mZT-mp3kA0pgV7oLAiw/edit#gid=418492740)
  - ので個人情報は入力しないでください
  - GAのデータは１時間ごとに更新されます
 
@@ -52,7 +51,7 @@ textarea {
 2. このページを参考にしてフォームのHTMLページを作る
 3. そのページにGAを導入し[client IDをカスタムディメンションへ入れる](/news/how-to-measure-google-analytics-client-id-with-gtm-2017/)
 4. 回答が記入されるGoogle SheetsにGAのアドオンを入れてデータ抽出
-5. [サンプル](https://docs.google.com/spreadsheets/d/1LJsKR3eyBy34apzdVgtYV8d3mZT-mp3kA0pgV7oLAiw/edit#gid=406719613)を参考にまとめシートを作る
+5. [サンプル](https://docs.google.com/spreadsheets/d/1LJsKR3eyBy34apzdVgtYV8d3mZT-mp3kA0pgV7oLAiw/edit#gid=406719613)をコピーして参考にし、まとめシートを作る
 
 ## #02. ECサイトの検討・回遊スコアリング
 商品の検討度合いや、関心商品カテゴリの広がり、価格帯の高まりといった心理の変化をスコアリングする方法について。
