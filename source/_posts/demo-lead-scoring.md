@@ -1,6 +1,6 @@
 ---
 title: Demo 01. B2Bのリードを閲覧履歴でスコアリング
-date: 2018-07-17 13:49:00
+date: 2018-07-21 17:19:00
 permalink: demo/lead-scoring
 tags:
   - Demo
