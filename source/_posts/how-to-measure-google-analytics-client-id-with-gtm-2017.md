@@ -42,3 +42,9 @@ GAのタグ（または使っている場合はGA設定の変数）で、「cust
 とはいえ、公開前のテストをお忘れなく。
 
 元ネタ：[#GTMTips: Use customTask To Access Tracker Values In Google Tag Manager](https://www.simoahava.com/gtm-tips/use-customtask-access-tracker-values-google-tag-manager/) - Simo Ahava's blog
+
+2018年7月追記：GTMを使わない場合はGAタグのsend previewよりも上に以下のコードを追加します。
+
+ ga('set', 'customTask', function(model) {
+   model.set('dimension9', model.get('clientId'));
+ };
