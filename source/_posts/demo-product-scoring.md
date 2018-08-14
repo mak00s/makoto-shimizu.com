@@ -4,7 +4,7 @@ date: 2018-08-14 23:49:00
 permalink: demo/product-scoring
 tags:
   - Demo
-thumbnailImage: 
+thumbnailImage: //res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1534260432/demo-product-scoring.png
 ---
 
 効果測定はアナリティクス活用方法の１つでしかなく、顧客理解やセグメント発見も重要です。例えばECにおける売上データは事業パフォーマンスの把握に役立ちますが、顧客の理解には不十分です。そこで、見込み顧客がどの商品をどれくらい真剣に検討しているかを数値化するデモを作ってみました。サンプルサイトと実データのレポートも大公開！
