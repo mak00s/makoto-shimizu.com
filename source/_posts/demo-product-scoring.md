@@ -12,10 +12,13 @@ thumbnailImage: //res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v
 <!-- more -->
 
 サンプルサイトの[この商品詳細ページ](https://store.concept-diagram.com/ec/html/products/detail/1)を開いて、以下のいずれかの検討アクションを行うと、それぞれ点数が加算されていきます。
+<img src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1534264121/demo-product-scoring-page.png" alt="" sizes="100vw" />
+
 - 写真の切り替え
 - サイズの選択
+- お気に入り追加
+- メーカーサイトへのリンクのクリック
 - レビューの全体表示
-- 下までスクロールしてフッタを1秒以上表示
 
 {% alert info %}
 GAサーバーへデータが送信されてスコアが加算されると、マリオのコインGET音が鳴ります
