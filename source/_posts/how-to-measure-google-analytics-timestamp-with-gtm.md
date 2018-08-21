@@ -24,7 +24,7 @@ Googleアナリティクスに標準装備されている「日付」(ga:date)�
 Simo Ahava氏はさらに[セッションIDも取得](https://www.simoahava.com/analytics/improve-data-collection-with-four-custom-dimensions/)することを推奨していますが、[ga:sessionCount](https://developers.google.com/analytics/devguides/reporting/core/dimsmets#view=detail&group=user&jump=ga_sessioncount)などでも代用可能なので、私が分析するサイトにはClient IDとこのタイムスタンプを標準導入しています。
 
 ## 1. GA管理画面でカスタムディメンションを作る
-Client IDを格納するカスタムディメンションをGAの管理画面で作成しておきます。
+Client IDを格納するカスタムディメンションをGAの管理画面で作成しておきます。時間はヒット単位で変わっていくので、範囲は「ヒット」で作成します。
 
 ## 2. GTMのカスタムJavaScript変数を作る
 
