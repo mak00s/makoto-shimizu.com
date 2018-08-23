@@ -17,7 +17,7 @@ Cookieから取得する、Callbackで取得するなど、いろいろな方法
 ### 1. GA管理画面でカスタムディメンションを作る
 Client IDを格納するカスタムディメンションをGAの管理画面で作成しておきます。範囲はユーザーで。
 
-### 2. カスタムJavaScript変数を作る
+### 2. GTMのカスタムJavaScript変数を作る
 カスタムJavaScript変数を作って以下のコードを入力します。
 
 ```javascript
