@@ -1,10 +1,10 @@
 ---
 title: Demo 03. NPSアンケート回答をGAでセグメント分析
-date: 2018-08-24 00:00:00
+date: 2018-08-24 09:00:00
 permalink: demo/nps-analytics
 tags:
   - Demo
-thumbnailImage: //res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800v1535034668/demo-nps-analytics.png
+thumbnailImage: //res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1535034668/demo-nps-analytics.png
 ---
 
 効果測定はアナリティクス活用方法の１つでしかなく、顧客理解やセグメント発見も重要です。例えば、NPS算出のためにアンケートで取得する**推奨度をGoogle Analyticsで計測**すると、推奨度の違いによる訪問や閲覧パターンがわかるので、サイト改善やリマーケティングなどの施策につなげることができます。KARTEと無料GAで実装してみました。
