@@ -11,7 +11,7 @@ thumbnailImage: //res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v
 <!-- more -->
 
 ## NPS用アンケートを実装
-本ページにKARTEを使ってアンケートを実装しました。
+本ページに[KARTE](https://karte.io/)を使ってアンケートを実装しました。
 - ページが読み込みされてから３秒後に表示されます
 - ２回閉じると、もう表示されなくなります（テストしやすいよう無効化しました。毎回表示されます）
 - ０〜１０の項目をクリックすると、KARTEとGoogle Analyticsでデータが記録されます
@@ -24,6 +24,12 @@ GAで計測されたイベントのデータを[１時間に一度自動更新�
 <img src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1535035603/demo-nps-analytics-report.png" alt="" sizes="100vw" />
 
 数字とグラフの部分は全て自動で更新されます。
+
+回答データはKARTEからCSVでダウンロードするのが通常の方法です。GA計測には、以下のようなメリットがあります。
+- ビジュアライズを自動化しやすい
+- GAでセグメント分析できる
+- 回答者の前後の動きを追える
+- セグメントを作成してリマーケティングの対象にできる
 
 ## 真似する方法
 
