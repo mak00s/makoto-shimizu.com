@@ -11,7 +11,7 @@ thumbnailImage: //res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v
 <!-- more -->
 
 ## NPS用アンケートを実装
-本ページに[KARTE](https://karte.io/)を使ってアンケートを実装しました。
+本ページに[KARTE](https://karte.io/)を使ってアンケートを実装しました。デモなので気軽に回答を送信してみてください。
 - ページが読み込みされてから３秒後に表示されます
 - ２回閉じると、もう表示されなくなります（テストしやすいよう無効化しました。毎回表示されます）
 - ０〜１０の項目をクリックすると、KARTEとGoogle Analyticsでデータが記録されます
