@@ -1,9 +1,10 @@
 ---
 title: Demo 03. NPSアンケート回答をGAでセグメント分析
-date: 2018-08-24 09:00:00
+date: 2018-08-28 18:18:00
 permalink: demo/nps-analytics
 tags:
   - Demo
+  - Google Analytics
 thumbnailImage: //res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1535034668/demo-nps-analytics.png
 ---
 
@@ -15,7 +16,7 @@ thumbnailImage: //res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v
 - ページが読み込みされてから３秒後に表示されます
 - ２回閉じると、もう表示されなくなります（テストしやすいよう無効化しました。毎回表示されます）
 - ０〜１０の項目をクリックすると、KARTEとGoogle Analyticsでデータが記録されます
-  - 「閉じる」をクリックしないと記録されません（KARTEの仕様？）
+  - 「閉じる」をクリックしないと記録されません（テンプレートの仕様なのでカスタマイズ可能）
 
 ## Google Sheetsで自動レポート
 
@@ -49,7 +50,7 @@ KARTE自体のレポート機能よりも多くのディメンションや指標
 
 これは汎用的な計測用の「接客サービス」です。一つ作ると全ての接客を計測できるようになります。
 
-<img src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1534837181/demo-nps-karte-1.png" alt="" sizes="100vw" />
+<img src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1535443567/demo-nps-karte-1b.png" alt="" sizes="100vw" />
 
 KARTE接客の表示をもれなく全員分GAで計測するため、**「未実施時」は使いません**。名前がランダムで設定されている上のアクションに名前をつけて、表示率を**100%**にしてから、その編集画面に移動します。
 
