@@ -11,22 +11,22 @@ thumbnailImage: //res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v
 効果測定はアナリティクス活用方法の１つでしかなく、顧客理解やセグメント発見も重要です。例えば、NPS算出のためにアンケートで取得する**推奨度をGoogle Analyticsで計測**すると、推奨度の違いによる訪問や閲覧パターンがわかるので、サイト改善やリマーケティングなどの施策につなげることができます。KARTEと無料GAで実装してみました。
 <!-- more -->
 
-## NPS用アンケートを実装
+## NPS用アンケートに回答すると
 本ページに[KARTE](https://karte.io/)を使ってアンケートを実装しました。デモなので気軽に回答を送信してみてください。
-- ページが読み込みされてから３秒後に表示されます
+- ページが読み込まれてから３秒後に表示されます
 - ２回閉じると、もう表示されなくなります（テストしやすいよう無効化しました。毎回表示されます）
 - ０〜１０の項目をクリックすると、KARTEとGoogle Analyticsでデータが記録されます
   - 「閉じる」をクリックしないと記録されません（テンプレートの仕様なのでカスタマイズ可能）
 
-## Google Sheetsで自動レポート
+## Google Sheetsのレポートに自動反映される
 
-GAで計測されたイベントのデータを[１時間に一度自動更新するGoogle Sheet](https://docs.google.com/spreadsheets/d/14KiWRaWSqkPfXfxzTf5huk1u_MIJ1ITr_TJsgCjXaek/edit?usp=sharing)を作りました。
+Google Analyticsで計測されたイベントのデータを[１時間に一度自動更新するGoogle Sheet](https://docs.google.com/spreadsheets/d/14KiWRaWSqkPfXfxzTf5huk1u_MIJ1ITr_TJsgCjXaek/edit?usp=sharing)を作りました。公開しておくので自由にみてみてください。
 
 <img src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1535035603/demo-nps-analytics-report.png" alt="" sizes="100vw" />
 
 数字とグラフの部分は全て自動で更新されます。
 
-回答データはKARTEからCSVでダウンロードするのが通常の方法です。GA計測には、以下のようなメリットがあります。
+回答データは通常はKARTEの管理画面からCSVでダウンロードします。GAで計測するのは、以下がメリットです。
 - Google Sheetsと組み合わせると柔軟なレポートを自動化しやすい
 - GAでセグメントを作成できる
  - 回答者の前後の動きを追える
