@@ -4,6 +4,7 @@ date: 2018-07-21 17:19:00
 permalink: demo/lead-scoring
 tags:
   - Demo
+  - Google Analytics
 thumbnailImage: //res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1532158122/demo-lead-scoring.png
 ---
 
@@ -44,7 +45,7 @@ textarea {
 </style>
 {% endraw %}
 
-- 入力内容は[この公開Spreadsheetに反映される](https://docs.google.com/spreadsheets/d/1LJsKR3eyBy34apzdVgtYV8d3mZT-mp3kA0pgV7oLAiw/edit#gid=418492740)ので個人情報は入力しないでください
+- 入力内容は[この公開Spreadsheetに反映される](https://docs.google.com/spreadsheets/d/1LJsKR3eyBy34apzdVgtYV8d3mZT-mp3kA0pgV7oLAiw/edit#gid=406719613)ので個人情報は入力しないでください
 - GAのデータは１時間ごとに更新されます
 
 #### 真似してみよう

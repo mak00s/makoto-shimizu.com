@@ -4,6 +4,7 @@ date: 2018-08-15 00:00:00
 permalink: demo/product-scoring
 tags:
   - Demo
+  - Google Analytics
 thumbnailImage: //res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1534260432/demo-product-scoring.png
 ---
 
