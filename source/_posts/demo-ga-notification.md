@@ -1,6 +1,6 @@
 ---
 title: Demo 04. Google Analyticsのビーコンが飛んだ時に画面に通知を出して音を鳴らす
-date: 2018-09-06 11:05:00
+date: 2018-09-06 11:10:00
 permalink: demo/ga-notification
 tags:
   - Demo
@@ -31,9 +31,11 @@ Google Analyticsはページ読み込み時やクリック時など、仕込ん�
 
 {% gist mak00s/884fc489972d0e858842a8ba853d720e %}
 
-トリガーの指定は不要です。
+単に外部のCSSとJavaScriptファイルをロードするだけですが、この外部JavaScriptファイルがロードされた後にGoogle Analyticsタグを発火させたいので、少し複雑になっています。
 
-この外部JavaScriptファイルがロードされてからGoogle Analyticsタグを発火させたいので、（すでに作ってあるはずの）GA基本タグの**詳細設定**を開き、「**タグの順序付け**」の「...**が発効する前にタグを配信**」に上のタグを設定します。
+そのため、トリガーの指定は不要です。「トリガーがないよ」とアラートが出ますが、気にしないで保存してください。
+
+続いて、（すでに作ってあるはずの）GA基本タグの**詳細設定**を開き、「**タグの順序付け**」の「...**が発効する前にタグを配信**」に上のタグを設定します。
 
 <img src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1536197363/gtm-tag-sequence.png" alt="" sizes="100vw" />
 
