@@ -1,5 +1,5 @@
 ---
-title: Demo 04. Google Analyticsのビーコンが飛んだ時に画面に通知を出して音を鳴らす
+title: Demo 04. Google Analyticsのビーコンに効果音をつけてトースト通知してみた
 date: 2018-09-06 11:22:00
 permalink: demo/ga-notification
 tags:
@@ -8,7 +8,7 @@ tags:
 thumbnailImage: //res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1536197564/demo-ga-notification.png
 ---
 
-アナリティクスをカスタマイズしたDEMOページが地味なので、Google Analyticsへデータを送信するたびに音を鳴らしたり通知トーストを表示する仕組みをGTMで実装してみました。とっても実用的で流行しそうですが（笑）、実はいろんな用途で応用できます。
+アナリティクスのDEMOページが地味なので、Google Analyticsへデータを送信するたびに音を鳴らしたり通知トーストを表示する仕組みをGTMで実装してみました。とっても実用的で流行しそうですが（笑）、実はいろんな用途で応用できます。
 <!-- more -->
 
 ## DEMO
