@@ -12,6 +12,8 @@ thumbnailImage: //res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v
 そこで、見込み顧客がどの商品をどれくらい真剣に検討しているかを数値化するデモを作ってみました。サンプルECサイトと実データのレポートも大公開！
 <!-- more -->
 
+## DEMO
+
 サンプルサイトの[この商品詳細ページ](https://store.concept-diagram.com/ec/html/products/detail/1)を開いて、以下のいずれかの検討アクションを行うと、それぞれ点数が加算されていきます。
 <img src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1534264121/demo-product-scoring-page.png" alt="" sizes="100vw" />
 
@@ -25,8 +27,10 @@ thumbnailImage: //res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v
 GAサーバーへデータが送信されてスコアが加算されると、マリオのコインGET音が鳴ります
 {% endalert %}
 
-- 結果は[このGoogle Sheets](https://docs.google.com/spreadsheets/d/18O428V6gBE8X20WKqt7bHgDs9ePcCTCcouOFHTMRgyY/edit?usp=sharing)に1時間に1回、自動反映されます。
+## Google Sheetsのレポートに自動反映される
 
-#### 真似してみよう
+結果は[このGoogle Sheets](https://docs.google.com/spreadsheets/d/18O428V6gBE8X20WKqt7bHgDs9ePcCTCcouOFHTMRgyY/edit?usp=sharing)に1時間に1回、自動反映されます。
+
+## 真似してみよう
 1. 商品詳細ページ上の検討系アクションをGAでイベント計測する
 2. Google Sheetを作成し、Googleアナリティクスのアドオンを使ってデータを抽出する（上記のシートを参考に）
