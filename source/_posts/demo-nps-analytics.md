@@ -22,7 +22,7 @@ thumbnailImage: //res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v
 
 Google Analyticsで計測されたイベントのデータを[１時間に一度自動更新するGoogle Sheet](https://docs.google.com/spreadsheets/d/14KiWRaWSqkPfXfxzTf5huk1u_MIJ1ITr_TJsgCjXaek/edit?usp=sharing)を作りました。公開しておくので自由にみてみてください。
 
-<img src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1535035603/demo-nps-analytics-report.png" alt="" sizes="100vw" />
+<a href="https://docs.google.com/spreadsheets/d/14KiWRaWSqkPfXfxzTf5huk1u_MIJ1ITr_TJsgCjXaek/edit?usp=sharing"><img src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1535035603/demo-nps-analytics-report.png" alt="" sizes="100vw" /></a>
 
 数字とグラフの部分は全て自動で更新されます。
 
