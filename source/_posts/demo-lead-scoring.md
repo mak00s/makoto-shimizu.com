@@ -47,6 +47,7 @@ textarea {
 
 - 入力内容は[この公開Spreadsheetに反映される](https://docs.google.com/spreadsheets/d/1LJsKR3eyBy34apzdVgtYV8d3mZT-mp3kA0pgV7oLAiw/edit#gid=406719613)ので個人情報は入力しないでください
 - GAのデータは１時間ごとに更新されます
+- スプレッドシートをコピー（複製して保存）すると自由に編集できるようになります
 
 #### 真似してみよう
 1. [Google Forms](https://www.google.com/forms/about/)でフォームを作る

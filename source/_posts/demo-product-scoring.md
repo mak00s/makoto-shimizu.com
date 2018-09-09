@@ -31,6 +31,8 @@ GAサーバーへデータが送信されてスコアが加算されると、マ
 
 結果は[このGoogle Sheets](https://docs.google.com/spreadsheets/d/18O428V6gBE8X20WKqt7bHgDs9ePcCTCcouOFHTMRgyY/edit?usp=sharing)に1時間に1回、自動反映されます。
 
+- スプレッドシートをコピー（複製して保存）すると自由に編集できるようになります
+
 ## 真似してみよう
 1. 商品詳細ページ上の検討系アクションをGAでイベント計測する
 2. Google Sheetを作成し、Googleアナリティクスのアドオンを使ってデータを抽出する（上記のシートを参考に）

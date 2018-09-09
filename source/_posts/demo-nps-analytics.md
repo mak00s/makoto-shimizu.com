@@ -24,7 +24,8 @@ Google Analyticsで計測されたイベントのデータを[１時間に一度
 
 <a href="https://docs.google.com/spreadsheets/d/14KiWRaWSqkPfXfxzTf5huk1u_MIJ1ITr_TJsgCjXaek/edit?usp=sharing"><img src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1535035603/demo-nps-analytics-report.png" alt="" sizes="100vw" /></a>
 
-数字とグラフの部分は全て自動で更新されます。
+- 数字とグラフの部分は全て自動で更新されます
+- スプレッドシートをコピー（複製して保存）すると自由に編集できるようになります
 
 回答データは通常はKARTEの管理画面からCSVでダウンロードします。GAで計測するのは、以下がメリットです。
 - Google Sheetsと組み合わせると柔軟なレポートを自動化しやすい
