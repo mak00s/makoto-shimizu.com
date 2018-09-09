@@ -1,5 +1,5 @@
 ---
-title: Demo 04. Google Analyticsのビーコンに効果音をつけてトースト通知してみた
+title: Google Analyticsのビーコンに効果音をつけてトースト通知する方法
 date: 2018-09-06 11:22:00
 permalink: demo/ga-notification
 tags:
