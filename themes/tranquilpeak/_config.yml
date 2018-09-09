@@ -38,10 +38,14 @@ sidebar:
 #            title: global.categories
 #            url: /categories
 #            icon: bookmark
+        demo:
+            title: データ活用Demo
+            url: /demo/
+            icon: bar-chart
         us-diary:
             title: US日記
             url: /categories/#posts-list-アメリカ勤務
-            icon: globe
+            icon: plane
         kid:
             title: こどもIA日記
             url: /categories/#posts-list-こどもIA日記
