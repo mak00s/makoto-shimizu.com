@@ -1,6 +1,6 @@
 ---
 title: Demo 04. コンテンツのトピックを精読ベースでスコアリング
-date: 2018-09-10 09:00:00
+date: 2018-09-10 10:05:00
 permalink: demo/content-topic-scrolled
 tags:
   - Demo
@@ -15,7 +15,7 @@ thumbnailImage: //res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v
 
 ## DEMO
 
-本サイトに全体的に導入しています。例えば[このページ](/news/demo/product-scoring/)を下の方までスクロールしてタグや関連リンクのエリアを**１秒以上表示させる**と、ポコっと音が鳴って画面右上に通知が表示され、そのページに設定されたトピック（タグ）である「Demo」と「Google Analytics」にそれぞれ１点が加算されます。
+本サイトに全体的に導入しています。例えばこのページを下の方までスクロールしてタグや関連リンクのエリアを**１秒以上表示させる**と、ポコっと音が鳴って画面右上に通知が表示され、そのページに設定されたトピック（タグ）である「Demo」と「Google Analytics」にそれぞれ１点が加算されます。
 
 <img src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1536394157/demo-content-topic-scrolled.png" alt="" sizes="100vw" />
 
