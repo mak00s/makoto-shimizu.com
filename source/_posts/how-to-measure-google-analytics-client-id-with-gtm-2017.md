@@ -1,6 +1,6 @@
 ---
 title: GTMでGoogleアナリティクスのClient IDを取得する一番確実で楽な方法（2018年版）
-date: 2017-10-12 13:27:00
+date: 2018-10-12 13:27:00
 tags:
   - Google Analytics
   - GTM
@@ -12,7 +12,9 @@ GTM (Google Tag Manager) でGAのClient IDを取得する最新で確実な方�
 ## 今までの問題点
 Cookieから取得する、Callbackで取得するなど、いろいろな方法がありましたが、新規訪問の最初の1ページ目で取得できない、無駄なイベントトラッキングが増える、GAのタグをそのままカスタムJavaScriptタグとして貼り付けるので タグマネUIの便利機能を使えない、などの 不便な点があり、イマイチな状況が続いていました。
 
-2018年8月の今では、2017年にGA (analytics.js)に追加されたCustomTaskという機能を使うのが一番楽で確実です。
+{% alert info %}
+2018年10月現在は、2017年にGA (analytics.js)に追加されたCustomTaskという機能を使うのが一番楽で確実です。
+{% endalert %}
 
 ### 1. GA管理画面でカスタムディメンションを作る
 Client IDを格納するカスタムディメンションをGAの管理画面で作成しておきます。範囲はユーザーで。
@@ -45,6 +47,13 @@ GAのタグ（または使っている場合はGA設定の変数）で、「cust
 
 2018年7月追記：GTMを使わない場合はGAタグのsend previewよりも上に以下のコードを追加します。
 
- ga('set', 'customTask', function(model) {
-   model.set('dimension9', model.get('clientId'));
- };
+```javascript
+ga('set', 'customTask', function(model) {
+  model.set('dimension9', model.get('clientId'));
+};
+```
+
+{% alert success %}
+さらに、アクセス時間（年月日＋時分秒）も別のカスタムディメンションへ入れるのがオススメです。一人ひとりの行動データをAPIやGoogle Sheetsで抽出する際に役立ちます。
+詳しくはこちら：[GTMでGoogleアナリティクスのアクセス時間を計測しよう](/news/how-to-measure-google-analytics-timestamp-with-gtm/)
+{% endalert %}

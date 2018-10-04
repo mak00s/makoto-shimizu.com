@@ -54,7 +54,7 @@ GAのタグまたはGA設定の変数で、1で作成したインデックス（
 
 <img src="//res.cloudinary.com/mak00s/image/upload/v1523899538/GTM-Timestamp-Custom-Dimension.png" alt="" sizes="100vw" />
 
-* インデックスの数字はプロパティによって異なります
+* インデックスの数字はプロパティの設定次第なので適宜変更してください
 
 ## 4. 確認する
 カスタムレポートを作って確認します。
@@ -62,5 +62,10 @@ GAのタグまたはGA設定の変数で、1で作成したインデックス（
 <img src="//res.cloudinary.com/mak00s/image/upload/v1523899539/GTM-Timestamp-Report.png" alt="" sizes="100vw" />
 
 以上、簡単ですねー。過去のデータは取得できないので、早めに設定しておくことをお勧めします。
+
+{% alert success %}
+さらに、Client ID（Cookieに格納されるランダムのID）も別のカスタムディメンションへ入れるのがオススメです。一人ひとりの行動データをAPIやGoogle Sheetsで抽出できるようになります。
+詳しくはこちら：[GTMでGoogleアナリティクスのClient IDを取得する](/news/how-to-measure-google-analytics-client-id-with-gtm-2017/)
+{% endalert %}
 
 Client IDとタイムスタンプをカスタムディメンションに入れるとどんな分析が可能になるかについては後日に。
