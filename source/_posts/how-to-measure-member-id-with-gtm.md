@@ -1,6 +1,6 @@
 ---
 title: ログイン後の会員IDをGTMとGoogleアナリティクスで取得する方法
-date: 2018-10-04 18:40:00
+date: 2017-10-04 18:40:00
 tags:
   - Google Analytics
   - GTM
