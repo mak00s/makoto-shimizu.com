@@ -7,10 +7,10 @@ tags:
   - Adobe Analytics
 ---
 
-ユーザー単位で分析するカスタマーアナリティクスの場合、Google AnalyticsやAdobe Analyticsの画面で表示できるレポート機能が物足りないので、Data Warehouseなどで生データ（に近い集計データ）を抽出してTableauで集計することが多いですが、データが巨大だとインメモリのBIツールで読み込めません。そんな時は、Pythonで巨大ファイルを並列処理して不要なカラムやレコードを削除すると、BIで読み込めるようになることがあります。
+ユーザー単位で分析するカスタマーアナリティクスの場合、Google AnalyticsやAdobe Analyticsの画面で表示できるレポート機能が物足りないので、Data Warehouseなどで生データ（に近い集計データ）を抽出してTableauで集計することが多いですが、データが巨大だとBIツールで読み込めません。そんな時にPythonで巨大ファイルを並列処理し、不要なカラムやレコードを削除してからBIで読み込む方法についてです。
 <!-- more -->
 
-Adobe AnalyticsのデータをData WarehouseでFTP配信したCSV形式をPythonで前処理します。
+以下のように、Adobe AnalyticsのデータをData WarehouseでFTP配信したCSVファイルをPythonで前処理してみます。
 
 元ファイルは18.5GBもあり、ExcelでもテキストエディタでもTableauでも開けません。少しでもデータ量を減らすためにセグメントを適用してありますが、Data Warehouseのセグメント機能には制約があり、どうしても不要なデータが混ざってしまいます。
 
