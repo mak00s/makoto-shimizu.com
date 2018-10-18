@@ -1,6 +1,6 @@
 ---
-title: PythonでAdobe Analyticsの巨大Data Warehouse CSVを間引く
-date: 2018-10-18 11:39:00
+title: Adobe Analyticsの巨大CSVファイルを前処理するならPythonライブラリ「DASK」が便利
+date: 2018-10-18 11:42:00
 permalink: 
 tags:
   - Python
