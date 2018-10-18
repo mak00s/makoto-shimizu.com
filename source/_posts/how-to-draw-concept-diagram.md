@@ -67,3 +67,5 @@ thumbnailImage: https://res.cloudinary.com/mak00s/image/upload/c_pad,f_auto,h_14
 * どんな状態のどんな人にどうなってもらうためなのかを意識する
 * 現在実施中の施策と今後の新アイデアの両方が必要
 
+#### 2018年10月追記
+[コンセプトダイアグラム公式サイト](https://concept-diagram.com/)を立ち上げました。
