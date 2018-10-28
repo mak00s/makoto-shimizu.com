@@ -49,7 +49,7 @@ WordPressのテキストコンテンツが自動的にGitHubのリポジトリ�
 そのうちメジャーな[Jekyll](https://jekyllrb.com/)は、方法やテンプレートが充実しているので有力候補でしたが、Rubyを今から覚える気になれず、ボツ。Node.jsベースの[Hexo](https://hexo.io/)を採用しました。
 
 ## ホスティングは「Netlify」
-ジェネレータの実行とホスティング環境としては、[Netlify](https://www.netlify.com/)を採用。Gitへコミットすると自動でジェネレーターの実行と配信が行われるだけでなく、CSSやJSのファイル結合・圧縮、CDN対応、タグ追加や認証、A/Bテストなどの機能があるので、[GitHub Pages](https://pages.github.com/)よりも圧倒的に便利です。
+ジェネレータの実行とホスティング環境としては、[Netlify](https://www.netlify.com/)を採用。Githubへコミットすると自動でジェネレーターの実行と配信が行われるだけでなく、CSSやJSのファイル結合・圧縮、CDN対応、タグ追加や認証、A/Bテストなどの機能があるので、[GitHub Pages](https://pages.github.com/)よりも圧倒的に便利です。
 
 ## DAMは「Cloudinary」
 画像をWeb用の解像度とフォーマットに変換してからサーバーにアップロードすることは避けたいので、動的に解像度やフォーマットを変換してくれるDAM (Digital Asset Manager)と、その配信を高速化できるCDNをいろいろ検討しました。
@@ -62,9 +62,11 @@ Cloudinaryへ画像をアップロードし、その画像のURLを細工する�
 
 ↓iPhoneのretinaなど高解像度に自動対応、フォーマットもWebpなどに最適化する画像の例
 <img src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:200/2014-05-19-Eclipse_eowupx">
+URLはres.cloudinary.com/mak00s/image/upload/**f_auto,w_auto:200:200**/Eclipse
 
-↓DPR 1.0で幅200pixelにリサイズ、フォーマットはJPEGのままの例
+↓URLにパラメータを含めるだけでDPR 1.0で幅200pixelにリサイズした例
 <img src="//res.cloudinary.com/mak00s/image/upload/w_200/dpr_1.0/2014-05-19-Eclipse_eowupx">
+URLはres.cloudinary.com/mak00s/image/upload/**w_200/dpr_1.0**/Eclipse
 
 HTMLのタグで縮小しているわけではなく、環境に応じて無駄のない大きさの画像がサーバーから配信されます。
 
