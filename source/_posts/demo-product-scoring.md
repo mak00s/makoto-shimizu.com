@@ -5,7 +5,7 @@ permalink: demo/product-scoring
 tags:
   - Demo
   - Google Analytics
-thumbnailImage: //res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1534260432/demo-product-scoring.png
+thumbnailImage: //res.cloudinary.com/mak00s/f_auto,w_auto:200:800/demo-product-scoring.png
 ---
 
 効果測定はアナリティクス活用方法の１つでしかなく、顧客理解やセグメント発見も重要です。例えばECにおける売上データは事業パフォーマンスの把握に役立ちますが、顧客の理解には不十分です。
@@ -15,7 +15,7 @@ thumbnailImage: //res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v
 ## DEMO
 
 サンプルサイトの[この商品詳細ページ](https://store.concept-diagram.com/ec/html/products/detail/1)を開いて、以下のいずれかの検討アクションを行うと、それぞれ点数が加算されていきます。
-<img src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1534264121/demo-product-scoring-page.png" alt="" sizes="100vw" />
+<img src="//res.cloudinary.com/mak00s/f_auto,w_auto:200:800/demo-product-scoring-page.png" alt="" sizes="100vw" />
 
 - 写真の切り替え
 - サイズの選択

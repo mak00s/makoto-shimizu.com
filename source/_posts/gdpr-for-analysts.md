@@ -3,13 +3,13 @@ title: GDPRの対策としてWebアナリストがすべきこと
 date: 2018-05-16 19:53:00
 tags:
   - Privacy
-thumbnailImage: //res.cloudinary.com/mak00s/image/upload/f_auto/v1526433637/eu-flag.png
+thumbnailImage: //res.cloudinary.com/mak00s/f_auto/eu-flag.png
 ---
 
 「**GDPRなんて関係ない**」と思っていたところ、突然Googleからデータ削除についての英語メールが届いて右往左往した人も多いと思います。結局どうすれば良いのか？一般論ではなく、GoogleアナリティクスやAdobe AnalyticsのようなWebの分析ツールを利用している**アナリストやWeb担当者は実際にどうすべきか？**という観点で、調べた結果をまとめました。
 <!-- more -->
 
-<img src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1526434702/gdpr-for-analysts.png" alt="" sizes="100vw" />
+<img src="//res.cloudinary.com/mak00s/f_auto,w_auto:200:800/gdpr-for-analysts.png" alt="" sizes="100vw" />
 
 {% alert info %}
 以下は個人としての見解です。

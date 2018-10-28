@@ -5,7 +5,7 @@ categories:
   -
 tags:
   - コンセプトダイアグラム
-thumbnailImage: https://res.cloudinary.com/mak00s/image/upload/c_pad,f_auto,h_140,w_140/v1526486848/blank-concept-diagram.png
+thumbnailImage: https://res.cloudinary.com/mak00s/c_pad,f_auto,h_140,w_140/blank-concept-diagram.png
 ---
 
 **コンセプトダイアグラム**は2008年から**進化**し続けてきました。時期や人によって**いろいろなバージョン**が生まれたので、**最新の描き方**を公式情報としてこのページでまとめていきます。

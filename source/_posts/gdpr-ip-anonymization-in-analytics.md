@@ -4,13 +4,13 @@ date: 2018-05-18 12:52:00
 tags:
   - Privacy
   - Google Analytics
-thumbnailImage: //res.cloudinary.com/mak00s/image/upload/f_auto/v1526433637/eu-flag.png
+thumbnailImage: //res.cloudinary.com/mak00s/f_auto/eu-flag.png
 ---
 
 [GDPRの対策としてWebアナリストがすべきこと](/news/gdpr-for-analysts/)の記事の中で取り上げた、不要な個人データを匿名化する方法の一つとしてGAやAAでIPアドレスを匿名化する方法と注意点について。GAの場合、訪問者のIPアドレスをレポート画面で表示することはできませんが、システム内部に保存されています。GDPRでは、個人データを取得し保存しているだけで、ツールベンダーや代理店ではなく事業会社のデータ管理責任が問われるので要注意。
 <!-- more -->
 
-<img src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1526614534/gdpr-ip-anonymization-in-analytics.png" alt="" sizes="100vw" />
+<img src="//res.cloudinary.com/mak00s/f_auto,w_auto:200:800/gdpr-ip-anonymization-in-analytics.png" alt="" sizes="100vw" />
 
 {% alert info %}
 日本向けの日本語のみサイトでここまで対応すべきか、は法務と相談してください。
@@ -44,7 +44,7 @@ _gaq.push(['_trackPageview']);
 
 Google Tag ManagerでGAを実装している場合は、GAタグの詳細設定で「**anonymizeIp**」というフィールドを追加します。
 
-<img src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1526610784/gtm-ga-ip-anonymization.png" alt="" sizes="100vw" />
+<img src="//res.cloudinary.com/mak00s/f_auto,w_auto:200:800/gtm-ga-ip-anonymization.png" alt="" sizes="100vw" />
 
 {% alert success %}
 プライバシー保護を強化するため、ついでにforceSSLも設定しておくと良いでしょう。
@@ -53,7 +53,7 @@ Google Tag ManagerでGAを実装している場合は、GAタグの詳細設定�
 ### 検証方法
 GAのビーコンに **&aip=** が付与されていれば成功です。
 
-<img src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1526611364/ga-ip-anonymization-debugging.png" alt="" sizes="100vw" />
+<img src="//res.cloudinary.com/mak00s/f_auto,w_auto:200:800/ga-ip-anonymization-debugging.png" alt="" sizes="100vw" />
 
 サーバー側でデータが処理・保存されるよりも前の段階で、IPアドレスの一部が「0」で置き換えられるようになります。
 
@@ -61,7 +61,7 @@ GAのビーコンに **&aip=** が付与されていれば成功です。
 
 自分や社内からのアクセスを除外するためにIPを使ってフィルタしている場合は、最後の桁（オクテット）が0で置き換わるので、IPの指定方法を「**前方が一致**」方式に変えるなどの対応が必要です。
 
-<img src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1526612284/ga-filter-by-ip.png" alt="" sizes="100vw" />
+<img src="//res.cloudinary.com/mak00s/f_auto,w_auto:200:800/ga-filter-by-ip.png" alt="" sizes="100vw" />
 
 {% alert warning %}
 0〜255の範囲でざっくりとフィルタされるのが困る場合は、GAのフィルターではなくタグマネージャーやブラウザプラグインなどの別の除外方法を検討しましょう。
@@ -71,7 +71,7 @@ GAのビーコンに **&aip=** が付与されていれば成功です。
 
 IPアドレスで判定している地域（都道府県・市区町村）のレポートは、元データの粒度が荒くなるので、精度が下がります。
 
-<img src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1526881647/ga-report-region-compared.png" alt="設定前後の比較" sizes="100vw" />
+<img src="//res.cloudinary.com/mak00s/f_auto,w_auto:200:800/ga-report-region-compared.png" alt="設定前後の比較" sizes="100vw" />
 
 GAのIPアドレスを他のシステムと連携させていないか確かめるなど、影響範囲を把握してから設定を変更すると良いでしょう。
 
@@ -79,7 +79,7 @@ GAのIPアドレスを他のシステムと連携させていないか確かめ�
 
 管理画面（レポートスイートマネージャー）の「一般的なアカウント設定」だけで対応可能です。
 
-<img src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1526911488/aa-rs-manager-ip-obfuscation.png" alt="設定前後の比較" sizes="100vw" />
+<img src="//res.cloudinary.com/mak00s/f_auto,w_auto:200:800/aa-rs-manager-ip-obfuscation.png" alt="設定前後の比較" sizes="100vw" />
 
 #### IPアドレスの最後のオクテットを0に置き換える
 GAと同じ方式です。IP除外よりも先に置き換えられるので、GAと同様にフィルタ設定を見直す必要があります。

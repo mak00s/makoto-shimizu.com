@@ -3,7 +3,7 @@ title: コンセプトダイアグラムとは
 date: 2018-05-10 21:09:00
 tags:
   - コンセプトダイアグラム
-thumbnailImage: //res.cloudinary.com/mak00s/image/upload/c_scale,f_auto,h_300,w_300/v1525956817/what-is-concept-diagram-w-text.png
+thumbnailImage: //res.cloudinary.com/mak00s/c_scale,f_auto,h_300,w_300/what-is-concept-diagram-w-text.png
 ---
 
 コンセプトダイアグラムは、
@@ -11,7 +11,7 @@ thumbnailImage: //res.cloudinary.com/mak00s/image/upload/c_scale,f_auto,h_300,w_
 です。
 <!-- more -->
 
-<img src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:963/v1525957335/what-is-concept-diagram.png" alt="コンセプトダイアグラム解説" sizes="100vw" />
+<img src="//res.cloudinary.com/mak00s/f_auto,w_auto:200:963/what-is-concept-diagram.png" alt="コンセプトダイアグラム解説" sizes="100vw" />
 
 ## 由来：元々はサイト設計の手法
 
