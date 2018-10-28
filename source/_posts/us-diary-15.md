@@ -6,7 +6,7 @@ categories:
   - アメリカ勤務
 tags:
   - Utah
-thumbnailImage: //res.cloudinary.com/mak00s/image/upload/v1523779192/20130211-Utah-Inversion.jpg.jpg
+thumbnailImage: //res.cloudinary.com/mak00s/20130211-Utah-Inversion.jpg.jpg
 ---
 1月のユタを初めて経験しました。
 
@@ -17,7 +17,7 @@ thumbnailImage: //res.cloudinary.com/mak00s/image/upload/v1523779192/20130211-Ut
 
 スキー場に行ったところ、確かに霧が晴れて空が青くなり、気温が4度ほど高くなりました。10度近く上がることもあるそうです。
 
-<img src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1523779600/20130211-inversion-contrast.png" alt="山の上とダウンタウン" sizes="100vw" />
+<img src="//res.cloudinary.com/mak00s/f_auto,w_auto:200:800/20130211-inversion-contrast.png" alt="山の上とダウンタウン" sizes="100vw" />
 
 ## 風が来ないと冬スモッグが発生
 逆転層によって空気がフタをされた状態になると、車や工場から排出される微粒子が閉じ込められます。
@@ -45,28 +45,28 @@ Carpoolして通勤すると、手当や駐車場の優先スペースなど、�
 ところが、地表付近の空気が氷点下なので雫が冷やされ、0度を超えても凍らない超冷却状態のまま着地と同時に凍るという現象です。地面、車、建物、植物などの表面が氷の層に覆われます。
 この氷の層は雪と違って透明なので判別しにくく、道路は特に危険です。
 
-<a href="http://fox13now.com/2013/01/24/viewer-photos-freezing-rain-and-ice/"><img src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1523779889/20130210-Freezing-Rain.png" alt="凍った車と衝突事故" sizes="100vw" /></a>
+<a href="http://fox13now.com/2013/01/24/viewer-photos-freezing-rain-and-ice/"><img src="//res.cloudinary.com/mak00s/f_auto,w_auto:200:800/20130210-Freezing-Rain.png" alt="凍った車と衝突事故" sizes="100vw" /></a>
 
 **写真**：[Deseret Newsの解説記事](http://www.deseretnews.com/article/865571361/Freezing-rain-causes-icy-roads-dicey-commute-Thursday.html?pg=all)・[Fox 13のニュース記事](http://fox13now.com/2013/01/24/viewer-photos-freezing-rain-and-ice/)
 
 ## 除雪は大人のマナー
 USでは一般的なガレージは、雪が降る冬に重宝します。車が大きいので最初はドライブウェイ（道路からガレージまでの道）に置いておいたところ...
 
-<img src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1515899626/20130108-Draper-Driveway.jpg" alt="敷地内のドライブウェイ" sizes="100vw" />
+<img src="//res.cloudinary.com/mak00s/f_auto,w_auto:200:800/20130108-Draper-Driveway.jpg" alt="敷地内のドライブウェイ" sizes="100vw" />
 
 車が雪で覆われてしまいました。
 
-<img src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1515899627/20130130-Ford-covered-with-snow.jpg" alt="雪で覆われた車" sizes="100vw" />
+<img src="//res.cloudinary.com/mak00s/f_auto,w_auto:200:800/20130130-Ford-covered-with-snow.jpg" alt="雪で覆われた車" sizes="100vw" />
 
 朝に車の掃除をするのが大変なので、注意深くガレージに入れてみました。ドアミラーをたためば何とか入ります。
 
-<img src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1515899627/20130130-Ford-in-Garage.jpg" alt="積雪を避けてガレージへ" sizes="100vw" />
+<img src="//res.cloudinary.com/mak00s/f_auto,w_auto:200:800/20130130-Ford-in-Garage.jpg" alt="積雪を避けてガレージへ" sizes="100vw" />
 
 朝には雪が溶けて、洗車したようにきれいになってました。
 
 ところが、今度はドライブウェイが雪だらけに...。
 
-<img src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1515899749/20130211-Draper-Driveway.jpg" alt="ドライブウェイが雪だらけに..." sizes="100vw" />
+<img src="//res.cloudinary.com/mak00s/f_auto,w_auto:200:800/20130211-Draper-Driveway.jpg" alt="ドライブウェイが雪だらけに..." sizes="100vw" />
 
 ちりとりで奮闘していたところ、隣の人がスコップを貸してくれました。
 踏み固められる前に除雪すれば楽で、かつ昼に日光で溶けるようになるんだとか。

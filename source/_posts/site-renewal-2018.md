@@ -61,12 +61,12 @@ Cloudinaryへ画像をアップロードし、その画像のURLを細工する�
 特に気に入ったのは、デバイスの解像度（DPR）に応じて必要なピクセルサイズを算出し、過不足ない解像度の画像を自動で配信してくれる機能。高解像度のスマートフォンで見ると画像がボケボケになる状況を避けられるようになりました。オリジナルの最大解像度の写真をそのまま入れておけるので、元画像を別で管理する必要もありません。5年くらい経って通信速度や画面の解像度がさらに改善されたとしても、一番大きな元画像を保管してサーバー側で変換しているので、画像URLのパラメータを変えるだけで対応できます。
 
 ↓iPhoneのretinaなど高解像度に自動対応、フォーマットもWebpなどに最適化する画像の例
-<img src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:200/2014-05-19-Eclipse_eowupx">
-URLはres.cloudinary.com/mak00s/image/upload/**f_auto,w_auto:200:200**/Eclipse
+<img src="//res.cloudinary.com/mak00s/f_auto,w_auto:200:800/2014-05-19-Eclipse_eowupx">
+URLはres.cloudinary.com/mak00s/**f_auto,w_auto:200:800**/Eclipse
 
 ↓URLにパラメータを含めるだけでDPR 1.0で幅200pixelにリサイズした例
-<img src="//res.cloudinary.com/mak00s/image/upload/w_200/dpr_1.0/2014-05-19-Eclipse_eowupx">
-URLはres.cloudinary.com/mak00s/image/upload/**w_200/dpr_1.0**/Eclipse
+<img src="//res.cloudinary.com/mak00s/w_200/dpr_1.0/2014-05-19-Eclipse_eowupx">
+URLはres.cloudinary.com/mak00s/**w_200/dpr_1.0**/Eclipse
 
 HTMLのタグで縮小しているわけではなく、環境に応じて無駄のない大きさの画像がサーバーから配信されます。
 

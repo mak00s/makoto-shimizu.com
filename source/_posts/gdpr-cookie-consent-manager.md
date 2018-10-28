@@ -4,13 +4,13 @@ date: 2018-05-20 11:20:00
 tags:
   - Privacy
   - Google Analytics
-thumbnailImage: //res.cloudinary.com/mak00s/image/upload/f_auto/v1526433637/eu-flag.png
+thumbnailImage: //res.cloudinary.com/mak00s/f_auto/eu-flag.png
 ---
 
 [GDPRの対策としてWebアナリストがすべきこと](/news/gdpr-for-analysts/)の記事の中で、個人データの取得には同意が必要、と書きました。その具体的な方法と注意点について紹介します。
 <!-- more -->
 
-<img src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1526826147/gdpr-consent-manager2.png" alt="" sizes="100vw" />
+<img src="//res.cloudinary.com/mak00s/f_auto,w_auto:200:800/gdpr-consent-manager2.png" alt="" sizes="100vw" />
 
 {% alert info %}
 以下は技術情報です。対応の必要性については法務担当や専門家に相談してください。
@@ -54,7 +54,7 @@ Cookie管理ツールから包括的なプライバシー管理ソリューシ�
 ### [InsitesのCookie Consent](https://cookieconsent.insites.com/)
 初回訪問時の**通知表示と同意取得に特化**したオープンソースの無料ツール。見た目や文言を細かくカスタマイズできます。[デモのページ](https://cookieconsent.insites.com/demos/)で各種カスタマイズ結果を確認できます。Cookieの削除やオプトアウト機能はありません。
 
-<img src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1526715357/gdpr-consent-manager-insites.png" alt="" sizes="100vw" />
+<img src="//res.cloudinary.com/mak00s/f_auto,w_auto:200:800/gdpr-consent-manager-insites.png" alt="" sizes="100vw" />
 
 ### [Cookiebot](https://www.gdpr.ga/cookiebot)
 通知表示と同意取得に加えて、サイトをスキャンしてCookie表を自動生成したり、EUからのアクセス時のみ機能をONにする機能もあります。デンマークのCybot社によるサービスを日本企業のクラスメソッド社が日本語化を行い、日本円による請求書対応を行なっています。
@@ -66,35 +66,35 @@ Cookie管理ツールから包括的なプライバシー管理ソリューシ�
 
 無料版でも多言語対応やカスタマイズ、サイトをスキャンしたCookie表の自動生成、入力フォーム自動検出が可能。ただしオンライン登録したすぐ使えるようにはならず、何日か経って審査を通った場合に登録の通知メールと営業担当からの個別フォローメール（英語）が届きます。
 
-<img src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1527529577/onetrust-registration.png" alt="" sizes="100vw" />
+<img src="//res.cloudinary.com/mak00s/f_auto,w_auto:200:800/onetrust-registration.png" alt="" sizes="100vw" />
 
 まずサイト全体を自動スキャンし、Cookieや入力フォーム、LocalStorageを検知することから始めます。
 
-<img src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1527529577/onetrust-scan-result.png" alt="" sizes="100vw" />
+<img src="//res.cloudinary.com/mak00s/f_auto,w_auto:200:800/onetrust-scan-result.png" alt="" sizes="100vw" />
 
 検知したCookieは、設定内容だけでなく、データベースと照合して何のCookieなのか説明文も表示してくれます。
 
-<img src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1527529577/onetrust-cookie-notice.png" alt="" sizes="100vw" />
+<img src="//res.cloudinary.com/mak00s/f_auto,w_auto:200:800/onetrust-cookie-notice.png" alt="" sizes="100vw" />
 
 この情報をもとにサイト上のCookie Notice（利用するCookieの説明表）ページを自動生成できます。
 
 同意の通知は、表示場所や色、項目をカスタマイズできます。
 
-<img src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1527529578/onetrust-cookie-banner.png" alt="" sizes="100vw" />
+<img src="//res.cloudinary.com/mak00s/f_auto,w_auto:200:800/onetrust-cookie-banner.png" alt="" sizes="100vw" />
 
 Cookieのオプトイン・オプトアウト用UIもあります。
 
 ### [COOKIE INFO SCRIPT](https://cookieinfoscript.com/)
 通知表示のみに特化した無料JavaScriptライブラリ。詳細リンクを含む通知を表示するだけで、同意の管理機能はありません。デザインや文言をカスタマイズできます。
 
-<img src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1527529577/cookieinfoscript-demo.png" alt="" sizes="100vw" />
+<img src="//res.cloudinary.com/mak00s/f_auto,w_auto:200:800/cookieinfoscript-demo.png" alt="" sizes="100vw" />
 
 ### [CIVICのCookie Control](https://www.civicuk.com/cookie-control)
 同意取得というよりも**Cookieのオプトイン・オプトアウト管理**ツール。カテゴリやツール毎に細かくCookieのON・OFFを切り替えられます。デフォルトがオプトアウト状態になっていて、ONにして明示的にオプトインする必要がある、ONからOFFに切り替えると該当Cookieが即削除される、というストリクトなポリシーが前提。イギリスの公的機関ICOが採用しています。
 
 無料版は、初回訪問時にお知らせを表示することができない、見た目のカスタマイズが限定される、ツールのAboutページへのリンクが入る、などの機能制限があります。
 
-<img src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1526715691/gdpr-consent-manager-civic.png" alt="" sizes="100vw" />
+<img src="//res.cloudinary.com/mak00s/f_auto,w_auto:200:800/gdpr-consent-manager-civic.png" alt="" sizes="100vw" />
 
 本サイトでは、[GDPRに関連したページ](/news/gdpr-for-analysts/)にのみ、CIVIC Cookie Control V8を実験導入しています（デモ用なのでオプトアウトしてもCookieは消えません）。インストールと設定方法が難しく、日本語の情報も無いので、以下にメモを残しておきます。
 
@@ -102,17 +102,17 @@ Cookieのオプトイン・オプトアウト用UIもあります。
 
 [Cookie Controlのサイト](https://www.civicuk.com/cookie-control)からDownloadページへ進み、Editionを選択します。V8の場合、Community Editionは無料です。
 
-<img src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1526705876/civic-1-edition.png" alt="" sizes="100vw" />
+<img src="//res.cloudinary.com/mak00s/f_auto,w_auto:200:800/civic-1-edition.png" alt="" sizes="100vw" />
 
 さらに、名前やEmailアドレス、サイトのドメインなどを記入していきます。
 
 Cookieをカテゴリやツール単位で分類し、その単位でオプトイン・アウトできるのがCIVIC Cookie Controlの一番の特徴です。そのカテゴリを編集や削除、追加します（後でJavaScriptで変更することも可能）。
 
-<img src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1526736945/civic-2-category.png" alt="" sizes="100vw" />
+<img src="//res.cloudinary.com/mak00s/f_auto,w_auto:200:800/civic-2-category.png" alt="" sizes="100vw" />
 
 サイト下部に表示される（C）アイコンの位置（左／右）、テーマ（ダーク／ライト）を指定します。
 
-<img src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1526736945/civic-3-appearance.png" alt="" sizes="100vw" />
+<img src="//res.cloudinary.com/mak00s/f_auto,w_auto:200:800/civic-3-appearance.png" alt="" sizes="100vw" />
 
 これ以外のカスタマイズ、文字色やサイズ、背景色、アイコン、Aboutリンク削除などは有償のPRO版のみで可能です。
 

@@ -5,7 +5,7 @@ permalink: demo/nps-analytics
 tags:
   - Demo
   - Google Analytics
-thumbnailImage: //res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1535034668/demo-nps-analytics.png
+thumbnailImage: //res.cloudinary.com/mak00s/f_auto,w_auto:200:800/demo-nps-analytics.png
 ---
 
 効果測定はアナリティクス活用方法の１つでしかなく、顧客理解やセグメント発見も重要です。例えば、NPS算出のためにアンケートで取得する**推奨度をGoogle Analyticsで計測**すると、推奨度の違いによる訪問や閲覧パターンがわかるので、サイト改善やリマーケティングなどの施策につなげることができます。KARTEと無料GAで実装してみました。
@@ -22,7 +22,7 @@ thumbnailImage: //res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v
 
 Google Analyticsで計測されたイベントのデータを[１時間に一度自動更新するGoogle Sheet](https://docs.google.com/spreadsheets/d/14KiWRaWSqkPfXfxzTf5huk1u_MIJ1ITr_TJsgCjXaek/edit?usp=sharing)を作りました。公開しておくので自由にみてみてください。
 
-<a href="https://docs.google.com/spreadsheets/d/14KiWRaWSqkPfXfxzTf5huk1u_MIJ1ITr_TJsgCjXaek/edit?usp=sharing"><img src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1535035603/demo-nps-analytics-report.png" alt="" sizes="100vw" /></a>
+<a href="https://docs.google.com/spreadsheets/d/14KiWRaWSqkPfXfxzTf5huk1u_MIJ1ITr_TJsgCjXaek/edit?usp=sharing"><img src="//res.cloudinary.com/mak00s/f_auto,w_auto:200:800/demo-nps-analytics-report.png" alt="" sizes="100vw" /></a>
 
 - 数字とグラフの部分は全て自動で更新されます
 - スプレッドシートをコピー（複製して保存）すると自由に編集できるようになります
@@ -51,11 +51,11 @@ KARTE自体のレポート機能よりも多くのディメンションや指標
 
 これは汎用的な計測用の「接客サービス」です。一つ作ると全ての接客を計測できるようになります。
 
-<img src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1535443567/demo-nps-karte-1b.png" alt="" sizes="100vw" />
+<img src="//res.cloudinary.com/mak00s/f_auto,w_auto:200:800/demo-nps-karte-1b.png" alt="" sizes="100vw" />
 
 KARTE接客の表示をもれなく全員分GAで計測するため、**「未実施時」は使いません**。名前がランダムで設定されている上のアクションに名前をつけて、表示率を**100%**にしてから、その編集画面に移動します。
 
-<img src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1534838740/demo-nps-karte-3.png" alt="" sizes="100vw" />
+<img src="//res.cloudinary.com/mak00s/f_auto,w_auto:200:800/demo-nps-karte-3.png" alt="" sizes="100vw" />
 
 - GTMでGAを導入している場合はトラッカー名を変更
 - KARTEのVisitor IDをセットするカスタムディメンション番号を指定
@@ -65,6 +65,6 @@ KARTE接客の表示をもれなく全員分GAで計測するため、**「未�
 
 続いて、「接客サービスが表示されたら」という条件の配信トリガーを設定します。
 
-<img src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1534838083/demo-nps-karte-2.png" alt="" sizes="100vw" />
+<img src="//res.cloudinary.com/mak00s/f_auto,w_auto:200:800/demo-nps-karte-2.png" alt="" sizes="100vw" />
 
 保存して公開すれば設定完了。KARTEの接客が表示された時点でGAのイベントを計測できるようになりました。

@@ -15,7 +15,7 @@ USで生活していると、**デジタルマーケティング**を身近に�
 
 <!-- more -->
 
-<img sizes="320px" src="//res.cloudinary.com/mak00s/image/upload/f_auto/v1510459791/2012-01-23-AE-Email.png" alt="地域に合わせて配信されたEmail" />
+<img sizes="320px" src="//res.cloudinary.com/mak00s/f_auto/2012-01-23-AE-Email.png" alt="地域に合わせて配信されたEmail" />
 
 ただの撤退のお知らせであれば即ゴミ箱行きになるところですが、クーポンが付いているのでメールを消さずにとっておくだけでなく、機会があれば立ち寄ってみようという気になりました。
 
@@ -34,7 +34,7 @@ IA Summitの参加を検討するためにExpedia.comでNew Orleans行の飛行�
 アパートの隣に大きな病院があります。緊急ヘリも到着する大きな病院で、敷地内に道路に向けた電光掲示板があります。何秒か経つと表示内容が切り替わるのですが、時々「Find Us on Facebook」が表示されます。
 表示されるのは約1秒と一瞬ですが、お馴染みのFacebookロゴが表示されるので、「**え、病院になぜFacebook？**」と違和感を感じ、つい二度見してしまいます。
 
-<img sizes="100vw" src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1511180785/2012-02-23-Timpanogos-Hospital-Sign.jpg" alt="病院の駐車場に建てられた電光掲示板" />
+<img sizes="100vw" src="//res.cloudinary.com/mak00s/f_auto,w_auto:200:800/2012-02-23-Timpanogos-Hospital-Sign.jpg" alt="病院の駐車場に建てられた電光掲示板" />
 
 [実際のFacebookページ](https://www.facebook.com/TimpHospital)は地味ですが、初期費用と運用費用をかけた宣伝の設備を使ってFacebookページの案内をするということは、Web担当者のボランティア的な作業ではできません。
 組織ぐるみで重要性を認識し、取り組みを行っているんだろうなーと思って毎朝見ています。

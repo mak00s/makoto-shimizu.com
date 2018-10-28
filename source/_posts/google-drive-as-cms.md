@@ -10,19 +10,19 @@ thumbnailImage: /images/cms/google-drive-as-cms.png
 面倒なので更新が遅れがちだった記事リストをGoogle Driveと自動連動させてみました。jQueryとDataTablesを使っているので、サクサクと並び替えやフィルタ、ページ移動ができます。いろいろ応用ができそうなので、方法についてメモしておきます。
 <!-- more -->
 
-<img src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:710/v1524580366/google-drive-as-cms.png" alt="" sizes="100vw" />
+<img src="//res.cloudinary.com/mak00s/f_auto,w_auto:200:710/google-drive-as-cms.png" alt="" sizes="100vw" />
 
 ## 1\. スプレッドシートを作成し公開
 
 まずGoogleドライブ上でスプレッドシートを作成します。[実際に作ったシートを見る](https://docs.google.com/spreadsheet/ccc?key=0AsrjFAXlY190dFd1dmxNdi1jUW0yTVJ6Mi1xMzQ2YVE)
 
-<a href="https://docs.google.com/spreadsheet/ccc?key=0AsrjFAXlY190dFd1dmxNdi1jUW0yTVJ6Mi1xMzQ2YVE"><img src="//res.cloudinary.com/mak00s/image/upload/v1523896567/google-spreadsheet.png" alt="" sizes="100vw" /></a>
+<a href="https://docs.google.com/spreadsheet/ccc?key=0AsrjFAXlY190dFd1dmxNdi1jUW0yTVJ6Mi1xMzQ2YVE"><img src="//res.cloudinary.com/mak00s/google-spreadsheet.png" alt="" sizes="100vw" /></a>
 
 ※シートを分けたりVLOOKUPしたりしてますが、普通にべた書きでもokです。**1行目**はJSON中の項目名になるので、**英数字**にしておきます。
 
 次に、「ファイル」メニューの「**ウェブに公開**」で公開します。「共有」ではなく「公開」です。
 
-<img src="//res.cloudinary.com/mak00s/image/upload/v1523896566/google-spreadsheet-publish.png" alt="" sizes="100vw" />
+<img src="//res.cloudinary.com/mak00s/google-spreadsheet-publish.png" alt="" sizes="100vw" />
 
 ## 2\. jQueryプラグイン「DataTables」をインストール
 

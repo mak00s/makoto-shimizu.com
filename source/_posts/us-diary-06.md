@@ -6,7 +6,7 @@ categories:
   - アメリカ勤務
 tags:
   - Utah
-thumbnailImage: //res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1511186196/2011-09-20-Cubicle-from-Top.jpg
+thumbnailImage: //res.cloudinary.com/mak00s/f_auto,w_auto:200:800/2011-09-20-Cubicle-from-Top.jpg
 ---
 渡米して2週目が過ぎました。四半期のレビュー会が終わり、2週目はようやくデスクで仕事できる状態になりました。
 
@@ -44,19 +44,19 @@ USから日本チームと英語で電話するという初めてのもどかし
 
 食品は、[オーガニック専門のスーパー](http://www.goodearthnaturalfoods.com/)を発見。農薬や遺伝子組み換えが心配なので、なるべくオーガニックで自然なものを買うことにしました。例えば、牛乳にもローファットやビタミン添加、ハーフ＆ハーフなどいろいろ種類があります。一番自然っぽいのがWhole Milkだったのですが、普通のスーパーのにはビタミンが入っていました。日本で買っていたような[無調整のノンホモ・パスチャライズトな牛乳](http://www.milk.or.jp/belief/pasteurizedmilk.html)は売っていません。このオーガニック専門スーパーだと、スーパーパスチャライズドなWhole Milkなら買うことができました。
 
-<img sizes="100vw" src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1510411847/2011-10-01-Organic-Valley-Milk.jpg" sizes="100vw" alt="スーパーパスチャライズドなWhole Milk" />
+<img sizes="100vw" src="//res.cloudinary.com/mak00s/f_auto,w_auto:200:800/2011-10-01-Organic-Valley-Milk.jpg" sizes="100vw" alt="スーパーパスチャライズドなWhole Milk" />
 
 さらに、リカーストアを発見。ユタでは、普通にスーパーで買えるお酒はアルコール度数が低いビールくらいで、それ以上に強いお酒は州が運営する専門店でしか買えません。会社の近くにあったので行ってみたところ、逆にすごい充実度。ベルギーのランビック
-<img sizes="100vw" src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1510412132/2011-09-30-Lambic-Beer.jpg" sizes="100vw" alt="ベルギーのランビック" />
+<img sizes="100vw" src="//res.cloudinary.com/mak00s/f_auto,w_auto:200:800/2011-09-30-Lambic-Beer.jpg" sizes="100vw" alt="ベルギーのランビック" />
 
 やエールの最高峰トラクエア
-<img sizes="100vw" src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1510412323/2011-09-30-4-Beers.jpg" sizes="100vw" alt="エールの最高峰トラクエア" />
+<img sizes="100vw" src="//res.cloudinary.com/mak00s/f_auto,w_auto:200:800/2011-09-30-4-Beers.jpg" sizes="100vw" alt="エールの最高峰トラクエア" />
 
 トラピストエールなどを買って帰りました。
-<img sizes="100vw" src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1510412488/2011-09-30-Oval-Beer.jpg" sizes="100vw" alt="トラピストエール" />
+<img sizes="100vw" src="//res.cloudinary.com/mak00s/f_auto,w_auto:200:800/2011-09-30-Oval-Beer.jpg" sizes="100vw" alt="トラピストエール" />
 
 さらに日本食レストランで味噌汁とお寿司も体験。
 
-<img sizes="100vw" src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800,e_auto_brightness/v1510412676/2011-10-01-Sushi-in-Utah.jpg" sizes="100vw" alt="トラピストエール" />
+<img sizes="100vw" src="//res.cloudinary.com/mak00s/f_auto,w_auto:200:800,e_auto_brightness/2011-10-01-Sushi-in-Utah.jpg" sizes="100vw" alt="トラピストエール" />
 
 味は...。日本のお寿司とは別物だと考えた方が良さそうですが、3週間ぶりだったので感動。さらに近所においしいタイ料理屋も発見。やはりアジアの料理はおいしい！

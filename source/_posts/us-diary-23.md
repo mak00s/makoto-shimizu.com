@@ -6,7 +6,7 @@ categories:
   - アメリカ勤務
 tags:
   - Utah
-thumbnailImage: //res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1517125792/201403-LibertyHill01.jpg
+thumbnailImage: //res.cloudinary.com/mak00s/f_auto,w_auto:200:800/201403-LibertyHill01.jpg
 ---
 今回のユタでの滞在先は、最初の1週間だけAirbnbで個人宅のお部屋を借りて、その間にアパートやシェアルームを探しました。いろいろ分かったことをメモ。
 <!-- more -->
@@ -40,13 +40,13 @@ thumbnailImage: //res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v
 
 例えば、2013年に滞在していた[「Liberty Hill」のサイト](https://www.libertyhillapartments.com/)を見ると、写真や動画による部屋や施設の紹介、価格表に加えて、賃料を払うためのページへのリンクもあります。
 
-<img src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1515927135/201402-apart-a.png" alt="賃貸アパートのWebサイト" sizes="100vw" />
+<img src="//res.cloudinary.com/mak00s/f_auto,w_auto:200:800/201402-apart-a.png" alt="賃貸アパートのWebサイト" sizes="100vw" />
 
 入居者それぞれに発行されるIDでログインすると、支払いやメンテのリクエストが可能。
 
 なんと、iOSとAndroidのアプリもあります。
 
-<img src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1515927135/201402-apart-b.png" alt="実用的な賃貸入居者向けアプリ" sizes="100vw" />
+<img src="//res.cloudinary.com/mak00s/f_auto,w_auto:200:800/201402-apart-b.png" alt="実用的な賃貸入居者向けアプリ" sizes="100vw" />
 
 ## 礼金や更新料はないが敷金はある
 アメリカでは礼金や更新料というシステムはありませんが、日本でいう敷金や保証金に相当するDepostは必要です。
@@ -68,8 +68,8 @@ thumbnailImage: //res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v
 ## 一軒家のようなタウンハウス
 前述のLiberty Hillは、Townhomeという一軒家を分割して1階と2階を占有でき（メゾネット式）、さらに屋内型のガレージもついているという珍しい物件です。
 
-<img src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1517125792/201403-LibertyHill01.jpg" alt="1階と2階が繋がったタウンホーム" sizes="100vw" />
-<img src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1517126057/201403-LibertyHill02.jpg" alt="賃貸なのにガレージ付き" sizes="100vw" />
+<img src="//res.cloudinary.com/mak00s/f_auto,w_auto:200:800/201403-LibertyHill01.jpg" alt="1階と2階が繋がったタウンホーム" sizes="100vw" />
+<img src="//res.cloudinary.com/mak00s/f_auto,w_auto:200:800/201403-LibertyHill02.jpg" alt="賃貸なのにガレージ付き" sizes="100vw" />
 
 以前に滞在していたOremのCortland Ridge Apartmentsにもガレージはありましたが、ドアを開けて共有スペースに出て、玄関から家に入る必要がありました。Liberty Hillのは家にアタッチされたガレージなので、ガレージのドアから直接家に入れます。
 
@@ -95,7 +95,7 @@ Airbnbはホテルよりは安価で、「これは革新的な最新ネット�
 - こっちが気を遣うのでちょっと疲れる
 
 滞在したのはここ
-<img src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1515988716/201402-apart-c.png" alt="Airbnbで何度か泊まった家" sizes="100vw" />
+<img src="//res.cloudinary.com/mak00s/f_auto,w_auto:200:800/201402-apart-c.png" alt="Airbnbで何度か泊まった家" sizes="100vw" />
 
 家全体がきれいに飾られていました。借りたのは地下の部屋です。部屋に小さい冷蔵庫と電子レンジがありました。
 トイレとお風呂は専用。玄関やキッチンは共有です。子どもが独立して部屋が余ったので、貸し出すことにしたそう。広い家に母子二人だけが住んでいます。

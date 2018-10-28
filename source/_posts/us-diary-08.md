@@ -6,7 +6,7 @@ categories:
   - アメリカ勤務
 tags:
   - Utah
-thumbnailImage: //res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1510482958/a-man-holds-the-steering-wheel-with-one-hand_rYH8t_CBi_jxbcqt.jpg
+thumbnailImage: //res.cloudinary.com/mak00s/f_auto,w_auto:200:800/a-man-holds-the-steering-wheel-with-one-hand_rYH8t_CBi_jxbcqt.jpg
 ---
 アクセルを踏まずに速度を自動で保ってくれるクルーズコントロールが便利すぎてやめられなくなりました。
 
@@ -14,7 +14,7 @@ thumbnailImage: //res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v
 上り坂でも下り坂でも、シフトやエンジンブレーキが自動で作動して速度を一定に保ちます。レバーを小刻みに上下に倒すと、約1マイルずつ速度を調整できます。前の車との距離を一定に保つ機能もあるようです（高級車の場合）。
 <!-- more -->
 
-<img src="//res.cloudinary.com/mak00s/image/upload/f_auto/v1509665481/cruize-control_pq7fwf.png" width="431" height="299" alt="ハンドルについたクルーズコントロール">
+<img src="//res.cloudinary.com/mak00s/f_auto/cruize-control_pq7fwf.png" width="431" height="299" alt="ハンドルについたクルーズコントロール">
 
 ユタ南部の国立公園まで長距離ドライブした時、行きはこの機能について知らなかったので、周りの車の走り方がどうもおかしい、と思っていました。それぞれの車が周りからの影響を全く受けず、マイペースの速度で走り続けるのです。
 後ろからゆっくりと近づいてきて、レーンを変えたら同じ速度でゆっくりと追い越して行ったり、隣のレーン並んだ車がそのまま止まったように併走したり。人間が運転すると、別の車が近づいて来たら危険または気持ち悪いので速度を変えることが多いのに、そのまま速度を維持して走り続けるのはおかしい。「アメリカ人はマイペースに運転するのだろう」と思っていました。

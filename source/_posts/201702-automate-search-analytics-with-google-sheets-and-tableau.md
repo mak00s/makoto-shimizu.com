@@ -6,7 +6,7 @@ categories:
 tags:
   - Tableau
   - SEO
-thumbnailImage: //res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1523880524/tableau-google-spreadsheet.png
+thumbnailImage: //res.cloudinary.com/mak00s/f_auto,w_auto:200:800/tableau-google-spreadsheet.png
 ---
 Google Search Console（旧ウェブマスターツール）の詳細データはウェブ上のレポート画面でも閲覧できますが、制約が多いので、APIで細かいデータを取得してExcelやBIツールで分析・ビジュアライズするのがベストです。
 <!-- more -->
@@ -19,7 +19,7 @@ Google Search Console（旧ウェブマスターツール）の詳細データ�
 ### 1. まずアドオン「Search Analytics for Sheets」をインストール
 [Chrome Web Storeの該当ページ](https://chrome.google.com/webstore/detail/search-analytics-for-shee/ieciiohbljgdndgfhgmdjhjgganlbncj)にアクセスし、アドオンをインストールすると、Google Spreadsheetのアドオンメニューに「**Search Analytics for Sheets**」が表示されるようになります。
 
-<img src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1523809411/google-spreadsheet-addon-menu-ja.png" alt="Google Spreadsheetのアドオンメニュー" sizes="100vw" />
+<img src="//res.cloudinary.com/mak00s/f_auto,w_auto:200:800/google-spreadsheet-addon-menu-ja.png" alt="Google Spreadsheetのアドオンメニュー" sizes="100vw" />
 
 ### 2. アドオンを実行してデータを取得
 スプレッドシートを開き、アドオン＞Search Analytics for Sheets＞**Open Sidebar**を選択してサイドバーを開きます。
@@ -28,11 +28,11 @@ Google認証を終えたら、各種の条件を設定します。
 
 一番細かいデータが欲しいので、**Group By**（抽出するデータ指定）に全ての項目（Date, Device, Query, Page, Country)を指定しましょう。
 
-<img src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1523809410/search-analytics-config-requests.png" alt="データ抽出の条件を指定" sizes="30vw" />
+<img src="//res.cloudinary.com/mak00s/f_auto,w_auto:200:800/search-analytics-config-requests.png" alt="データ抽出の条件を指定" sizes="30vw" />
 
 一番下の青い「**Request Data**」ボタンをクリックすると、シートのセルにデータが挿入されます。
 
-<img src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1523809411/search-analytics-retrieved-data.png" alt="セルに記入されたデータ" sizes="100vw" />
+<img src="//res.cloudinary.com/mak00s/f_auto,w_auto:200:800/search-analytics-retrieved-data.png" alt="セルに記入されたデータ" sizes="100vw" />
 
 はい、簡単ですね〜。
 
@@ -43,7 +43,7 @@ Google認証を終えたら、各種の条件を設定します。
 
 設定サイドバーのタブ「**Backups**」に切り替えて、先程と同様に設定します。
 
-<img src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1523809410/search-analytics-config-backups.png" alt="Backupタブでデータ抽出の条件を指定" sizes="30vw" />
+<img src="//res.cloudinary.com/mak00s/f_auto,w_auto:200:800/search-analytics-config-backups.png" alt="Backupタブでデータ抽出の条件を指定" sizes="30vw" />
 
 **Period**：Monthlyを選択すると、毎月頭の3日に自動実行されるようになります。日付や時間は変更できません。
 **Email me backup status**：バックアップが自動実行された後にメールが届くようにしておくと便利ですね。
@@ -53,7 +53,7 @@ Google認証を終えたら、各種の条件を設定します。
 
 今後は月単位でシートが自動で作成されていくので、過去分も月単位でシートを分けてデータ取得しておきましょう。
 
-<img src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1523809410/search-analytics-sheets-structure.png" alt="月別のシート構成" sizes="100vw" />
+<img src="//res.cloudinary.com/mak00s/f_auto,w_auto:200:800/search-analytics-sheets-structure.png" alt="月別のシート構成" sizes="100vw" />
 
 先月分はもうシートが作成されているはずなので、手動作成が必要なのは2ヶ月前と3ヶ月前だけです。月途中の不完全な今月分をシート作成すると、来月頭に自動バックアップ処理がスキップされてしまいます。今月の不完全な最新データが欲しい場合は、「今月」など別の名前で一時シートを作成します。
 
@@ -64,11 +64,11 @@ Google認証を終えたら、各種の条件を設定します。
 
 月別にシートを分けたので、分断されたデータを統合するために「ユニオンの新規作成」（New Union）をドラッグ＆ドロップします。
 
-<img src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1523809410/tableau-datasource-google-spreadsheet-union.png" alt="Tableauのデータソース設定" sizes="100vw" />
+<img src="//res.cloudinary.com/mak00s/f_auto,w_auto:200:800/tableau-datasource-google-spreadsheet-union.png" alt="Tableauのデータソース設定" sizes="100vw" />
 
 データのシートは月単位で毎月自動で追加されていくので、増えたシートを自動で追加するためにワイルドカード方式を選択します。
 
-<img src="//res.cloudinary.com/mak00s/image/upload/f_auto/v1523809409/tableau-datasource-google-spreadsheet-union-wildcard.png" alt="Tableauのユニオン設定"  width="411" height="450" />
+<img src="//res.cloudinary.com/mak00s/f_auto/tableau-datasource-google-spreadsheet-union-wildcard.png" alt="Tableauのユニオン設定"  width="411" height="450" />
 
 正規表現ではなく単なるワイルドカードです。
 
@@ -77,7 +77,7 @@ Dec 2016、Jan 2017、と増えていくので、「20」にしておけば80年
 ### 5. データの前処理
 使わないカラムは**非表示**にしておきましょう。
 
-<img src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1523809410/tableau-datasource-hide.png" alt="Tableauのデータソース設定" sizes="100vw" />
+<img src="//res.cloudinary.com/mak00s/f_auto,w_auto:200:800/tableau-datasource-hide.png" alt="Tableauのデータソース設定" sizes="100vw" />
 
 - **Google Sheets**：Googleスプレッドシートのドキュメント名
 - **Sheet**：対象シートの名前
@@ -85,11 +85,11 @@ Dec 2016、Jan 2017、と増えていくので、「20」にしておけば80年
 
 シートに移動後、分析で必要な計算フィールドを作成します。
 
-<img src="//res.cloudinary.com/mak00s/image/upload/f_auto/v1523809409/tableau-calc-field-ctr.png" alt="" width="450" height="168" />
+<img src="//res.cloudinary.com/mak00s/f_auto/tableau-calc-field-ctr.png" alt="" width="450" height="168" />
 
 **クリック率**：SUM( [Clicks] ) / SUM( [Impressions] )
 
-<img src="//res.cloudinary.com/mak00s/image/upload/f_auto/v1523809409/tableau-calc-field-position.png" alt="" width="450" height="149" />
+<img src="//res.cloudinary.com/mak00s/f_auto/tableau-calc-field-position.png" alt="" width="450" height="149" />
 
 **平均順位**：SUM( [Position] * [Impressions] ) / SUM( [Impressions] )
 

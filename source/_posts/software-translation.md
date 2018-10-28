@@ -47,7 +47,7 @@ Firefoxそのものの設定画面やメニューでの表記を調べたとこ�
 
 #### グリッドのラベル
 
-<img src="//res.cloudinary.com/mak00s/image/upload/v1523897292/httpfox-translation-01.png" alt="メイン画面" sizes="100vw" />
+<img src="//res.cloudinary.com/mak00s/httpfox-translation-01.png" alt="メイン画面" sizes="100vw" />
 
 ここはこのアドオンの**最も重要な部分**なので、丁寧に訳しました。
 
@@ -57,7 +57,7 @@ Firefoxそのものの設定画面やメニューでの表記を調べたとこ�
 
 6番目の「**Result**」は正しい表現ではなく、実は「404」「301」などのStatus Codeのことを指しています。「結果」では意味不明なので、RFCやWikipediaを調べて裏を取った上で、「**ステータス**」としました。
 
-<img src="//res.cloudinary.com/mak00s/image/upload/v1523897292/httpfox-translation-02.png" alt="POSTデータを表示する画面" sizes="100vw" />
+<img src="//res.cloudinary.com/mak00s/httpfox-translation-02.png" alt="POSTデータを表示する画面" sizes="100vw" />
 
 POSTで送信したデータを表示する画面の左下に、表示形式の切り替えボタンがあります。直訳だと「きれい」「生」とブロークンな表現ですが、意味的に分かりやすく「**パラメータ別**」（に値を分解して表形式で表示する）、と「**未加工**」（のままテキストで表示する）、としました。この方が分かりやすいですよね？
 
@@ -69,7 +69,7 @@ POSTで送信したデータを表示する画面の左下に、表示形式の�
 そこで、文字が含まれる画面をExcelに貼りつけ、**文字列とマッピング**しました。
 「モニタ」のように何度も出現する単語は別のセルに集めて、「=Z11」や「=CONCATENATE(Z11,"する")」などとセル参照を行うことで、**一元管理**しています。一貫性を保ちつつ、変更を容易にしてみました。
 
-<img src="//res.cloudinary.com/mak00s/image/upload/v1523897293/httpfox-translation-03.png" alt="HttpFoxを翻訳するためのExcelファイル" sizes="100vw" />
+<img src="//res.cloudinary.com/mak00s/httpfox-translation-03.png" alt="HttpFoxを翻訳するためのExcelファイル" sizes="100vw" />
 
 ### 日本語を読めない開発者がミスなく実装出来るように完全パッケージで納品
 

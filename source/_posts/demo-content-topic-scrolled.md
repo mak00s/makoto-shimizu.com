@@ -5,7 +5,7 @@ permalink: demo/content-topic-scrolled
 tags:
   - Demo
   - Google Analytics
-thumbnailImage: //res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1536394157/demo-content-topic-scrolled.png
+thumbnailImage: //res.cloudinary.com/mak00s/f_auto,w_auto:200:800/demo-content-topic-scrolled.png
 ---
 
 効果測定はアナリティクス活用方法の１つでしかなく、**顧客理解やセグメント発見も重要**です。例えばコンテンツマーケティングにおける単純なページ閲覧数や訪問者数は**企業努力の効果を測定する指標**でしかなく、顧客の理解には役立ちません。一人ひとりのサイト**体験をデータを活用して理解**できれば、コミュニケーション施策の立案や改善が可能になります。
@@ -17,7 +17,7 @@ thumbnailImage: //res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v
 
 本サイトに全体的に導入しています。例えばこのページを下の方までスクロールしてタグや関連リンクのエリアを**１秒以上表示させる**と、ポコっと音が鳴って画面右上に通知が表示され、そのページに設定されたトピック（タグ）である「Demo」と「Google Analytics」にそれぞれ１点が加算されます。
 
-<img src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1536394157/demo-content-topic-scrolled.png" alt="" sizes="100vw" />
+<img src="//res.cloudinary.com/mak00s/f_auto,w_auto:200:800/demo-content-topic-scrolled.png" alt="" sizes="100vw" />
 
 {% alert info %}
 GAサーバーへデータが送信されると、画面右上に通知が表示されます
@@ -32,7 +32,7 @@ GAサーバーへデータが送信されると、画面右上に通知が表示
 
 タグごとの精読状況がわかる[Google Sheetsを公開](https://docs.google.com/spreadsheets/d/1Wg81YpMDcZ2VLWAhXqlg_GU1pQRCrWy4CZGJZTXfez0/edit#gid=0)しておきます。
 
-<a href="https://docs.google.com/spreadsheets/d/1Wg81YpMDcZ2VLWAhXqlg_GU1pQRCrWy4CZGJZTXfez0/edit#gid=0"><img src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1536396545/demo-content-topic-report.png" alt="" sizes="100vw" /></a>
+<a href="https://docs.google.com/spreadsheets/d/1Wg81YpMDcZ2VLWAhXqlg_GU1pQRCrWy4CZGJZTXfez0/edit#gid=0"><img src="//res.cloudinary.com/mak00s/f_auto,w_auto:200:800/demo-content-topic-report.png" alt="" sizes="100vw" /></a>
 
 - データは1時間に1回、自動反映されます。
 - スプレッドシートをコピー（複製して保存）すると自由に編集できるようになります

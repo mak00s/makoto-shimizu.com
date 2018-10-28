@@ -28,7 +28,7 @@ Client IDを格納するカスタムディメンションをGAの管理画面で
 
 ## 2. GTMのカスタムJavaScript変数を作る
 
-<img src="//res.cloudinary.com/mak00s/image/upload/v1523899539/GTM-Timestamp-variable.png" alt="" sizes="100vw" />
+<img src="//res.cloudinary.com/mak00s/GTM-Timestamp-variable.png" alt="" sizes="100vw" />
 
 カスタムJavaScript変数を作って、以下のようなコードを入力します。
 
@@ -52,14 +52,14 @@ function() {
 ## 3. GTMの変数を作る
 GAのタグまたはGA設定の変数で、1で作成したインデックス（番号）のカスタムディメンションに2の変数を指定します。
 
-<img src="//res.cloudinary.com/mak00s/image/upload/v1523899538/GTM-Timestamp-Custom-Dimension.png" alt="" sizes="100vw" />
+<img src="//res.cloudinary.com/mak00s/GTM-Timestamp-Custom-Dimension.png" alt="" sizes="100vw" />
 
 * インデックスの数字はプロパティの設定次第なので適宜変更してください
 
 ## 4. 確認する
 カスタムレポートを作って確認します。
 
-<img src="//res.cloudinary.com/mak00s/image/upload/v1523899539/GTM-Timestamp-Report.png" alt="" sizes="100vw" />
+<img src="//res.cloudinary.com/mak00s/GTM-Timestamp-Report.png" alt="" sizes="100vw" />
 
 以上、簡単ですねー。過去のデータは取得できないので、早めに設定しておくことをお勧めします。
 

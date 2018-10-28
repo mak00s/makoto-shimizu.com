@@ -6,31 +6,31 @@ categories:
   - アメリカ勤務
 tags:
   - Utah
-thumbnailImage: //res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1523787567/Adobe-Fitness-Wall3.png
+thumbnailImage: //res.cloudinary.com/mak00s/f_auto,w_auto:200:800/Adobe-Fitness-Wall3.png
 ---
 
 ユタのAdobeオフィスにはカフェテリアの上にフィットネスセンターがあり、社員は無料で利用できます。
 <!-- more -->
 
-<img src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1523787570/Adobe-Cafeteria.png" alt="Cafeteria at Adobe Lehi officeのカフェテリア（下）とジム（上）" sizes="100vw" />
-<img src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1523787571/Adobe-Fitness-Center.png" alt="最新設備のあるWellness Center" sizes="100vw" />
+<img src="//res.cloudinary.com/mak00s/f_auto,w_auto:200:800/Adobe-Cafeteria.png" alt="Cafeteria at Adobe Lehi officeのカフェテリア（下）とジム（上）" sizes="100vw" />
+<img src="//res.cloudinary.com/mak00s/f_auto,w_auto:200:800/Adobe-Fitness-Center.png" alt="最新設備のあるWellness Center" sizes="100vw" />
 
 各種トレーニングマシンに加えて、写真右手にはロッククライミング（ボルダリング）用の壁もあります。
 
-<img src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1523787567/Adobe-Fitness-Wall.png" alt="会社内に本格的な壁がある" sizes="100vw" />
-<img src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1523787570/Adobe-Fitness-Wall2.png" alt="慣れてる同僚" sizes="100vw" />
+<img src="//res.cloudinary.com/mak00s/f_auto,w_auto:200:800/Adobe-Fitness-Wall.png" alt="会社内に本格的な壁がある" sizes="100vw" />
+<img src="//res.cloudinary.com/mak00s/f_auto,w_auto:200:800/Adobe-Fitness-Wall2.png" alt="慣れてる同僚" sizes="100vw" />
 
 昼休みにロッカーで着替えて、チョークと専用シューズを使って本格的に取り組む人が多いです。
 
 同僚に誘われて、何度か挑戦してみました。
 
-<img src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1523787567/Adobe-Fitness-Wall3.png" alt="ハイキングシューズなので大変" sizes="100vw" />
-<img src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1523787567/Adobe-Fitness-Wall4.png" alt="マットはあるけど怖い" sizes="100vw" />
+<img src="//res.cloudinary.com/mak00s/f_auto,w_auto:200:800/Adobe-Fitness-Wall3.png" alt="ハイキングシューズなので大変" sizes="100vw" />
+<img src="//res.cloudinary.com/mak00s/f_auto,w_auto:200:800/Adobe-Fitness-Wall4.png" alt="マットはあるけど怖い" sizes="100vw" />
 
 レベルはいろいろあり、近くにあるボルダリングジムの人が来て三ヶ月に一度レイアウトを変更してくれます。
 
 私は最初は普通の靴で試していたのですが、足が滑って効率が悪いので、結局ロッククライミング用の専用シューズを買いました。
-<img src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1523787571/MEC-Rock-Shoes.png" alt="La Sportiva Tarantulaのシューズ" sizes="100vw" />
+<img src="//res.cloudinary.com/mak00s/f_auto,w_auto:200:800/MEC-Rock-Shoes.png" alt="La Sportiva Tarantulaのシューズ" sizes="100vw" />
 
 ## さらにバンクーバーでも
 バンクーバーにもジムがあったので、入会してみました。The Hiveというところ（[写真ギャラリー](http://www.hiveclimbing.com/gallery/)）で、月間無制限のコースが$85。MEC（カナダ版のREI）のメンバーだとさらに割引があります。男女半半くらいの割合で、若者が夕方から夜にかけて集まってきます。
@@ -52,12 +52,12 @@ thumbnailImage: //res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v
 
 モアブ町の北側にあるWall Streetと呼ばれる場所で、切り立った絶壁の壁が道路沿いに続いています。
 
-<img src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1523787570/IMG_2579.png" alt="Wall Street (Moab, Utah)" sizes="100vw" />
+<img src="//res.cloudinary.com/mak00s/f_auto,w_auto:200:800/IMG_2579.png" alt="Wall Street (Moab, Utah)" sizes="100vw" />
 （画像のオリジナルは[The Kid Project](http://kidproject.org/2013/02/18/moab-utah-natures-version-of-wall-st/)）
 
 いろんなルートがありますが、今回登ったのは、垂直ではなく少し傾斜があり、クラックがある初心者〜中級者向けルート。
 
-<img src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1523787578/Climbing-in-Moab-Utah.png" alt="登っているのは同僚のトラビス" sizes="100vw" />
+<img src="//res.cloudinary.com/mak00s/f_auto,w_auto:200:800/Climbing-in-Moab-Utah.png" alt="登っているのは同僚のトラビス" sizes="100vw" />
 
 GoProで動画を撮影してもらいました。
 
@@ -74,7 +74,7 @@ GoProで動画を撮影してもらいました。
 ## 日本でも息子に技を伝授
 日本の自宅近所のボルダリングジムが改装で広くなったので、息子と行ってみました。
 
-<img src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1523787578/Climing-in-Japan.png" alt="日本で息子と" sizes="100vw" />
+<img src="//res.cloudinary.com/mak00s/f_auto,w_auto:200:800/Climing-in-Japan.png" alt="日本で息子と" sizes="100vw" />
 
 自分がUSで覚えて実践してきたことを子どもに伝授。楽しみながらエクササイズできるので気に入ったようです。
 

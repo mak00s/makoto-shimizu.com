@@ -6,7 +6,7 @@ categories:
   - アメリカ勤務
 tags:
   - Utah
-thumbnailImage: //res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1509983977/2011-09-27-Nissan-Versa_anmmvy.jpg
+thumbnailImage: //res.cloudinary.com/mak00s/f_auto,w_auto:200:800/2011-09-27-Nissan-Versa_anmmvy.jpg
 ---
 ## まず車をレンタル
 
@@ -15,7 +15,7 @@ thumbnailImage: //res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v
 約50分間、ひたすら南下。地図では近く見えても、品川～つくば市と同じくらいの距離があります。
 <!-- more -->
 
-<img alt="空港からOmnitureまで約70km" sizes="50vw" src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:469/v1509984480/2011-09-25-SLC-to-Orem-70km_mdhwiy.png" />
+<img alt="空港からOmnitureまで約70km" sizes="50vw" src="//res.cloudinary.com/mak00s/f_auto,w_auto:200:469/2011-09-25-SLC-to-Orem-70km_mdhwiy.png" />
 
 USのカーナビは日本のと違ってコンパクトな着脱できる簡易タイプがメインのようです。Hertzで借りた[NeverLost IV](https://www.hertz.com/rentacar/productservice/index.jsp?targetPage=neverlostus.jsp)も画面が小さく、地図が荒いのですが、USの道は交差点までの距離が長くてシンプルなので「あと何マイルで右折」などとしゃべってくれるだけで十分。スマートフォンのMapについているカーナビ機能でも役に立ちます。
 
@@ -23,7 +23,7 @@ USのカーナビは日本のと違ってコンパクトな着脱できる簡易
 
 あと、曲がるときに左右を間違えてついワイパーを動かしてしまいます...。
 
-<img alt="左折の時に左レーンに入らないよう要注意！" sizes="50vw" src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:763/v1514734615/2011-09-26-Car-on-Left-Lane_p6vuec.png" />
+<img alt="左折の時に左レーンに入らないよう要注意！" sizes="50vw" src="//res.cloudinary.com/mak00s/f_auto,w_auto:200:763/2011-09-26-Car-on-Left-Lane_p6vuec.png" />
 
 ## 借りたアパート
 
@@ -33,7 +33,7 @@ USのカーナビは日本のと違ってコンパクトな着脱できる簡易
 
 １階は３台分のガレージになっていて、住む場所は２階のみ。寝室とリビング＋ダイニング、キッチンの2DK？６６平米あります。
 
-<img alt="間取り" sizes="50vw" src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:260/v1509985194/2011-09-18-Cortland-Ridge-Layout_kidija.jpg" />
+<img alt="間取り" sizes="50vw" src="//res.cloudinary.com/mak00s/f_auto,w_auto:200:260/2011-09-18-Cortland-Ridge-Layout_kidija.jpg" />
 
 長期滞在の場合はホテルよりも快適です。ただし、普通のアパートを借りてしまうと家具などが無くて困るので、Furnishedという家具付きのところを探す必要があります。
 
@@ -52,16 +52,16 @@ USのカーナビは日本のと違ってコンパクトな着脱できる簡易
 
 食材は何でも巨大（人参だけ細長くて貧弱）で安いです。気を付けないと太りそう...。支払いは、デビットカードの方が一般的なようです。クレジットカードの場合は身分証の提示を求められることがあります。
 
-<img alt="アパート入口からは山が見える" sizes="100vw" src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1510300781/2011-09-19-Orem.jpg" /><
+<img alt="アパート入口からは山が見える" sizes="100vw" src="//res.cloudinary.com/mak00s/f_auto,w_auto:200:800/2011-09-19-Orem.jpg" /><
 
 砂漠気候の盆地なので、乾燥していて夜は寒くなります。乾燥と日焼けで顔がカサカサ＆ヒリヒリしてきたので、[オーガニックなスーパー](http://www.goodearthnaturalfoods.com/)を探して自然でライトな[石鹸とモイスチャー](http://www.flickr.com/photos/27261559@N06/6181463809/in/photostream)、シャンプー、リンスなどを買いました。
 
 ## 会社までの道を確認
 
-<img alt="3方向がこんな感じ" sizes="100vw" src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1510300257/2011-09-23-Orem-surrounded-by-mountains.jpg" />
+<img alt="3方向がこんな感じ" sizes="100vw" src="//res.cloudinary.com/mak00s/f_auto,w_auto:200:800/2011-09-23-Orem-surrounded-by-mountains.jpg" />
 
 標高が高いためか、山にはほとんど木がなく、岩や草だらけ。雪景色の方がキレイかも。空気もきれいで、星がよく見えます。
 
-<img alt="Adobe (Omniture)オフィスは山の麓" sizes="100vw" src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1510300622/2011-09-11-Orem-mountains.jpg" />
+<img alt="Adobe (Omniture)オフィスは山の麓" sizes="100vw" src="//res.cloudinary.com/mak00s/f_auto,w_auto:200:800/2011-09-11-Orem-mountains.jpg" />
 
 オフィスまでの道も事前に確認。月曜日からいよいよ勤務開始です。

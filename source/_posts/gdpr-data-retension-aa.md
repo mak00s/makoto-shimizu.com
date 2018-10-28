@@ -16,7 +16,7 @@ Adobe Analyticsのデータ保持期間は、Adobeとの契約書で25ヶ月な�
 
 まず、保持期間がどう設定されているかの現状を確認してみましょう。Analyticsにログインし、「**管理者**」メニューの中にある「**データガバナンス**」をクリックします。
 
-<img src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1527634353/gdpr-aa-datagovernance.png" alt="" sizes="100vw" />
+<img src="//res.cloudinary.com/mak00s/f_auto,w_auto:200:800/gdpr-aa-datagovernance.png" alt="" sizes="100vw" />
 
 * この例では37ヶ月になっています
 * 保持期間の変更はAdobeに依頼する必要があります
@@ -27,7 +27,7 @@ Adobe Analyticsのデータ保持期間は、Adobeとの契約書で25ヶ月な�
 削除は月単位で行われます。毎月一度、期限を過ぎた月のデータが消えていきます。
 例えば2018年6月2日現在、以下のように2015年3月31日までのデータが削除されてレポートに表示されなくなっていることを確認できました。
 
-<img src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1527865670/gdpr-aa-data-deleted.png" alt="" sizes="100vw" />
+<img src="//res.cloudinary.com/mak00s/f_auto,w_auto:200:800/gdpr-aa-data-deleted.png" alt="" sizes="100vw" />
 
 参考：[データ保持に関する公式FAQ](https://marketing.adobe.com/resources/help/ja_JP/reference/data-retention-client-table-faq.html)
 
@@ -37,7 +37,7 @@ Adobe Analyticsのデータ保持期間は、Adobeとの契約書で25ヶ月な�
 
 データガバナンスの画面でレポートスイートをクリックすると、その設定を確認・変更できます。
 
-<img src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1527634352/gdpr-aa-data-labels.png" alt="" sizes="100vw" />
+<img src="//res.cloudinary.com/mak00s/f_auto,w_auto:200:800/gdpr-aa-data-labels.png" alt="" sizes="100vw" />
 
 標準的なディメンションと指標のみ、便宜的にデフォルトでいくつかの設定がされた状態になっていますが、Adobeが法的な責任を持つ訳ではないので、**導入企業が判断して追加や変更する必要があります**。特にカスタムディメンション（eVar, Prop）や指標（event）は、全て無設定の状態になっているはずです。
 

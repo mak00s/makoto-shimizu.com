@@ -31,7 +31,7 @@ Webサイトの実装方法によって、いくつかの方法があります�
 
 Google Tag Managerで「JavaScript変数」タイプの「ユーザー定義変数」を作り、以下のようにIDがセットされるJavaScriptの変数名を指定します。
 
-<img src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1538642358/gtm-memberid-variable.png" alt="" sizes="100vw" />
+<img src="//res.cloudinary.com/mak00s/f_auto,w_auto:200:800/gtm-memberid-variable.png" alt="" sizes="100vw" />
 
 {% alert warning %}
 ログインしている場合、していない場合のそれぞれのケースについて検証する必要があります
@@ -41,7 +41,7 @@ Google Tag Managerで「JavaScript変数」タイプの「ユーザー定義変�
 
 上記のGTM変数をGAのカスタムディメンションにセットするため、GA計測用のタグを変更します。
 
-<img src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1538643094/gtm-memberid-tag.png" alt="" sizes="100vw" />
+<img src="//res.cloudinary.com/mak00s/f_auto,w_auto:200:800/gtm-memberid-tag.png" alt="" sizes="100vw" />
 
 - GAのタグではなくGA設定用の変数を利用している場合は、その変数で上記の設定をします。
 - GAのプロパティ設定でカスタムディメンションを作成しておく必要があります。

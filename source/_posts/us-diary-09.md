@@ -6,7 +6,7 @@ categories:
   - アメリカ勤務
 tags:
   - Utah
-thumbnailImage: //res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1510986096/2012-us-japan.png
+thumbnailImage: //res.cloudinary.com/mak00s/f_auto,w_auto:200:800/2012-us-japan.png
 ---
 2012年1月27日に再び渡米、第二期が始まりました。
 
@@ -32,14 +32,14 @@ USから日本に戻った時も、日本からUSに戻った時も、「久し�
 ## 準備OK！
 土曜日に到着し、車を借りて70kmドライブ。今度は日産のALTIMAでした。ハンドルが軽く、スムーズに走るので前回のカローラよりも快適です。
 
-<img sizes="100vw" src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1510991492/2012-01-28-Nissan-Altima.jpg" alt="今回の車は日産ALTIMATE" />
+<img sizes="100vw" src="//res.cloudinary.com/mak00s/f_auto,w_auto:200:800/2012-01-28-Nissan-Altima.jpg" alt="今回の車は日産ALTIMATE" />
 
 会社のデスクに残してきた荷物をアパートに移動し、食糧などの買い出しも終わらせて準備OKです。
 
-<img sizes="100vw" src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1510998404/2012-01-28-Adobe-Cubicle.jpg" alt="デスクに残してきた荷物" />
+<img sizes="100vw" src="//res.cloudinary.com/mak00s/f_auto,w_auto:200:800/2012-01-28-Adobe-Cubicle.jpg" alt="デスクに残してきた荷物" />
 
 覚悟していたほど寒くは無く、まだ雪は降っていませんが、道路以外の場所に雪が積もっているので、道路は除雪してあるのでしょう。雪が降れば、やはり雪や氷の上を走ることになりそうです。空港で車を借りた時に、除雪用の大きなブラシを貸してくれました。雪国用の特別サービス？氷は反対側のギザギザで剥がすのだとか。そんなに振るなら4WDにしておけば良かったかも？
 
-<img sizes="100vw" src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1510998385/2012-01-28-Hertz-Snow-Brush.jpg" alt="レンタカーすると漏れなく除雪用具がついてきます" />
+<img sizes="100vw" src="//res.cloudinary.com/mak00s/f_auto,w_auto:200:800/2012-01-28-Hertz-Snow-Brush.jpg" alt="レンタカーすると漏れなく除雪用具がついてきます" />
 
 明日の月曜からまたUS側で出勤です。いろいろ聞きたいこと、調整したいことが貯まっているので楽しみ！

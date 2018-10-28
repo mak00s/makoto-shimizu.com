@@ -6,7 +6,7 @@ categories:
   - アメリカ勤務
 tags:
   - Utah
-thumbnailImage: //res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1510384460/2011-09-23-Adobe-in-Orem.jpg
+thumbnailImage: //res.cloudinary.com/mak00s/f_auto,w_auto:200:800/2011-09-23-Adobe-in-Orem.jpg
 ---
 US勤務の最初の一週間があっという間に過ぎました...。
 
@@ -16,11 +16,11 @@ US勤務の最初の一週間があっという間に過ぎました...。
 USでは、**前向き駐車がほとんど**。広いので帰るときの方向転換を気にする必要がないため？
 <!-- more -->
 
-<img sizes="100vw" src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1510386249/2011-09-26-Canyon-Park-Tech-Center-Map.png" sizes="100vw" alt="オフィスの航空写真。２棟半を借りている。" />
+<img sizes="100vw" src="//res.cloudinary.com/mak00s/f_auto,w_auto:200:800/2011-09-26-Canyon-Park-Tech-Center-Map.png" sizes="100vw" alt="オフィスの航空写真。２棟半を借りている。" />
 
 AdobeはCanyon Park Technology Centerという敷地で２階建てビルを２棟半借りています。
 
-<img sizes="100vw" src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1510387019/2011-09-19-Canyon-Park-Reception.jpg" alt="受付の横" />
+<img sizes="100vw" src="//res.cloudinary.com/mak00s/f_auto,w_auto:200:800/2011-09-19-Canyon-Park-Reception.jpg" alt="受付の横" />
 
 月曜日は早めに出社し、受付で入社の手続きを待っていました。9時にHRの人が登場。
 
@@ -30,13 +30,13 @@ AdobeはCanyon Park Technology Centerという敷地で２階建てビルを２�
 
 何と、こっちの席は[Cubicle（キュービクル）](http://en.wikipedia.org/wiki/Cubicle)といって部屋のように広いのです。6つがつながってCubicle Farmを形成しています。広く、集中できて最高の環境です。
 
-<img sizes="100vw" src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1510409861/2011-09-19-cubicle.jpg" alt="つながったCubicle" />
+<img sizes="100vw" src="//res.cloudinary.com/mak00s/f_auto,w_auto:200:800/2011-09-19-cubicle.jpg" alt="つながったCubicle" />
 
 机はL字型で棚もあります。
 
-<img sizes="100vw" src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1510409957/2011-09-19-cubicle-inside.jpg" alt="Cubicleというそうです" />
+<img sizes="100vw" src="//res.cloudinary.com/mak00s/f_auto,w_auto:200:800/2011-09-19-cubicle-inside.jpg" alt="Cubicleというそうです" />
 
-<img sizes="100vw" src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:720/v1510410039/2011-09-19-cubicle-from-above.jpg" alt="自分のデスク" />
+<img sizes="100vw" src="//res.cloudinary.com/mak00s/f_auto,w_auto:200:720/2011-09-19-cubicle-from-above.jpg" alt="自分のデスク" />
 
 ## リーダー向けのオリエンテーションに参加
 
@@ -46,7 +46,7 @@ AdobeはCanyon Park Technology Centerという敷地で２階建てビルを２�
 各チームがGPSを渡され、各ポイントを探してミッションカードを見つけ、そこに書かれたミッションを終えるとポイントがもらえるのです。お互いが競争するのではなく、みんなの合計点でGoogleに勝とう！と盛り上がりました。
 いろいろな場所を訪れることができ、合間に仕事やそれ以外の話もでき、有意義なイベントでした。往復はCar Poolと言って、何人かが集まって車で移動しました。それぞれが車を出すと駐車場が足りなくなるためです。
 
-<img sizes="100vw" src="//res.cloudinary.com/mak00s/image/upload/e_auto_brightness,f_auto,w_auto:200:720/v1510410147/2011-09-20-Orientation-at-Sundance.jpg" alt="at Park City" />
+<img sizes="100vw" src="//res.cloudinary.com/mak00s/e_auto_brightness,f_auto,w_auto:200:720/2011-09-20-Orientation-at-Sundance.jpg" alt="at Park City" />
 
 二日目の水曜からは各チームからの発表がぎっしり。
 ランチはプレゼン会場のAuditoriumで出ました。水曜はSundanceでディナー。

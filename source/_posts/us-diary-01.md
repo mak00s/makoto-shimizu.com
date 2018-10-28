@@ -6,7 +6,7 @@ categories:
   - アメリカ勤務
 tags:
   - Utah
-thumbnailImage: //res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1509665507/airplane-wing-view-at-sunset_QJliM4_fbqs0b.jpg
+thumbnailImage: //res.cloudinary.com/mak00s/f_auto,w_auto:200:800/airplane-wing-view-at-sunset_QJliM4_fbqs0b.jpg
 ---
 旅は準備から始まります。出発までに行ったことをメモしておきます。
 
@@ -29,20 +29,20 @@ _2017年追記：日本のレンタカーではカーナビは無料でついて
 
 _2017年追記：日本の免許証の提示を求められたことは一度もありません。_
 
-![国際運転免許証のWikipediaページ](//res.cloudinary.com/mak00s/image/upload/h_162,w_300/v1509665519/license_rcbo4t.png)
+![国際運転免許証のWikipediaページ](//res.cloudinary.com/mak00s/h_162,w_300/license_rcbo4t.png)
 **参考** : [Wikipedia](http://ja.wikipedia.org/wiki/%E5%9B%BD%E9%9A%9B%E9%81%8B%E8%BB%A2%E5%85%8D%E8%A8%B1%E8%A8%BC)
 
 ## アパート
 本社のHRが紹介してくれた提携代理店とやりとりし、[Cortland Ridge](https://www.zillow.com/b/cortland-ridge-orem-ut-5XhysS/)に決めました。長期滞在用の[Marriott TownePlace Suites Provo Orem](http://www.marriott.com/hotels/travel/slcto-towneplace-suites-provo-orem/)から800mほど東にある、法人向けのアパートです。「長く住むならホテルよりfurnishedなアパートの方が良い」らしいです。広いとか、キッチンがフル仕様だとか、大きな違いがあります。家具付きで一日95ドルと、予算内です。月２回のHousekeeping（掃除代行）オプションをつけました。ホテルの方がタオル類の交換、掃除、ランドリーサービスがあるので楽かも？暖炉と煙突がついているのが寒いユタっぽいです。
 
-<img alt="アパートの写真" sizes="100vw" src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1509984922/2011-09-18-Cortland-Ridge-Garage_kwnx4q.jpg" />
+<img alt="アパートの写真" sizes="100vw" src="//res.cloudinary.com/mak00s/f_auto,w_auto:200:800/2011-09-18-Cortland-Ridge-Garage_kwnx4q.jpg" />
 
 _2017年追記：アパートの方が断然良かったです。雪が降るのでガレージ付きがおすすめ。家具付きだと家賃が3倍以上になる（毎月3千ドル）ので、長期で個人負担の場合は普通に家具なしでアパートを契約すると節約できます。_
 
 ## ATMで現金を引き出せるデビットカード
 調べたところ、新生銀行(4%)、楽天銀行(2.94%)、スルガ銀行(3%+210円)、りそな銀行(2.5%)が扱っていました。手数料が銀行によってだいぶ違います。資金移動が面倒なので既に口座がある楽天銀行で申し込んだところ、1週間程度でカードが届きました。VISAのデビットカードです。
 
-![楽天銀行のデビットカード](//res.cloudinary.com/mak00s/image/upload/v1509665517/debit_mfu8gy.png)
+![楽天銀行のデビットカード](//res.cloudinary.com/mak00s/debit_mfu8gy.png)
 **参考** : [Visaデビット](http://www.visa-news.jp/debit/application.html)
 
 三井住友、JTB、三菱東京UFJ、みずほ銀行はすでに海外ATMサービスの新規受付を終了していました。利益率が低いのか、人気がないのか、終了した理由は謎...。

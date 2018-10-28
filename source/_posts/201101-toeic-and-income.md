@@ -17,7 +17,7 @@ tags:
 <!-- more -->
 
 ## TOEICスコアと勤務先と収入の関係
-<img src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:638/v1523809409/toeic-analysis.png" alt="TOEICスコアと勤務先と収入の関係" sizes="100vw" />
+<img src="//res.cloudinary.com/mak00s/f_auto,w_auto:200:638/toeic-analysis.png" alt="TOEICスコアと勤務先と収入の関係" sizes="100vw" />
 
 ## 勉強が必要なのは最初だけ
 新卒で入社した会社は国内大手企業で、業務で**英語を使う機会は皆無**でした。英語のサイトで毎日情報収集し、家ではCNNを見ることで、知っている**単語**を増やしました。

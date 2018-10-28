@@ -6,7 +6,7 @@ categories:
   - アメリカ勤務
 tags:
   - Vancouver
-thumbnailImage: //res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1515904191/20130410-Cafe.jpg
+thumbnailImage: //res.cloudinary.com/mak00s/f_auto,w_auto:200:800/20130410-Cafe.jpg
 ---
 
 一時帰国して一週間経ちました。年末以来、2013年初の日本滞在でした。
@@ -19,17 +19,17 @@ thumbnailImage: //res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v
 ユタと違って移民が多く、アジア系レストランが充実しているのはさすがです。
 ダウンタウンは人が多いので、ずっといると疲れますが。
 
-<img src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1515904213/20130408-snow.jpg" alt="NorthバンクーバーでSki" sizes="100vw" />
-<img src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1515904213/20130408-park.jpg" alt="パークでサイクリング" sizes="100vw" />
+<img src="//res.cloudinary.com/mak00s/f_auto,w_auto:200:800/20130408-snow.jpg" alt="NorthバンクーバーでSki" sizes="100vw" />
+<img src="//res.cloudinary.com/mak00s/f_auto,w_auto:200:800/20130408-park.jpg" alt="パークでサイクリング" sizes="100vw" />
 
 ノマドは仕事スタイルとしてはイマイチでした。時間帯がUSと同じなので電話会議やチャットでインタラクティブにコミュニケーションできる点は良いのですが、黙々と打ち込む作業が増え、チームの一体感や達成感を感じられない、緊張感がない、椅子やデスク、モニターなどの環境が悪く集中できない、ホテルのネットが遅い、などがデメリット。
 
-<img src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1515904191/20130409-Cafe.jpg" alt="カフェでノマド" sizes="100vw" />
+<img src="//res.cloudinary.com/mak00s/f_auto,w_auto:200:800/20130409-Cafe.jpg" alt="カフェでノマド" sizes="100vw" />
 
 後半はカナダのモバイルルータを買って図書館で仕事をするようにしていました。
 デスクがカフェやホテルよりも広く、人がいるのに静か。電源があり、みんな熱心に勉強しているのでモチベーションを維持できます。
 
-<img src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1515904197/20130413-Vancouver-Library.jpg" alt="バンクーバー図書館のデスク" sizes="100vw" />
+<img src="//res.cloudinary.com/mak00s/f_auto,w_auto:200:800/20130413-Vancouver-Library.jpg" alt="バンクーバー図書館のデスク" sizes="100vw" />
 
 とはいえ、普通のオフィスは仕事には最高の環境だと再認識しました。
 デスクは広く、椅子はアーロンチェア。マルチモニターで複数ウィンドウを同時閲覧でき、電源は豊富。トイレに行く時に私物を気にする必要もなし。気軽に打ち合わせでき、適度に静か。ドリンクもフリー。会社は環境に投資している、ということですね。

@@ -4,7 +4,7 @@ date: 2018-10-04 17:00:00
 tags:
   - Google Analytics
   - GTM
-thumbnailImage: //res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1523889243/gtm-ga-client-id-01.png
+thumbnailImage: //res.cloudinary.com/mak00s/f_auto,w_auto:200:800/gtm-ga-client-id-01.png
 ---
 GTM (Google Tag Manager) でGAのClient IDを取得する最新で確実な方法について。
 <!-- more -->
@@ -30,13 +30,13 @@ function() {
 }
 ```
 
-<img src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1523889243/gtm-ga-client-id-01.png" alt="" sizes="100vw" />
+<img src="//res.cloudinary.com/mak00s/f_auto,w_auto:200:800/gtm-ga-client-id-01.png" alt="" sizes="100vw" />
 * カスタムディメンションの番号は適宜変更してください
 
 ### 3. customTaskを追加する
 GAのタグ（または使っている場合はGA設定の変数）で、「customTask」という名前のフィールドを作成し、値で前述の変数を指定します。
 
-<img src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1523889243/gtm-ga-client-id-02.png" alt="" sizes="100vw" />
+<img src="//res.cloudinary.com/mak00s/f_auto,w_auto:200:800/gtm-ga-client-id-02.png" alt="" sizes="100vw" />
 * フィールド名の名前は変更しないでください（頭のcは小文字、スペース無し）
 
 はい、これだけ。簡単ですねー。

@@ -24,7 +24,7 @@ tags:
 まず明確にすべきは「**相手に何をアピールすべきか？**」です。それは業種、会社のカルチャー、職種、職位、面接官のパーソナリティによって変わるので、いつも同じだと効果が無いどころか、逆効果になることもあります。**内容を毎回見直す**だけでなく、一部のページのみ見せる、あえて一切使わない、という**臨機応変な対応**が必要です。
 
 ## バリエーションの例：勤務先の規模と種類の広さを伝えたい場合
-<img src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1523871957/career-startup-to-enterprise.png" alt="勤務先の規模と種類の広さを伝える図" sizes="100vw" />
+<img src="//res.cloudinary.com/mak00s/f_auto,w_auto:200:800/career-startup-to-enterprise.png" alt="勤務先の規模と種類の広さを伝える図" sizes="100vw" />
 
 このスライドを見せながら、以下のようなアピールが可能です。
 > 「ちゃんと長く務めたこともあります。」
@@ -56,7 +56,7 @@ tags:
 このうち、数値化できる指標を一つか二つ、縦軸に設定します。地域や上場ステータスのように数値化できないメタデータは、アイコンやテキストをグラフの上にプロットします。
 
 ## バリエーションの例：職域の広さやカバー率をアピールしたい場合
-<img src="//res.cloudinary.com/mak00s/image/upload/f_auto/v1523871956/career-domain.png" alt="キャリアの幅の広さを伝える図" width="313" height="271" />
+<img src="//res.cloudinary.com/mak00s/f_auto/career-domain.png" alt="キャリアの幅の広さを伝える図" width="313" height="271" />
 
 時系列で変化や方向性を伝えるのではなく、全体像の中での網羅性を強調したい場合に。
 私の場合は、ビジネスに必要な要素をベン図で表し、自分が経験した部分を丸で塗りつぶしています。「技術/Technology」「UX/制作/デザイン」「マーケティング/ビジネス」などと表記は相手によって変えています。
@@ -69,10 +69,10 @@ tags:
 
 軸を設定したら、大きなフェーズに分けて方向性を明確に打ち出すのもオススメです。
 
-<img src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1523871957/career-shift.png" alt="キャリアの方向性を伝える図" sizes="100vw" />
+<img src="//res.cloudinary.com/mak00s/f_auto,w_auto:200:800/career-shift.png" alt="キャリアの方向性を伝える図" sizes="100vw" />
 
 ## バリエーションの例：組織におけるポジションの移動を伝えたい場合
-<img src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1523871958/career-position.png" alt="組織におけるポジションの移動を伝える図" sizes="100vw" />
+<img src="//res.cloudinary.com/mak00s/f_auto,w_auto:200:800/career-position.png" alt="組織におけるポジションの移動を伝える図" sizes="100vw" />
 
 単に組織を上層へ登ってきたことを示すだけだと図解の意味が無いので、私の場合はB2B（受託の制作／コンサルティング）からB2C（事業会社、サービス提供側）への遷移を正当化するための右斜めの軸を設定しました。
 

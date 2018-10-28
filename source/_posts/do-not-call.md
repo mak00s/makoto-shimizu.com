@@ -28,11 +28,11 @@ tags:
 
 まず、[Do Not Callレジストリのサイト](https://www.donotcall.gov/)にアクセスし、TOPページの「Register Now」をクリック。
 
-<img src="//res.cloudinary.com/mak00s/image/upload/v1523897605/do-not-call-top.png" alt="Do Not CallレジストリのTopページ" sizes="100vw" />
+<img src="//res.cloudinary.com/mak00s/do-not-call-top.png" alt="Do Not CallレジストリのTopページ" sizes="100vw" />
 
 次に、自分の電話とメールアドレスを入力します。
 
-<img src="//res.cloudinary.com/mak00s/image/upload/v1523897605/do-not-call-form.png" alt="Do Not Callレジストリの入力ページ" sizes="100vw" />
+<img src="//res.cloudinary.com/mak00s/do-not-call-form.png" alt="Do Not Callレジストリの入力ページ" sizes="100vw" />
 
 * 自宅の固定電話と個人用携帯電話の番号を入力できます（会社の電話番号は対象外）
 * 電話番号は同時に3つまで入力できます。
@@ -40,11 +40,11 @@ tags:
 
 記入が終わったら「Submit」ボタンをクリックすると、確認画面が表示されます。
 
-<img src="//res.cloudinary.com/mak00s/image/upload/v1523897605/do-not-call-confirm.png" alt="Do Not Callレジストリの確認ページ" sizes="100vw" />
+<img src="//res.cloudinary.com/mak00s/do-not-call-confirm.png" alt="Do Not Callレジストリの確認ページ" sizes="100vw" />
 
 問題なければ、左の「Register」ボタンをクリックするとメールが送信されます。
 
-<img src="//res.cloudinary.com/mak00s/image/upload/v1523897605/do-not-call-thanks.png" alt="Do Not Callレジストリの完了ページ" sizes="100vw" />
+<img src="//res.cloudinary.com/mak00s/do-not-call-thanks.png" alt="Do Not Callレジストリの完了ページ" sizes="100vw" />
 
 * この後に届く確認のメールに書かれたURLをクリックすると登録が完了します。
 * 気が変わった場合は、同じサイトでオプトインできます

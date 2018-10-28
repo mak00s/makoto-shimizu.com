@@ -6,7 +6,7 @@ categories:
   - アメリカ勤務
 tags:
   - 
-thumbnailImage: //res.cloudinary.com/mak00s/image/upload/v1523789577/nomad-us-canada-japan.png
+thumbnailImage: //res.cloudinary.com/mak00s/nomad-us-canada-japan.png
 ---
 
 アメリカに長期滞在すると二重課税になるので「時間帯がアメリカと同じカナダで仕事したい」というダメ元の提案が通った結果、2013年3月から国を超えた**海外ノマドワーカー**になりました。日本、カナダ、アメリカを3分の1ずつ行き来しています。
@@ -19,7 +19,7 @@ thumbnailImage: //res.cloudinary.com/mak00s/image/upload/v1523789577/nomad-us-ca
 ## 「スキーリゾートのウィスラーで仕事したい」
 バンクーバーから車で2時間で行ける小さな**リゾートタウン**です。冬はスキーやスノボで有名、夏はハイキングやマウンテンバイク、避暑地として人気ですが、冬ほど人は集まりません。
 
-<img src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1523789312/Whistler1.jpg" alt="Lost Lake in Whistler" sizes="100vw" />
+<img src="//res.cloudinary.com/mak00s/f_auto,w_auto:200:800/Whistler1.jpg" alt="Lost Lake in Whistler" sizes="100vw" />
 
 「**お前は遊びにいくつもりかっ！**」と一蹴されそうな提案ですが、実は合理的な根拠があります。
 
@@ -39,7 +39,7 @@ thumbnailImage: //res.cloudinary.com/mak00s/image/upload/v1523789577/nomad-us-ca
 
 ユタ時間に合わせて朝の8時から夕方4時まで働き、その後は登山やマウンテンバイク、暗くなったら執筆、というストイックな（？）生活を楽しむつもりです。10月から11月中旬までの1ヶ月半のみです。
 
-<img src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1523788972/Whistler2.png" alt="Green Lake in Whistler" sizes="100vw" />
+<img src="//res.cloudinary.com/mak00s/f_auto,w_auto:200:800/Whistler2.png" alt="Green Lake in Whistler" sizes="100vw" />
 
 ## そろそろ海外ノマドはおしまい!
 さて、書いたり話したりするネタはもう貯まったので、これを最後にそろそろ海外ノマド生活をやめようと思っています。やはりユタのオフィスで働くよりも効率が落ちます。何より、オフィスも無い町で一人で暮らして部屋で黙々と仕事するのはけっこうツラいんです。できれば避けたい、というのが本音。

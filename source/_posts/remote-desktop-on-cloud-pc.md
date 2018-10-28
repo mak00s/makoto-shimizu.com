@@ -42,7 +42,7 @@ Windows系のVPSは高価でサービスも少なかったのですが、最近�
 
 高性能なCPUやHDDを搭載したサーバーマシン上で複数の仮想マシンを起動させるため、非力なノートPCや古いデスクトップPCなど、**平凡な物理マシンよりも速い**です。ただし、サービスプロバイダにもよります。利用が集中したり、サーバーマシンが非力だと、もっさりします。公開されているスペックを確認したり、レビューを検索したり、と事前調査が必要です。
 
-<img src="//res.cloudinary.com/mak00s/image/upload/f_auto/v1523895281/201012-vps-crystal-disk-mark.png" alt="HDDのBENCH結果。左が物理PC、右がVPS" sizes="100vw" />
+<img src="//res.cloudinary.com/mak00s/f_auto/201012-vps-crystal-disk-mark.png" alt="HDDのBENCH結果。左が物理PC、右がVPS" sizes="100vw" />
 
 ### 4\. サウンドを手元で再生可能
 

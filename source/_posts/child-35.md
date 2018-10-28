@@ -5,7 +5,7 @@ categories:
   - こどもIA日記
 date: 2013-08-13 16:22:17
 tags:
-thumbnailImage: //res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1524027152/2013-Minecraft-Shooting-3.png
+thumbnailImage: //res.cloudinary.com/mak00s/f_auto,w_auto:200:800/2013-Minecraft-Shooting-3.png
 ---
 
 幼稚園に入る前の3歳からスタートした子どもIA日記。2013年3月に**小学校を卒業**しました。長いようで短かった10年間です。
@@ -37,17 +37,17 @@ thumbnailImage: //res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v
 
 そこで撮ったのがこんな写真。まずは**スケート**を再現。
 
-<img src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1524027152/2013-Minecraft-Shooting-1.png" alt="Minecraftでスケート2013-03-30" sizes="100vw" />
+<img src="//res.cloudinary.com/mak00s/f_auto,w_auto:200:800/2013-Minecraft-Shooting-1.png" alt="Minecraftでスケート2013-03-30" sizes="100vw" />
 
 よく再現されてる！意図的に前屈みになってます。夕日がキレイ。
 
 次は**雪合戦**。実際に雪を投げ合ってます。
 
-<img src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1524027152/2013-Minecraft-Shooting-2.png" alt="Minecraftで雪合戦2013-03-30" sizes="100vw" />
+<img src="//res.cloudinary.com/mak00s/f_auto,w_auto:200:800/2013-Minecraft-Shooting-2.png" alt="Minecraftで雪合戦2013-03-30" sizes="100vw" />
 
 最後は**かまくら**。二人で中に入って撮りました。服の色も当日のに合わせています。
 
-<img src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1524027152/2013-Minecraft-Shooting-3.png" alt="Minecraftでかまくら作り2013-03-30" sizes="100vw" />
+<img src="//res.cloudinary.com/mak00s/f_auto,w_auto:200:800/2013-Minecraft-Shooting-3.png" alt="Minecraftでかまくら作り2013-03-30" sizes="100vw" />
 
 おまけ：**撮影中の様子**
 

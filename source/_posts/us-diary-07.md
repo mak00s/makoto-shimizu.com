@@ -22,13 +22,13 @@ tags:
 
 ### Pandora
 音楽のストリーミング再生中に、ソルトレイクシティにあるお店を紹介してくれました。
-<img src="//res.cloudinary.com/mak00s/image/upload/f_auto/v1509665485/pandora-ad_rojrja.png" alt="Pandoraの広告" />
+<img src="//res.cloudinary.com/mak00s/f_auto/pandora-ad_rojrja.png" alt="Pandoraの広告" />
 
 USのスイーツは甘すぎるのでこのオファーには興味を持てず、クリックすることなく閉じるボタンを押しました。もっと自分の嗜好を理解して、それに合わせた広告を表示してほしいものです。
 
 ### Facebook
 画面右側に「エイドリアンブリューがソルトレイクに来る」という音楽ジャンルまで特化したターゲティング広告が表示されました。
-<img src="//res.cloudinary.com/mak00s/image/upload/f_auto/v1510459400/fb-ad-adrian-brew_nfm3f4.png" alt="Facebookの広告" />
+<img src="//res.cloudinary.com/mak00s/f_auto/fb-ad-adrian-brew_nfm3f4.png" alt="Facebookの広告" />
 
 こんな田舎に珍しい！と驚きつつ、期待を込めてクリック し、詳細を確認しました。日程が合っていたら確実にチケットを購入していたところです（少し迷ったり人を誘うので3日後くらいに）。
 
@@ -39,7 +39,7 @@ www.fashionplace.com
 
 ### Email
 何度か買い物をしたことがあるAmerican Eagleの店舗がクローズするので今後は近くの別の店舗へ来てね、とパーソナライズされたメールが届きました。
-<img sizes="320px" src="//res.cloudinary.com/mak00s/image/upload/f_auto/v1510459791/2012-01-23-AE-Email.png" alt="地域に合わせて配信されたEmail" />
+<img sizes="320px" src="//res.cloudinary.com/mak00s/f_auto/2012-01-23-AE-Email.png" alt="地域に合わせて配信されたEmail" />
 
 わざわざ車でダウンタウンまで出かけてから閉店を知ると時間が無駄になって落胆するので、この情報はとても役に立ちました。
 

@@ -5,7 +5,7 @@ permalink: demo/ga-notification
 tags:
   - Demo
   - Google Analytics
-thumbnailImage: //res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1536197564/demo-ga-notification.png
+thumbnailImage: //res.cloudinary.com/mak00s/f_auto,w_auto:200:800/demo-ga-notification.png
 ---
 
 アナリティクスのDEMOページが地味なので、Google Analyticsへデータを送信するたびに音を鳴らしたり通知トーストを表示する仕組みをGTMで実装してみました。とっても実用的で流行しそうですが（笑）、実はいろんな用途で応用できます。
@@ -17,7 +17,7 @@ thumbnailImage: //res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v
 
 さらに、商品画像を切り替えたり、「お気に入りに追加」をクリックするたびにイベントが計測されて、今度はコインGET音とともに違うデザインの通知が表示されます。
 
-<a href="https://store.concept-diagram.com/ec/html/products/detail/6"><img src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1536197564/demo-ga-notification.png" alt="" sizes="100vw" /></a>
+<a href="https://store.concept-diagram.com/ec/html/products/detail/6"><img src="//res.cloudinary.com/mak00s/f_auto,w_auto:200:800/demo-ga-notification.png" alt="" sizes="100vw" /></a>
 
 ## 真似してみよう
 
@@ -37,7 +37,7 @@ thumbnailImage: //res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v
 
 続いて、（すでに作ってあるはずの）GA基本タグの**詳細設定**を開き、「**タグの順序付け**」の「...**が発効する前にタグを配信**」に上のタグを設定します。
 
-<img src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1536197363/gtm-tag-sequence.png" alt="" sizes="100vw" />
+<img src="//res.cloudinary.com/mak00s/f_auto,w_auto:200:800/gtm-tag-sequence.png" alt="" sizes="100vw" />
 
 ### 2. データ送信時に処理されるcustomTaskを設定する
 

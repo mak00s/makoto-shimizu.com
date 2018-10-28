@@ -6,7 +6,7 @@ categories:
   - アメリカ勤務
 tags:
   - Utah
-coverImage: //res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1514902466/2014-05-19-Eclipse_eowupx.jpg
+coverImage: //res.cloudinary.com/mak00s/f_auto,w_auto:200:800/2014-05-19-Eclipse_eowupx.jpg
 coverSize: partial
 ---
 
@@ -20,7 +20,7 @@ coverSize: partial
 日本のように中古車に特化したサイトよりも、汎用的な売ります買います（Classified）サイトである「Craigslist」で中古車を売り買いするのが一般的です。
 ユタ州は特殊で、NBS系列の「KSL」というローカルテレビ局のサイトのClassifiedコーナーの方が充実しています。
 
-<img alt="craigslistとKSL" sizes="100vw" src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1514900123/2014-08-18-craigslist-and-ksl_bj06ea.png" />
+<img alt="craigslistとKSL" sizes="100vw" src="//res.cloudinary.com/mak00s/f_auto,w_auto:200:800/2014-08-18-craigslist-and-ksl_bj06ea.png" />
 
 両方のサイトをチェックして、良さそうな車を絞り込みました。
 
@@ -72,7 +72,7 @@ KSLの場合は、検索で個人とディーラーを絞り込むことがで�
 KSLで個人が出品していた65万円の掘り出し物を運良く見つけました。
 2008年モデルと新しく、事故歴無し、メーターも9万マイル弱。なにより赤くスポーティなクーペで、惹かれました。
 
-<img alt="KSLで見つけた三菱Eclipse" sizes="100vw" src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1514900470/2014-01-eclipse-on-ksl_wipfxk.png" />
+<img alt="KSLで見つけた三菱Eclipse" sizes="100vw" src="//res.cloudinary.com/mak00s/f_auto,w_auto:200:800/2014-01-eclipse-on-ksl_wipfxk.png" />
 
 三菱自動車ですが、北米で企画・生産したアメ車です。
 一世代前のコンバーチブル版「エクリプススパイダー」のみ日本でも発売されていましたが、2008年以降のこのモデルは日本では売られていません。北米でも2012年を最後に生産中止になりました。
@@ -82,13 +82,13 @@ KSLで個人が出品していた65万円の掘り出し物を運良く見つけ
 
 40ドル払って入手してみました。
 
-<img alt="Carfaxのレポート" sizes="100vw" src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1514900900/2014-05-09-carfax-report_xplaxo.png" />
+<img alt="Carfaxのレポート" sizes="100vw" src="//res.cloudinary.com/mak00s/f_auto,w_auto:200:800/2014-05-09-carfax-report_xplaxo.png" />
 
 １オーナー、事故歴なし、修理が一回、ローン中、ということが分かりました。
 
 さらに下へスクロールしていくと...
 
-<img alt="Carfaxのオーナーレポート" sizes="100vw" src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1514901430/2014-05-09-carfax-report-owner_bpyy5q.png" />
+<img alt="Carfaxのオーナーレポート" sizes="100vw" src="//res.cloudinary.com/mak00s/f_auto,w_auto:200:800/2014-05-09-carfax-report-owner_bpyy5q.png" />
 
 2007年10月4日に製造が完了し、翌日にロサンゼルスのディーラーへ届けられました。
 2008年モデルといっても、実は2007年だったんですね。
@@ -97,7 +97,7 @@ KSLで個人が出品していた65万円の掘り出し物を運良く見つけ
 
 2008年6月20日にオークションに出され、10月20日に買い手が付きました。所有権が転売され、またローンが設定されたようです。ローンの借り換え？それとも銀行が権利を転売？
 
-<img alt="Carfaxの修理レポート" sizes="100vw" src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1514901681/2014-05-09-carfax-report-maintenance_bzs6p2.png" />
+<img alt="Carfaxの修理レポート" sizes="100vw" src="//res.cloudinary.com/mak00s/f_auto,w_auto:200:800/2014-05-09-carfax-report-maintenance_bzs6p2.png" />
 
 2010年2月5日に、クライスラー系のディーラーでメンテを依頼した記録が残っています。タイヤのローテーションと、オイルとフィルター交換を実施したようです。2年目なので定期点検みたいなものですね。
 
@@ -129,16 +129,16 @@ KSLで個人が出品していた65万円の掘り出し物を運良く見つけ
 
 「タイトル」の最後のページに売り主と買い手の名前を書いて、DMV（Department of Motor Vehicles：車関係のお役所）に行きました。
 
-<img alt="DMV" sizes="100vw" src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1514902072/2014-04-02-DMV_wu2hoj.jpg" />
+<img alt="DMV" sizes="100vw" src="//res.cloudinary.com/mak00s/f_auto,w_auto:200:800/2014-04-02-DMV_wu2hoj.jpg" />
 
 登録費用167ドルに加えて、5.7%（ユタの場合）のSales Taxも払うと、新しいライセンスプレートがもらえるので、自分で取り付ければ手続き完了です。
 
 ## 3ヶ月乗り回す
 実物は写真で想像していたよりも良いコンディションでした。よく見ると傷やヘコみがありますが、遠くから見ると新車に見えます。
 
-<img alt="Eclipseでマウンテンバイク" sizes="100vw" src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1514902473/2014-04-26-Draper_i54yek.jpg" />
+<img alt="Eclipseでマウンテンバイク" sizes="100vw" src="//res.cloudinary.com/mak00s/f_auto,w_auto:200:800/2014-04-26-Draper_i54yek.jpg" />
 
-<img alt="Eclipseで国立公園へ" sizes="100vw" src="//res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1514902466/2014-04-26-Capitol-Reef_mveuyg.jpg" />
+<img alt="Eclipseで国立公園へ" sizes="100vw" src="//res.cloudinary.com/mak00s/f_auto,w_auto:200:800/2014-04-26-Capitol-Reef_mveuyg.jpg" />
 
 もともと安い車なので、内装はプラスチック、走りもそこそこですが、こういうスタイルが安く買えるのはアメリカならではですね。
 

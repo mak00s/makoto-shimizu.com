@@ -5,7 +5,7 @@ permalink: demo/lead-scoring
 tags:
   - Demo
   - Google Analytics
-thumbnailImage: //res.cloudinary.com/mak00s/image/upload/f_auto,w_auto:200:800/v1532158122/demo-lead-scoring.png
+thumbnailImage: //res.cloudinary.com/mak00s/f_auto,w_auto:200:800/demo-lead-scoring.png
 ---
 
 効果測定はアナリティクス活用方法の１つでしかなく、顧客理解やセグメント発見も重要です。例えば、資料請求のリード一覧にGAの閲覧履歴を合わせると、見込み顧客の関心エリアや本気度がわかるので、営業アプローチする際の参考になります。有料ツール（MA）を使わずに無料GAで実装してみました。
