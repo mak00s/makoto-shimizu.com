@@ -1,8 +1,9 @@
 ---
 title: Netflixも使ってるnteract（Jupyter用UI）が直感的で心地よい
-date: 2018-10-29 09:03:0
+date: 2018-10-29 09:03:00
 tags:
   - Python
+thumbnailImage: //res.cloudinary.com/mak00s/f_auto,w_auto:200:800/nteract-graph
 ---
 
 Jupyter Notebookの利便性はそのままで、操作性とデータビジュアライズ機能が改善された[nteract](https://nteract.io/)を最近よく使っています。日本ではあまり知られていないようなので、デモ動画を作ってみました。
