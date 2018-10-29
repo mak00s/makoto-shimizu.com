@@ -14,14 +14,6 @@ Jupyter Notebookの利便性はそのままで、操作性とデータビジュ�
 
 {% youtube 58uI07gbr7U %}
 
-## キーボードショートカットに依存しない直感的なGUI
-
-Jupyter Notebookはキーボードショートカットを使う前提のUIになっているのか、とっつきにくく、慣れるまで時間がかかります。
-
-[nteract](https://nteract.io/)の場合、セルをドラッグ＆ドロップで移動したり、ゴミ箱アイコンをクリックして削除したりと直感的に利用できるので、エンジニアではないマーケターやビジュアル派のアナリストにフレンドリー。
-
-<img src="//res.cloudinary.com/mak00s/f_auto,w_auto:200:800/nteract-cell" alt="" sizes="100vw" />
-
 ## データの確認や探索が簡単
 
 操作性やデザインも大事ですが、データ分析の場合はこちらの方が重要ですね。
@@ -38,6 +30,14 @@ nteractには、データをインタラクティブに確認や探索できるD
 {% alert info %}
 詳細は開発者のブログ記事をどうぞ：[Designing the nteract Data Explorer](https://blog.nteract.io/designing-the-nteract-data-explorer-f4476d53f897)（英語）
 {% endalert %}
+
+## キーボードショートカットに依存しない直感的なGUI
+
+Jupyter Notebookはキーボードショートカットを使う前提のUIになっているのか、とっつきにくく、慣れるまで時間がかかります。
+
+[nteract](https://nteract.io/)の場合、セルをドラッグ＆ドロップで移動したり、ゴミ箱アイコンをクリックして削除したりと直感的に利用できるので、エンジニアではないマーケターやビジュアル派のアナリストにフレンドリー。
+
+<img src="//res.cloudinary.com/mak00s/f_auto,w_auto:200:800/nteract-cell" alt="" sizes="100vw" />
 
 # インストールと起動方法
 
