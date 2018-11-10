@@ -55,3 +55,5 @@ textarea {
 3. フォームを含むサイト全体にGAを導入し[client IDをカスタムディメンションへ入れる](/news/how-to-measure-google-analytics-client-id-with-gtm-2017/)
 4. Google Formsによって回答が自動記入されるGoogle SheetsにGAのアドオンを入れてGAデータを抽出し、定期実行をONにする
 5. [サンプル](https://docs.google.com/spreadsheets/d/1LJsKR3eyBy34apzdVgtYV8d3mZT-mp3kA0pgV7oLAiw/edit#gid=406719613)をコピーして参考にしつつ、ビジュアライズ
+
+説明がざっくりすぎるので、小杉さんが[丁寧な解説記事を書いてくれました](https://kosgis.com/news/scoring-customer-browsing-history/)。わかりやすい！
