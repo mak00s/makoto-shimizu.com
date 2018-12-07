@@ -11,7 +11,6 @@ Webビジネス歴23年。UXとIAの分野を開拓後、楽天やWebCrewなど�
 
 * 電通アイソバー株式会社 [Chief Analytics Officer](https://www.dentsuisobar.com/news/2013-0515/) (CAO)
 * ナイル株式会社 [デジタルマーケティング戦略顧問](http://nyle.co.jp/?p=5451)
-* アクセス解析イニシアチブ [プログラム委員](http://a2i.jp/about/staff/)
 
 ### 著書
 * 「コンセプトダイアグラムでわかる[清水式]ビジュアルWeb解析」
@@ -19,7 +18,7 @@ Webビジネス歴23年。UXとIAの分野を開拓後、楽天やWebCrewなど�
 * 「商談に結びつける　売上をあげるためのBtoBデジタルマーケティング入門」（共著）
 * [書籍以外の寄稿記事や取材記事リスト](/articles/)
 
-[LinkedIn](https://www.linkedin.com/in/smz71/) | [Facebook](https://www.facebook.com/makoto.shimizu1) | [Twitter](https://twitter.com/mak00s)
+[LinkedIn](https://www.linkedin.com/in/smz71/)
 
 ## “役立つWebを実現したい”
 
@@ -29,8 +28,10 @@ Webビジネス歴23年。UXとIAの分野を開拓後、楽天やWebCrewなど�
 
 ## 依頼できること
 
-* コンセプトダイアグラムやカスタマーアナリティクスに関するセミナー・講演登壇、ワークショップ実施
+* コンセプトダイアグラムやカスタマーアナリティクスに関するセミナー
 * Adobe Analytics、Googleアナリティクスの設計・実装支援
 * デジタルマーケティングに関するコンサルティング
+
+（新規のお仕事は受付しておりません。ご相談は電通アイソバーやナイルまでお願いします）
 
 [**→お問い合わせ**](/contact/)
