@@ -3,7 +3,7 @@ title: Rが3.5.0へメジャーアップデートしたので簡単アップデ�
 date: 2018-04-25 11:00:00
 categories: 
 tags:
-  - 
+  - R
 thumbnailImage: /images/R-logo.png
 ---
 
