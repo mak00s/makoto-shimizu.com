@@ -1,6 +1,6 @@
 ---
 title: Demo 05. LPの直帰や滞在時間を正確に把握する
-date: 2019-04-19 19:05:00
+date: 2019-04-19 20:20:00
 permalink: demo/content-engagement
 tags:
   - Demo
@@ -19,9 +19,7 @@ thumbnailImage:
 このページを開くとタイマーがスタートします。
 
 {% raw %}
-<div id="timer" style="margin-right:auto;margin-left:auto;width:140px;border:10px solid #ccc;text-align:center;">
-<time style="font-size:36px">00:00</time>
-</div>
+<div id="timer" style="margin-right:auto;margin-left:auto;width:140px;border:10px solid #ccc;text-align:center;font-size:36px">00:00</div>
 {% endraw %}
 別のページへ移動したりタブやウィンドウを閉じる時にタイマーが停止して最終的な滞在時間が確定し、GAへデータが送信されます。
 
