@@ -49,7 +49,7 @@ textarea {
 - GAのデータは１時間ごとに更新されます
 - スプレッドシートをコピー（複製して保存）すると自由に編集できるようになります
 
-#### 真似してみよう
+## 真似してみよう
 1. [Google Forms](https://www.google.com/forms/about/)でフォームを作る
 2. 本ページを参考にしてフォームのHTMLページを作る
 3. フォームを含むサイト全体にGAを導入し[client IDをカスタムディメンションへ入れる](/news/how-to-measure-google-analytics-client-id-with-gtm-2017/)
