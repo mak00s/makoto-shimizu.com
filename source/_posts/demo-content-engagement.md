@@ -23,6 +23,13 @@ thumbnailImage:
 {% endraw %}
 別のページへ移動したりタブやウィンドウを閉じる時にタイマーが停止して最終的な滞在時間が確定し、GAへデータが送信されます。
 
+こんなデータが取れるようになります。
+<img src="//res.cloudinary.com/mak00s/f_auto,w_auto:200:800/demo-scrolldepth-report" alt="" sizes="100vw" />
+
+## Google Sheetsのレポートに自動反映される
+
+結果は[このGoogle Sheets](https://docs.google.com/spreadsheets/d/1pvFWLc_07BDMdV7zL8CDiz2140Y4tG_puJfwZNbJ_mA/edit#gid=1115641289)に1時間に1回、自動反映されます。
+
 ## 真似してみよう
 GTMで
 1. カスタムHTMLのタグ「JS - 離脱前にdataLayerへevent送信」を作る
