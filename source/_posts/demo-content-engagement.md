@@ -30,6 +30,8 @@ thumbnailImage:
 
 結果は[このGoogle Sheets](https://docs.google.com/spreadsheets/d/1pvFWLc_07BDMdV7zL8CDiz2140Y4tG_puJfwZNbJ_mA/edit#gid=1115641289)に1時間に1回、自動反映されます。
 
+<a href="https://docs.google.com/spreadsheets/d/1pvFWLc_07BDMdV7zL8CDiz2140Y4tG_puJfwZNbJ_mA/edit#gid=1115641289"><img src="//res.cloudinary.com/mak00s/f_auto,w_auto:200:800/demo-scrolldepth-report-gs" alt="" sizes="100vw" /></a>
+
 ## 真似してみよう
 GTMで
 1. カスタムHTMLのタグ「JS - 離脱前にdataLayerへevent送信」を作る
