@@ -55,8 +55,8 @@ GTMで
 4. 組み込み変数「Scroll Depth Threshold」を有効にする
 5. タイマーのトリガー「Timer 3sec」を作る
 <img src="//res.cloudinary.com/mak00s/f_auto,w_auto:200:800/gtm-trigger-timer" alt="" sizes="100vw" />
-6. データレイヤー変数「DL - timerEventNumber」を作る
-7. データレイヤー変数「DL - timerInterval」を作る
+6. データレイヤー変数「DL - timerEventNumber」を作る（データレイヤーの変数名は「gtm.timerEventNumber」）
+7. データレイヤー変数「DL - timerInterval」を作る（データレイヤーの変数名は「gtm.timerInterval」）
 8. カスタムJS変数「Time on Page」を作る
 ```
 function() {
@@ -70,6 +70,8 @@ function() {
 <img src="//res.cloudinary.com/mak00s/f_auto,w_auto:200:800/gtm-tag-beforeunload" alt="" sizes="100vw" />
 - ページ離脱後でもバックグラウンドでビーコンが送信されるようtransportをbeaconにしておくと良い
 - イベント、カテゴリ、アクションのどこに何を入れるかはお好みで（計測中の他のデータと形式を合わせる）
+
+2019年4月23日：データレイヤー変数自体の名前と設定画面中の「データレイヤー変数の名前」は別物です。後者で指定すべき文字列について追記しました。
 
 ### 参考
 - [#GTMTips: Fire Trigger When User Is About To Leave The Page](https://www.simoahava.com/analytics/fire-trigger-when-user-about-to-leave-page/) - Simo Ahava's blog
