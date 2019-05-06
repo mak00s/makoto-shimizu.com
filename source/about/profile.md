@@ -6,7 +6,7 @@ comments: false
 
 [![](/images/makoto-shimizu-interview-by-loftwork.png)](https://www.opencu.com/2010/04/shimzumakoto1/)
 
-Webビジネス歴23年。UXとIAの分野を開拓後、楽天やWebCrewなどの事業会社においてIT・UX・アナリティクス活用による改革を推進。2011年に渡米し、Adobe Analytics（SiteCatalyst）の企画・開発・啓蒙に携わる。2014年に帰国し独立。コンセプトダイアグラム提唱者。
+Webビジネス歴24年。UXとIAの分野を開拓後、楽天やWebCrewなどの事業会社においてIT・UX・アナリティクス活用による社内デジタルトランスフォーメーションを推進。2011年に渡米し、プロダクトマネージャーとしてAdobe Analytics（SiteCatalyst）の企画・開発・啓蒙に携わる。2014年に帰国し独立。データを活用した顧客理解とUX構築を普及すべく、コンセプトダイアグラムとカスタマーアナリティクスを提唱・啓蒙している。
 執筆・セミナー多数。2008年文部科学省アドバイザー委員。2014年Web人賞受賞。
 
 * 電通アイソバー株式会社 [Chief Analytics Officer](https://www.dentsuisobar.com/news/2013-0515/) (CAO)
