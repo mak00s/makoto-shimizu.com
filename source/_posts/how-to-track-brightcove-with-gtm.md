@@ -1,6 +1,6 @@
 ---
 title: Brightcoveの動画をGTMとGoogleアナリティクスで計測する方法(2019年版)
-date: 2019-07-04 09:00:00
+date: 2019-07-04 07:00:00
 tags:
   - Google Analytics
   - GTM
