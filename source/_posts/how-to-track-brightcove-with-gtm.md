@@ -1,11 +1,10 @@
 ---
-title: Brightcove動画の再生完了をGTMとGAで簡単に計測する方法 (2019年版)
+title: Brightcove動画を顧客視点で実装・分析する方法：GTM&GA編 (2019年版)
 date: 2019-07-04 07:00:00
 tags:
   - Google Analytics
   - GTM
 thumbnailImage: //res.cloudinary.com/mak00s/f_auto,w_auto:200:800/brightcove-gtm-ga
-ogp_image: //res.cloudinary.com/mak00s/f_auto,w_auto:200:800/brightcove-gtm-ga
 ---
 企業で採用されることが多いBrightcove動画。動画ごとの再生回数や完了はBrightcoveの管理画面でも調べられますが、Google AnalyticsやAdobe Analyticsなどのサイト内の行動データと統合すると、顧客体験を点ではなく線で理解できるようになります。
 
@@ -16,12 +15,12 @@ ogp_image: //res.cloudinary.com/mak00s/f_auto,w_auto:200:800/brightcove-gtm-ga
 - ニーズや意識を広げる系の動画によって、興味関心や検討対象の商品ジャンルは広がるのか？
 - 手厚いサポート系の動画はNPSに影響を与えるのか？
 
-Brightcoveの計測をGAやAAで実装する機会は数年おきに何度もあるのですが、YouTubeと違ってBrightcoveの情報は少なく、公式サイトも散らかっていて日本語が変（ネイティブのレビューをしていない機械翻訳？）なので、メモを残しておきます。
+そのためには、まず動画視聴行動（再生開始と再生完了）をアナリティクスで計測する実装が必要です。YouTubeと違ってBrightcoveの情報は少なく、公式サイトも散らかっていて日本語が変（ネイティブのレビューをしていない機械翻訳？）なので、メモを残しておきます。
 <!-- more -->
 
 ## 前提となるBrightcoveの実装方法
 
-Brightcoveの動画が以下のような形式でページに埋め込まれていて、そのページにはすでにGTMとGAが導入されているとします。
+Brightcoveの動画は、以下のような形式でページに埋め込まれていて、そのページにはすでにGTMとGAが導入されていると想定します。
 
 ```html
 <video
@@ -41,7 +40,7 @@ Google Tag Managerの標準機能であるYouTube計測機能を流用するこ�
 以下で紹介するのはBrightcoveのGAプラグインを使わない方法です。Brightcoveのアカウントがなくても計測開始できます。
 {% endalert %}
 
-### タグを作る
+### GTMのタグを作る
 
 まず、埋め込まれた一つまたは複数の動画にイベント処理を仕込むため、
 以下のコードをGTMのHTMLタグとして作成します。
@@ -76,20 +75,20 @@ for (var i in videojs.getPlayers()){
 BrightcoveのJavaScriptライブラリ（videojs）がロードされていないとエラーになるので、このタグはBrightcoveの動画が存在するページでのみ発火させます（タイミングにも注意）
 {% endalert %}
 
-### 変数を有効化する
+### GTMの変数を有効化する
 
 このタグが送信するdataLayerを受け取るための組み込み変数「Video Status」と「Video Title」を有効にします。
 
 <img src="//res.cloudinary.com/mak00s/f_auto,w_auto:200:800/gtm-brightcove-var" alt="" sizes="100vw" />
 
-### トリガーを作る
+### GTMのトリガーを作る
 dataLayerへpushされるeventを受け取るためのトリガーを作成します。
 
 <img src="//res.cloudinary.com/mak00s/f_auto,w_auto:200:800/gtm-brightcove-trigger" alt="" sizes="100vw" />
 
 - YouTubeの動画計測機能を流用するので、トリガータイプは「YouTube動画」
 
-### タグを作る
+### GTMのタグを作る
 続いて、上記のトリガーで発火するGA計測用のタグを作ります。
 
 <img src="//res.cloudinary.com/mak00s/f_auto,w_auto:200:800/gtm-brightcove-tag" alt="" sizes="100vw" />
@@ -105,7 +104,12 @@ GAのイベント計測だけだと「どの動画が何回再生開始や完了
 <img src="//res.cloudinary.com/mak00s/f_auto,w_auto:200:800/gtm-brightcove-ga-goal" alt="" sizes="100vw" />
 
 この設定によって再生完了を指標として使えるようになるので、冒頭のような顧客の長期的な変化を把握できるカスタマーアナリティクス流のレポートを作れるようになります。
+
 <img src="//res.cloudinary.com/mak00s/f_auto,w_auto:200:800/gtm-brightcove-report" alt="" sizes="100vw" />
+
+- ランディングページや流入チャネルなど、ページを超えて持続するディメンションをディメンションに入れる
+- 「◯◯な人」「◯◯したことがある人」など、セッションではなくユーザーレベルのセグメントを作成し、それらのセグメントをディメンションに入れると長期の顧客の変化を比較できる
+- カレンダーの期間は長めに（動画の視聴によって訪問者の心理や行動の変化はどれくらいの期間で持続するのか次第）
 
 ## 今回のポイント
 - BrightcoveのAPIを使って動画タイトルや再生開始、再生完了のタイミングを取得する
@@ -113,4 +117,4 @@ GAのイベント計測だけだと「どの動画が何回再生開始や完了
 - タグマネージャーの標準機能を使ってなるべく楽をする
 - レポートはカスタマー視点で作る
 
-必要に応じてカスタマイズや応用してみてください。
+要件に応じて応用してみてください！
