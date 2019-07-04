@@ -8,6 +8,8 @@ thumbnailImage: //res.cloudinary.com/mak00s/f_auto,w_auto:200:800/brightcove-gtm
 ---
 企業で採用されることが多いBrightcove動画。動画ごとの再生回数や完了はBrightcoveの管理画面でも調べられますが、Google AnalyticsやAdobe Analyticsなどのサイト内の行動データと統合すると、顧客体験を点ではなく線で理解できるようになります。
 
+<img src="//res.cloudinary.com/mak00s/f_auto,w_auto:200:800/gtm-brightcove-report" alt="" sizes="100vw" />
+
 - どの広告からの訪問者がコンテンツや動画の消費につながるのか？
 - 動画の閲覧体験はサイトへの定着に寄与するのか？
 - ニーズや意識を広げる系の動画によって、興味関心や検討対象の商品ジャンルは広がるのか？
@@ -101,7 +103,7 @@ GAのイベント計測だけだと「どの動画が何回再生開始や完了
 
 <img src="//res.cloudinary.com/mak00s/f_auto,w_auto:200:800/gtm-brightcove-ga-goal" alt="" sizes="100vw" />
 
-この設定によって再生完了を指標として使えるようになるので、以下のように顧客の長期的な変化を把握できるカスタマーアナリティクス流のレポートを作れるようになります。
+この設定によって再生完了を指標として使えるようになるので、冒頭のような顧客の長期的な変化を把握できるカスタマーアナリティクス流のレポートを作れるようになります。
 <img src="//res.cloudinary.com/mak00s/f_auto,w_auto:200:800/gtm-brightcove-report" alt="" sizes="100vw" />
 
 ## 今回のポイント
