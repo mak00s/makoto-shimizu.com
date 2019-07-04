@@ -1,5 +1,5 @@
 ---
-title: Brightcoveの動画をGTMとGoogleアナリティクスで計測する方法(2019年版)
+title: Brightcove動画の再生完了をGTMとGAで簡単に計測する方法 (2019年版)
 date: 2019-07-04 07:00:00
 tags:
   - Google Analytics
@@ -18,7 +18,7 @@ Brightcoveの計測をGAやAAで実装する機会は数年おきに何度もあ
 
 ## 前提となるBrightcoveの実装方法
 
-Brightcoveの動画が以下のように埋め込まれているとします。
+Brightcoveの動画が以下のような形式でページに埋め込まれていて、そのページにはすでにGTMとGAが導入されているとします。
 
 ```html
 <video
@@ -33,6 +33,10 @@ Brightcoveの動画が以下のように埋め込まれているとします。
 
 ## GTMで計測を実装する
 Google Tag Managerの標準機能であるYouTube計測機能を流用することで、最低限の手間とコードで実装するという方針で進めます。
+
+{% alert info %}
+以下で紹介するのはBrightcoveのGAプラグインを使わない方法です。Brightcoveのアカウントがなくても計測開始できます。
+{% endalert %}
 
 ### タグを作る
 
@@ -60,7 +64,7 @@ for (var i in videojs.getPlayers()){
 </script>
 ```
 
-- 同じページ内に複数の動画がある場合に対応済み
+- 同じページ内に複数の動画がある場合でも対応可能
 - 再生開始と再生完了のみ計測
 - 動画IDは内容を把握しにくいので動画タイトルを取得
 - ページのHTMLが完成してから実行したいので、トリガーはDOM Ready以降で
