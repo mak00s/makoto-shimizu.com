@@ -4,7 +4,8 @@ date: 2019-07-04 07:00:00
 tags:
   - Google Analytics
   - GTM
-coverImage: //res.cloudinary.com/mak00s/f_auto,w_auto:200:800/brightcove-gtm-ga
+thumbnailImage: //res.cloudinary.com/mak00s/f_auto,w_auto:200:800/brightcove-gtm-ga
+ogp_image: //res.cloudinary.com/mak00s/f_auto,w_auto:200:800/brightcove-gtm-ga
 ---
 企業で採用されることが多いBrightcove動画。動画ごとの再生回数や完了はBrightcoveの管理画面でも調べられますが、Google AnalyticsやAdobe Analyticsなどのサイト内の行動データと統合すると、顧客体験を点ではなく線で理解できるようになります。
 
