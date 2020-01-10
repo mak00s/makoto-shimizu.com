@@ -52,7 +52,7 @@
     "@fancyapps/fancybox": "3.5.2",
     "font-awesome": "4.7.0",
     "hexo-util": "0.6.3",
-    "jquery": "^3.3.1",
+    "jquery": "^3.4.0",
     "jsdom": "12.2.0",
     "strip-indent": "2.0.0"
   },
