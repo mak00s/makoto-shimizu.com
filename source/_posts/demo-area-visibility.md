@@ -17,6 +17,7 @@ LPのような長いページの場合、表示回数（PV）よりも、どこ�
 
 ## DEMO
 
+{% alert success %}
 ### セクション1
 <div data-track-name="Section 1" data-track-trigger="view3sec">
 GTMで、この文章が含まれるセクション1の表示を計測するためには、idの値「sec1」をスクロール判定条件として指定するのが安直な設定方法ですが、
@@ -40,7 +41,9 @@ data-track-trigger="view3sec"
 
 応用例として、「click」や「hover」なども条件として考えられますね。
 </div>
+{% endalert %}
 
+{% alert success %}
 ### セクション2
 <div data-track-name="Section 2" data-track-trigger="view3sec">
 これらの値を読み取ってGA計測するために、GTMの設定を行います。
@@ -58,7 +61,9 @@ data-track-trigger="view3sec"
 
 1秒、5秒、などエリアによって表示時間を変えたい場合は、同じようにトリガーを作成します。
 </div>
+{% endalert %}
 
+{% alert success %}
 ### セクション3
 <div data-track-name="Section 3" data-track-trigger="view3sec">
 次に、表示されたエリアの名前を取得するために、GTMの変数を一つ作成します。
@@ -72,7 +77,9 @@ gtm.elementはGTM標準のデータレイヤー変数で、計測対象の要素
 
 参考：[データ属性の使用](https://developer.mozilla.org/ja/docs/Learn/HTML/Howto/Use_data_attributes) - MDN Web Docs
 </div>
+{% endalert %}
 
+{% alert success %}
 ### セクション4
 <div data-track-name="Section 4" data-track-trigger="view3sec">
 最後に、セクション2で作成したトリガーを使ったGAのタグを作成します。
@@ -83,7 +90,10 @@ Event Actionには「3秒表示」などのアクションを。
 
 Event Labelには、先ほど作成した変数を指定します。
 </div>
+{% endalert %}
 
 GTMの設定は以上でおしまいです。今後は、ページに属性を追加するだけで、要素の表示をGoogle Analyticsで計測できるようになりました。GTMを毎回編集する必要はありません。
 
-なお、今回は説明のために実装をシンプルにしましたが、「何秒間」という秒数の条件もdata-track-durationなどの属性でセクションごとに指定しても良いですし、＋３点、＋５点、とスコアリングの加点を指定したり、GAのカスタム指標の番号を指定するなど、いろいろな応用が可能です。
+{% alert warning %}
+今回は説明のために実装をシンプルにしましたが、「何秒間」という秒数の条件もdata-track-durationなどの属性でセクションごとに指定しても良いですし、＋３点、＋５点、とスコアリングの加点を指定したり、GAのカスタム指標の番号を指定するなど、いろいろな応用が可能です。
+{% endalert %}
