@@ -37,7 +37,7 @@ data-track-trigger="view3sec"
 </div>
 
 ### セクション2
-<div id="sec2">
+<div id="sec2" data-track-name="sec1" data-track-trigger="view3sec">
 ではGTMで実装してみましょう。
 まず、トリガーを作ります。
 トリガーのタイプは「要素の表示」、
@@ -55,6 +55,6 @@ data-track-trigger="view3sec"
 </div>
 
 ### セクション3
-<div id="sec3">
+<div id="sec3" data-track-name="sec1" data-track-trigger="view3sec">
 次に、セクション2で作成したトリガーを使ったGAのタグを作成します。
 </div>
