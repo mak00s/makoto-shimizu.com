@@ -122,4 +122,4 @@ JavaScriptが動かないような特殊な環境ではほとんどのタグは�
 慣れると１時間で終わります。
 NetlifyやGitHubが初めてで、ドメインも新規に取得する場合は、半日くらいでしょうか。
 
-次回はサーバーサイドのGTMとGoogle Analyticsを最新方式でスマートに導入します。
+次回は[サーバーサイドのGTMとGoogle Analyticsを最新方式でスマートに導入](/news/fast-cms/02-server-side-gtm/)します。
