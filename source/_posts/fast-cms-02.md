@@ -7,7 +7,7 @@ categories:
 tags:
   - GTM
   - Google Analytics
-thumbnailImage: //res.cloudinary.com/mak00s/f_auto,w_auto:200:800/netlify-gatsby-cms-2.png
+thumbnailImage: //res.cloudinary.com/mak00s/f_auto,w_auto:200:800/gtm-server-gtag-flow.png
 ---
 
 最新機能をフル活用して、**セキュアで爆速**、**SEOも最高**のサイトを（ほぼ無料で）実現するのがこの連載の目的です。前回は[GatsybyとNetlifyを使って爆速サイトを２時間で構築](/news/fast-cms/01-launch-gatsby-on-netlify/)しました。今回は、新しい**サーバーサイドGTM**の機能を使ってセキュアかつ負荷を下げる形で2種類のGAを導入し、さらにプライバシー保護と**iTP対応のためCookie管理を改善**します。
