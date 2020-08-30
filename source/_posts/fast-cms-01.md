@@ -64,7 +64,7 @@ GoogleもFirebaseをベースとした**Google Analyticsの新しいバージョ
 
 **ホスティング**は、レガシーなレンタルサーバーをやめて最先端でホットな[Netlify](https://www.netlify.com/)に移行。使っていくうちに進化していくので、Webの将来が垣間見えて「その手があった！」と感動することもしばしば。運用管理も劇的に楽です。
 
-**コンテンツの格納**という意味でのCMSは、Githubを選びました。チームでの同時作業やバージョン管理ができます。
+**コンテンツの格納**という意味でのCMSは、GitHubを選びました。チームでの同時作業やバージョン管理ができます。
 
 **コンテンツ編集**はNetlify CMSを使い、**マークダウン形式**で記述することで**構造化されたクリーンなHTMLを実現**します。無制限で自由すぎるHTML形式はパフォーマンス低下の原因になるので禁止。
 
@@ -76,7 +76,7 @@ GoogleもFirebaseをベースとした**Google Analyticsの新しいバージョ
 
 Netlify+Gatsby+Cloudinaryの組み合わせの場合、[Netlifyが提供するテンプレ](https://github.com/netlify-templates/gatsby-starter-netlify-cms)を使うと、１クリックでインストールできます。
 
-「**Deploy to netlify**」ボタンをクリックし、Githubのリポジトリ名を変更して「**Save and deploy**」ボタンをクリック。
+「**Deploy to netlify**」ボタンをクリックし、GitHubのリポジトリ名を変更して「**Save and deploy**」ボタンをクリック。
 
 <img src="//res.cloudinary.com/mak00s/f_auto,w_auto:200:800/netlify-gatsby-deploy-1.png" alt="" sizes="100vw" />
 
@@ -110,12 +110,13 @@ SPAなので、最初のページを開いた時点で他のページのコン�
 本番サイトはそのままで作業を進めてから切り替えたいので、仮のドメイン「netlify.concept-diagram.com」を指定しました。いずれ必要になるので、ついでに**IPv6**も有効化。
 NetlifyのDNSサーバーを使う場合は、Let's Encryptの**無料SSL証明書も自動でインストール**されます。
 
-**Build & Deploy＞Snippet injectionでGTMタグを挿入**
+**Build & Deploy＞Snippet injectionでGA v2のタグを挿入**
 
-Netlifyは**デプロイ（本番リリース）時に自動でタグを入れてくれる**ので、HTMLにタグを入れる必要はありません。
-場所はbodyではなくheadを選び、GTMのタグを入れます。
+サイトをなるべく軽くしたいのと、タグマネはサーバーサイドGTMのみで頑張りたいので、GA v2はgtag.jsを直書きで導入します。
 
-JavaScriptが動かないような特殊な環境ではほとんどのタグは正常動作しないので、GTMのnoscriptの方のタグは省略。
+Netlifyの場合**デプロイ（本番リリース）時に全ページへ自動でタグを入れてくれる**ので、HTMLにタグを入れる必要はありません。
+場所はbodyではなくheadを選び、gtag.jsのタグを入れます。
+
 
 ### ここまでで約２時間
 

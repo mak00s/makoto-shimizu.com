@@ -10,10 +10,10 @@ tags:
 thumbnailImage: //res.cloudinary.com/mak00s/f_auto,w_auto:200:800/gtm-server-gtag-flow.png
 ---
 
-最新機能をフル活用して、**セキュアで爆速**、**SEOも最高**のサイトを（ほぼ無料で）実現するのがこの連載の目的です。前回は[GatsybyとNetlifyを使って爆速サイトを２時間で構築](/news/fast-cms/01-launch-gatsby-on-netlify/)しました。今回は、新しい**サーバーサイドGTM**の機能を使ってセキュアかつ負荷を下げる形で2種類のGAを導入し、さらにプライバシー保護と**iTP対応のためCookie管理を改善**します。
+最新機能をフル活用して、**セキュアで爆速**、**SEOも最高**のサイトを（ほぼ無料で）実現するのがこの連載の目的です。前回は[GatsbyとNetlifyを使って爆速サイトを２時間で構築](/news/fast-cms/01-launch-gatsby-on-netlify/)しました。今回は、新しい**サーバーサイドGTM**の機能を使ってセキュアかつ負荷を下げる形で2種類のGAを導入し、さらにプライバシー保護と**iTP対応のためCookie管理を改善**します。
+<!-- more -->
 
 実はこの記事を早く書きたかったんですが「**爆速セキュアサイトを構築したいという前提**」がないとサーバーサイドGTMは意味がないので、先に[その1](/news/fast-cms/01-launch-gatsby-on-netlify/)を書きました。
-<!-- more -->
 
 ## Day 2：サーバーサイドGTMでiTPに対応
 
