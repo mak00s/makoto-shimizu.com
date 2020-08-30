@@ -1,6 +1,6 @@
 ---
 title: 爆速サイト構築に挑戦 その2.サーバーサイドGTM
-date: 2020-08-30 13:10:00
+date: 2020-08-30 14:00:00
 permalink: fast-cms/02-server-side-gtm
 categories:
   - ヘッドレスCMSで爆速サイト構築
