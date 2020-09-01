@@ -1,5 +1,5 @@
 ---
-title: 爆速サイト構築に挑戦 その2.サーバーサイドGTM
+title: 爆速サイト構築に挑戦２.サーバーサイドGTMでiTP対応
 date: 2020-08-31 09:25:00
 permalink: fast-cms/02-server-side-gtm
 categories:
@@ -10,10 +10,10 @@ tags:
 thumbnailImage: //res.cloudinary.com/mak00s/f_auto,w_auto:200:800/gtm-server-gtag-flow.png
 ---
 
-最新機能をフル活用して、**セキュアで爆速**、**SEOも最高**のサイトを（ほぼ無料で）実現するのがこの連載の目的です。前回は[GatsbyとNetlifyを使って爆速サイトを２時間で構築](/news/fast-cms/01-launch-gatsby-on-netlify/)しました。今回は、新しい**サーバーサイドGTM**の機能を使ってセキュアかつ負荷を下げる形で2種類のGAを導入し、さらにプライバシー保護と**iTP対応のためCookie管理を改善**します。
+最新の思想・機能・ツールをフル活用して**セキュアで爆速**、**SEOも最高**のサイトを（ほぼ無料で）実現するのがこの連載の目的です。前回は[GatsbyとNetlifyを使って爆速サイトを２時間で構築](/news/fast-cms/01-launch-gatsby-on-netlify/)しました。今回は、新しい**サーバーサイドGTM**を導入してセキュアかつ負荷を下げる形で2種類のGAを導入し、さらにプライバシー保護と**iTP対応のためCookie管理を改善**する方法と結果を紹介します。
 <!-- more -->
 
-実はこの記事を早く書きたかったんですが「**爆速セキュアサイトを構築したいという前提**」がないとサーバーサイドGTMは意味がないので、先に[その1](/news/fast-cms/01-launch-gatsby-on-netlify/)を書きました。
+サーバーサイドGTMは「**爆速セキュアサイトを構築したい**」という前提がないと意味がないので、未読の方は[その1](/news/fast-cms/01-launch-gatsby-on-netlify/)も読んでみてください。
 
 ## Day 2：サーバーサイドGTMでiTPに対応
 

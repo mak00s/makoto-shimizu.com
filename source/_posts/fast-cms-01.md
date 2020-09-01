@@ -1,5 +1,5 @@
 ---
-title: 爆速サイト構築に挑戦 その1.ヘッドレスCMS
+title: 爆速サイト構築に挑戦１.ヘッドレスCMSを導入
 date: 2020-08-28 15:30:00
 permalink: fast-cms/01-launch-gatsby-on-netlify
 categories:
