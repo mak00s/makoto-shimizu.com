@@ -14,7 +14,7 @@ thumbnailImage: //res.cloudinary.com/mak00s/f_auto,w_auto:200:800/demo-product-s
 
 ## DEMO
 
-サンプルサイトの[この商品詳細ページ](https://store.concept-diagram.com/ec/html/products/detail/1)を開いて、以下のいずれかの検討アクションを行うと、それぞれ点数が加算されていきます。
+サンプルサイトの[この商品詳細ページ](https://store.concept-diagram.com/products/detail/3)を開いて、以下のいずれかの検討アクションを行うと、それぞれ点数が加算されていきます。
 <img src="//res.cloudinary.com/mak00s/f_auto,w_auto:200:800/demo-product-scoring-page.png" alt="" sizes="100vw" />
 
 - 写真の切り替え
