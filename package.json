@@ -7,7 +7,7 @@
   },
   "dependencies": {
     "fill-range": "^7.0.1",
-    "hawk": "^7.0.10",
+    "hawk": "^9.0.1",
     "hexo": "^4.2.1",
     "hexo-algoliasearch": "^0.4.2",
     "hexo-generator-archive": "^1.0.0",
